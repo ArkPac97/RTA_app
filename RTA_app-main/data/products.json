@@ -9,7 +9,10 @@
       "rate": 1.6,
       "count": 1857
     },
-    "available": false
+    "available": false,
+    "cost_price": 40.11,
+    "discount": 3.83,
+    "stock_level": 15
   },
   {
     "id": 2,
@@ -21,7 +24,10 @@
       "rate": 4.5,
       "count": 1177
     },
-    "available": true
+    "available": true,
+    "cost_price": 25.7,
+    "discount": 12.62,
+    "stock_level": 51
   },
   {
     "id": 3,
@@ -33,7 +39,10 @@
       "rate": 3.6,
       "count": 4136
     },
-    "available": false
+    "available": false,
+    "cost_price": 260.93,
+    "discount": 34.58,
+    "stock_level": 61
   },
   {
     "id": 4,
@@ -45,7 +54,10 @@
       "rate": 4.1,
       "count": 2076
     },
-    "available": true
+    "available": true,
+    "cost_price": 418.5,
+    "discount": 1.23,
+    "stock_level": 99
   },
   {
     "id": 5,
@@ -57,7 +69,10 @@
       "rate": 3.1,
       "count": 2577
     },
-    "available": true
+    "available": true,
+    "cost_price": 2.46,
+    "discount": 4.32,
+    "stock_level": 93
   },
   {
     "id": 6,
@@ -69,7 +84,10 @@
       "rate": 2.6,
       "count": 4967
     },
-    "available": true
+    "available": true,
+    "cost_price": 134.0,
+    "discount": 50.3,
+    "stock_level": 1
   },
   {
     "id": 7,
@@ -81,7 +99,10 @@
       "rate": 1.5,
       "count": 4772
     },
-    "available": true
+    "available": true,
+    "cost_price": 107.89,
+    "discount": 93.02,
+    "stock_level": 19
   },
   {
     "id": 8,
@@ -93,7 +114,10 @@
       "rate": 1.3,
       "count": 4797
     },
-    "available": true
+    "available": true,
+    "cost_price": 47.66,
+    "discount": 20.31,
+    "stock_level": 12
   },
   {
     "id": 9,
@@ -105,7 +129,10 @@
       "rate": 1.1,
       "count": 1775
     },
-    "available": true
+    "available": true,
+    "cost_price": 619.64,
+    "discount": 21.12,
+    "stock_level": 71
   },
   {
     "id": 10,
@@ -117,7 +144,10 @@
       "rate": 4.0,
       "count": 3640
     },
-    "available": true
+    "available": true,
+    "cost_price": 950.71,
+    "discount": 12.97,
+    "stock_level": 51
   },
   {
     "id": 11,
@@ -129,7 +159,10 @@
       "rate": 4.5,
       "count": 3318
     },
-    "available": false
+    "available": false,
+    "cost_price": 253.22,
+    "discount": 12.22,
+    "stock_level": 13
   },
   {
     "id": 12,
@@ -141,7 +174,10 @@
       "rate": 3.1,
       "count": 437
     },
-    "available": true
+    "available": true,
+    "cost_price": 211.45,
+    "discount": 37.42,
+    "stock_level": 4
   },
   {
     "id": 13,
@@ -153,7 +189,10 @@
       "rate": 3.2,
       "count": 51
     },
-    "available": true
+    "available": true,
+    "cost_price": 82.29,
+    "discount": 22.33,
+    "stock_level": 16
   },
   {
     "id": 14,
@@ -165,7 +204,10 @@
       "rate": 2.1,
       "count": 4341
     },
-    "available": false
+    "available": false,
+    "cost_price": 1.84,
+    "discount": 31.72,
+    "stock_level": 2
   },
   {
     "id": 15,
@@ -177,7 +219,10 @@
       "rate": 3.2,
       "count": 4190
     },
-    "available": true
+    "available": true,
+    "cost_price": 815.51,
+    "discount": 1.94,
+    "stock_level": 15
   },
   {
     "id": 16,
@@ -189,7 +234,10 @@
       "rate": 3.1,
       "count": 2701
     },
-    "available": true
+    "available": true,
+    "cost_price": 282.69,
+    "discount": 36.35,
+    "stock_level": 36
   },
   {
     "id": 17,
@@ -201,7 +249,10 @@
       "rate": 1.9,
       "count": 289
     },
-    "available": true
+    "available": true,
+    "cost_price": 346.2,
+    "discount": 34.88,
+    "stock_level": 25
   },
   {
     "id": 18,
@@ -213,7 +264,10 @@
       "rate": 2.4,
       "count": 2310
     },
-    "available": false
+    "available": false,
+    "cost_price": 2616.05,
+    "discount": 0.92,
+    "stock_level": 58
   },
   {
     "id": 19,
@@ -225,7 +279,10 @@
       "rate": 1.8,
       "count": 2814
     },
-    "available": true
+    "available": true,
+    "cost_price": 332.74,
+    "discount": 5.2,
+    "stock_level": 30
   },
   {
     "id": 20,
@@ -237,7 +294,10 @@
       "rate": 1.7,
       "count": 4453
     },
-    "available": true
+    "available": true,
+    "cost_price": 192.27,
+    "discount": 27.39,
+    "stock_level": 35
   },
   {
     "id": 21,
@@ -249,7 +309,10 @@
       "rate": 3.9,
       "count": 2156
     },
-    "available": false
+    "available": false,
+    "cost_price": 554.4,
+    "discount": 5.97,
+    "stock_level": 42
   },
   {
     "id": 22,
@@ -261,7 +324,10 @@
       "rate": 3.5,
       "count": 2038
     },
-    "available": false
+    "available": false,
+    "cost_price": 1983.42,
+    "discount": 33.29,
+    "stock_level": 54
   },
   {
     "id": 23,
@@ -273,7 +339,10 @@
       "rate": 3.9,
       "count": 3125
     },
-    "available": false
+    "available": false,
+    "cost_price": 54.41,
+    "discount": 31.46,
+    "stock_level": 2
   },
   {
     "id": 24,
@@ -285,7 +354,10 @@
       "rate": 3.2,
       "count": 1051
     },
-    "available": false
+    "available": false,
+    "cost_price": 286.27,
+    "discount": 73.24,
+    "stock_level": 74
   },
   {
     "id": 25,
@@ -297,7 +369,10 @@
       "rate": 3.0,
       "count": 3585
     },
-    "available": false
+    "available": false,
+    "cost_price": 1.64,
+    "discount": 16.37,
+    "stock_level": 31
   },
   {
     "id": 26,
@@ -309,7 +384,10 @@
       "rate": 4.3,
       "count": 753
     },
-    "available": true
+    "available": true,
+    "cost_price": 107.24,
+    "discount": 0.44,
+    "stock_level": 51
   },
   {
     "id": 27,
@@ -321,7 +399,10 @@
       "rate": 4.1,
       "count": 2503
     },
-    "available": true
+    "available": true,
+    "cost_price": 193.8,
+    "discount": 48.22,
+    "stock_level": 18
   },
   {
     "id": 28,
@@ -333,7 +414,10 @@
       "rate": 1.2,
       "count": 2160
     },
-    "available": true
+    "available": true,
+    "cost_price": 64.64,
+    "discount": 50.66,
+    "stock_level": 69
   },
   {
     "id": 29,
@@ -345,7 +429,10 @@
       "rate": 1.7,
       "count": 1661
     },
-    "available": true
+    "available": true,
+    "cost_price": 49.19,
+    "discount": 18.08,
+    "stock_level": 45
   },
   {
     "id": 30,
@@ -357,7 +444,10 @@
       "rate": 4.9,
       "count": 1787
     },
-    "available": false
+    "available": false,
+    "cost_price": 204.47,
+    "discount": 30.56,
+    "stock_level": 92
   },
   {
     "id": 31,
@@ -369,7 +459,10 @@
       "rate": 2.7,
       "count": 2948
     },
-    "available": false
+    "available": false,
+    "cost_price": 1996.84,
+    "discount": 11.7,
+    "stock_level": 87
   },
   {
     "id": 32,
@@ -381,7 +474,10 @@
       "rate": 2.5,
       "count": 4372
     },
-    "available": true
+    "available": true,
+    "cost_price": 32.74,
+    "discount": 32.94,
+    "stock_level": 14
   },
   {
     "id": 33,
@@ -393,7 +489,10 @@
       "rate": 3.4,
       "count": 4503
     },
-    "available": false
+    "available": false,
+    "cost_price": 306.68,
+    "discount": 34.88,
+    "stock_level": 55
   },
   {
     "id": 34,
@@ -405,7 +504,10 @@
       "rate": 1.3,
       "count": 1391
     },
-    "available": true
+    "available": true,
+    "cost_price": 81.27,
+    "discount": 13.62,
+    "stock_level": 59
   },
   {
     "id": 35,
@@ -417,7 +519,10 @@
       "rate": 1.1,
       "count": 3161
     },
-    "available": true
+    "available": true,
+    "cost_price": 772.04,
+    "discount": 27.97,
+    "stock_level": 20
   },
   {
     "id": 36,
@@ -429,7 +534,10 @@
       "rate": 1.8,
       "count": 3336
     },
-    "available": false
+    "available": false,
+    "cost_price": 159.18,
+    "discount": 49.93,
+    "stock_level": 90
   },
   {
     "id": 37,
@@ -441,7 +549,10 @@
       "rate": 3.3,
       "count": 2656
     },
-    "available": false
+    "available": false,
+    "cost_price": 92.94,
+    "discount": 7.94,
+    "stock_level": 91
   },
   {
     "id": 38,
@@ -453,7 +564,10 @@
       "rate": 3.2,
       "count": 888
     },
-    "available": false
+    "available": false,
+    "cost_price": 81.24,
+    "discount": 33.4,
+    "stock_level": 59
   },
   {
     "id": 39,
@@ -465,7 +579,10 @@
       "rate": 1.9,
       "count": 110
     },
-    "available": false
+    "available": false,
+    "cost_price": 9.1,
+    "discount": 31.51,
+    "stock_level": 28
   },
   {
     "id": 40,
@@ -477,7 +594,10 @@
       "rate": 3.5,
       "count": 3137
     },
-    "available": true
+    "available": true,
+    "cost_price": 207.51,
+    "discount": 5.18,
+    "stock_level": 11
   },
   {
     "id": 41,
@@ -489,7 +609,10 @@
       "rate": 3.5,
       "count": 96
     },
-    "available": true
+    "available": true,
+    "cost_price": 155.03,
+    "discount": 4.04,
+    "stock_level": 89
   },
   {
     "id": 42,
@@ -501,7 +624,10 @@
       "rate": 4.0,
       "count": 2836
     },
-    "available": true
+    "available": true,
+    "cost_price": 57.27,
+    "discount": 13.0,
+    "stock_level": 86
   },
   {
     "id": 43,
@@ -513,7 +639,10 @@
       "rate": 1.6,
       "count": 439
     },
-    "available": true
+    "available": true,
+    "cost_price": 97.37,
+    "discount": 29.54,
+    "stock_level": 10
   },
   {
     "id": 44,
@@ -525,7 +654,10 @@
       "rate": 2.0,
       "count": 1218
     },
-    "available": true
+    "available": true,
+    "cost_price": 1162.41,
+    "discount": 77.38,
+    "stock_level": 86
   },
   {
     "id": 45,
@@ -537,7 +669,10 @@
       "rate": 5.0,
       "count": 2379
     },
-    "available": true
+    "available": true,
+    "cost_price": 279.96,
+    "discount": 89.59,
+    "stock_level": 29
   },
   {
     "id": 46,
@@ -549,7 +684,10 @@
       "rate": 3.0,
       "count": 903
     },
-    "available": false
+    "available": false,
+    "cost_price": 216.78,
+    "discount": 25.13,
+    "stock_level": 94
   },
   {
     "id": 47,
@@ -561,7 +699,10 @@
       "rate": 3.7,
       "count": 2060
     },
-    "available": false
+    "available": false,
+    "cost_price": 179.47,
+    "discount": 22.11,
+    "stock_level": 16
   },
   {
     "id": 48,
@@ -573,7 +714,10 @@
       "rate": 1.4,
       "count": 439
     },
-    "available": false
+    "available": false,
+    "cost_price": 577.98,
+    "discount": 28.8,
+    "stock_level": 70
   },
   {
     "id": 49,
@@ -585,7 +729,10 @@
       "rate": 2.3,
       "count": 2038
     },
-    "available": true
+    "available": true,
+    "cost_price": 105.78,
+    "discount": 38.58,
+    "stock_level": 99
   },
   {
     "id": 50,
@@ -597,7 +744,10 @@
       "rate": 3.7,
       "count": 4115
     },
-    "available": true
+    "available": true,
+    "cost_price": 2324.44,
+    "discount": 30.08,
+    "stock_level": 99
   },
   {
     "id": 51,
@@ -609,7 +759,10 @@
       "rate": 2.3,
       "count": 1080
     },
-    "available": false
+    "available": false,
+    "cost_price": 192.79,
+    "discount": 35.07,
+    "stock_level": 75
   },
   {
     "id": 52,
@@ -621,7 +774,10 @@
       "rate": 2.1,
       "count": 1281
     },
-    "available": true
+    "available": true,
+    "cost_price": 97.52,
+    "discount": 15.14,
+    "stock_level": 95
   },
   {
     "id": 53,
@@ -633,7 +789,10 @@
       "rate": 2.0,
       "count": 1142
     },
-    "available": true
+    "available": true,
+    "cost_price": 223.82,
+    "discount": 3.57,
+    "stock_level": 20
   },
   {
     "id": 54,
@@ -645,7 +804,10 @@
       "rate": 4.4,
       "count": 3901
     },
-    "available": true
+    "available": true,
+    "cost_price": 734.14,
+    "discount": 20.92,
+    "stock_level": 73
   },
   {
     "id": 55,
@@ -657,7 +819,10 @@
       "rate": 2.3,
       "count": 3229
     },
-    "available": true
+    "available": true,
+    "cost_price": 408.32,
+    "discount": 37.49,
+    "stock_level": 31
   },
   {
     "id": 56,
@@ -669,7 +834,10 @@
       "rate": 1.4,
       "count": 126
     },
-    "available": false
+    "available": false,
+    "cost_price": 62.87,
+    "discount": 15.72,
+    "stock_level": 20
   },
   {
     "id": 57,
@@ -681,7 +849,10 @@
       "rate": 2.7,
       "count": 3940
     },
-    "available": false
+    "available": false,
+    "cost_price": 166.94,
+    "discount": 33.01,
+    "stock_level": 70
   },
   {
     "id": 58,
@@ -693,7 +864,10 @@
       "rate": 2.6,
       "count": 3129
     },
-    "available": true
+    "available": true,
+    "cost_price": 88.41,
+    "discount": 15.97,
+    "stock_level": 82
   },
   {
     "id": 59,
@@ -705,7 +879,10 @@
       "rate": 3.3,
       "count": 4420
     },
-    "available": true
+    "available": true,
+    "cost_price": 169.12,
+    "discount": 15.13,
+    "stock_level": 90
   },
   {
     "id": 60,
@@ -717,7 +894,10 @@
       "rate": 4.7,
       "count": 632
     },
-    "available": true
+    "available": true,
+    "cost_price": 996.92,
+    "discount": 28.67,
+    "stock_level": 84
   },
   {
     "id": 61,
@@ -729,7 +909,10 @@
       "rate": 3.5,
       "count": 3493
     },
-    "available": true
+    "available": true,
+    "cost_price": 803.17,
+    "discount": 22.09,
+    "stock_level": 67
   },
   {
     "id": 62,
@@ -741,7 +924,10 @@
       "rate": 3.7,
       "count": 578
     },
-    "available": false
+    "available": false,
+    "cost_price": 768.27,
+    "discount": 11.4,
+    "stock_level": 42
   },
   {
     "id": 63,
@@ -753,7 +939,10 @@
       "rate": 4.8,
       "count": 3473
     },
-    "available": true
+    "available": true,
+    "cost_price": 127.37,
+    "discount": 78.0,
+    "stock_level": 39
   },
   {
     "id": 64,
@@ -765,7 +954,10 @@
       "rate": 3.7,
       "count": 4484
     },
-    "available": false
+    "available": false,
+    "cost_price": 499.36,
+    "discount": 5.44,
+    "stock_level": 60
   },
   {
     "id": 65,
@@ -777,7 +969,10 @@
       "rate": 4.7,
       "count": 613
     },
-    "available": false
+    "available": false,
+    "cost_price": 323.4,
+    "discount": 27.09,
+    "stock_level": 60
   },
   {
     "id": 66,
@@ -789,7 +984,10 @@
       "rate": 2.5,
       "count": 643
     },
-    "available": true
+    "available": true,
+    "cost_price": 211.81,
+    "discount": 24.75,
+    "stock_level": 54
   },
   {
     "id": 67,
@@ -801,7 +999,10 @@
       "rate": 4.4,
       "count": 4766
     },
-    "available": false
+    "available": false,
+    "cost_price": 0.87,
+    "discount": 24.3,
+    "stock_level": 61
   },
   {
     "id": 68,
@@ -813,7 +1014,10 @@
       "rate": 2.0,
       "count": 2112
     },
-    "available": true
+    "available": true,
+    "cost_price": 381.09,
+    "discount": 7.13,
+    "stock_level": 7
   },
   {
     "id": 69,
@@ -825,7 +1029,10 @@
       "rate": 2.4,
       "count": 2852
     },
-    "available": false
+    "available": false,
+    "cost_price": 93.56,
+    "discount": 83.15,
+    "stock_level": 14
   },
   {
     "id": 70,
@@ -837,7 +1044,10 @@
       "rate": 3.8,
       "count": 772
     },
-    "available": false
+    "available": false,
+    "cost_price": 1156.7,
+    "discount": 5.7,
+    "stock_level": 39
   },
   {
     "id": 71,
@@ -849,7 +1059,10 @@
       "rate": 3.5,
       "count": 4206
     },
-    "available": true
+    "available": true,
+    "cost_price": 27.77,
+    "discount": 20.42,
+    "stock_level": 66
   },
   {
     "id": 72,
@@ -861,7 +1074,10 @@
       "rate": 4.4,
       "count": 2688
     },
-    "available": true
+    "available": true,
+    "cost_price": 145.76,
+    "discount": 89.87,
+    "stock_level": 11
   },
   {
     "id": 73,
@@ -873,7 +1089,10 @@
       "rate": 2.3,
       "count": 134
     },
-    "available": true
+    "available": true,
+    "cost_price": 550.96,
+    "discount": 34.82,
+    "stock_level": 78
   },
   {
     "id": 74,
@@ -885,7 +1104,10 @@
       "rate": 2.4,
       "count": 4228
     },
-    "available": true
+    "available": true,
+    "cost_price": 191.18,
+    "discount": 24.63,
+    "stock_level": 18
   },
   {
     "id": 75,
@@ -897,7 +1119,10 @@
       "rate": 4.7,
       "count": 2645
     },
-    "available": false
+    "available": false,
+    "cost_price": 40.65,
+    "discount": 31.52,
+    "stock_level": 14
   },
   {
     "id": 76,
@@ -909,7 +1134,10 @@
       "rate": 3.1,
       "count": 907
     },
-    "available": false
+    "available": false,
+    "cost_price": 38.15,
+    "discount": 36.82,
+    "stock_level": 80
   },
   {
     "id": 77,
@@ -921,7 +1149,10 @@
       "rate": 2.2,
       "count": 2826
     },
-    "available": true
+    "available": true,
+    "cost_price": 333.4,
+    "discount": 84.07,
+    "stock_level": 43
   },
   {
     "id": 78,
@@ -933,7 +1164,10 @@
       "rate": 4.6,
       "count": 22
     },
-    "available": true
+    "available": true,
+    "cost_price": 1389.3,
+    "discount": 7.85,
+    "stock_level": 57
   },
   {
     "id": 79,
@@ -945,7 +1179,10 @@
       "rate": 1.7,
       "count": 4620
     },
-    "available": false
+    "available": false,
+    "cost_price": 155.3,
+    "discount": 31.0,
+    "stock_level": 63
   },
   {
     "id": 80,
@@ -957,7 +1194,10 @@
       "rate": 3.2,
       "count": 3888
     },
-    "available": false
+    "available": false,
+    "cost_price": 924.77,
+    "discount": 2.67,
+    "stock_level": 19
   },
   {
     "id": 81,
@@ -969,7 +1209,10 @@
       "rate": 2.4,
       "count": 4787
     },
-    "available": true
+    "available": true,
+    "cost_price": 1936.94,
+    "discount": 14.46,
+    "stock_level": 95
   },
   {
     "id": 82,
@@ -981,7 +1224,10 @@
       "rate": 1.1,
       "count": 4943
     },
-    "available": true
+    "available": true,
+    "cost_price": 162.79,
+    "discount": 22.68,
+    "stock_level": 54
   },
   {
     "id": 83,
@@ -993,7 +1239,10 @@
       "rate": 3.3,
       "count": 63
     },
-    "available": false
+    "available": false,
+    "cost_price": 13.18,
+    "discount": 1.81,
+    "stock_level": 44
   },
   {
     "id": 84,
@@ -1005,7 +1254,10 @@
       "rate": 3.4,
       "count": 3982
     },
-    "available": true
+    "available": true,
+    "cost_price": 46.25,
+    "discount": 16.89,
+    "stock_level": 3
   },
   {
     "id": 85,
@@ -1017,7 +1269,10 @@
       "rate": 4.1,
       "count": 467
     },
-    "available": true
+    "available": true,
+    "cost_price": 129.82,
+    "discount": 27.38,
+    "stock_level": 89
   },
   {
     "id": 86,
@@ -1029,7 +1284,10 @@
       "rate": 4.5,
       "count": 208
     },
-    "available": true
+    "available": true,
+    "cost_price": 71.0,
+    "discount": 6.94,
+    "stock_level": 37
   },
   {
     "id": 87,
@@ -1041,7 +1299,10 @@
       "rate": 4.5,
       "count": 3649
     },
-    "available": false
+    "available": false,
+    "cost_price": 220.62,
+    "discount": 20.86,
+    "stock_level": 48
   },
   {
     "id": 88,
@@ -1053,7 +1314,10 @@
       "rate": 3.5,
       "count": 2256
     },
-    "available": true
+    "available": true,
+    "cost_price": 2.42,
+    "discount": 35.17,
+    "stock_level": 3
   },
   {
     "id": 89,
@@ -1065,7 +1329,10 @@
       "rate": 1.2,
       "count": 630
     },
-    "available": false
+    "available": false,
+    "cost_price": 29.83,
+    "discount": 34.95,
+    "stock_level": 33
   },
   {
     "id": 90,
@@ -1077,7 +1344,10 @@
       "rate": 1.8,
       "count": 959
     },
-    "available": true
+    "available": true,
+    "cost_price": 34.48,
+    "discount": 6.33,
+    "stock_level": 26
   },
   {
     "id": 91,
@@ -1089,7 +1359,10 @@
       "rate": 3.0,
       "count": 1246
     },
-    "available": true
+    "available": true,
+    "cost_price": 361.54,
+    "discount": 7.93,
+    "stock_level": 94
   },
   {
     "id": 92,
@@ -1101,7 +1374,10 @@
       "rate": 3.6,
       "count": 2388
     },
-    "available": true
+    "available": true,
+    "cost_price": 392.24,
+    "discount": 29.56,
+    "stock_level": 52
   },
   {
     "id": 93,
@@ -1113,7 +1389,10 @@
       "rate": 2.1,
       "count": 4081
     },
-    "available": false
+    "available": false,
+    "cost_price": 476.03,
+    "discount": 14.03,
+    "stock_level": 94
   },
   {
     "id": 94,
@@ -1125,7 +1404,10 @@
       "rate": 2.7,
       "count": 3271
     },
-    "available": false
+    "available": false,
+    "cost_price": 1127.5,
+    "discount": 7.32,
+    "stock_level": 16
   },
   {
     "id": 95,
@@ -1137,7 +1419,10 @@
       "rate": 3.6,
       "count": 232
     },
-    "available": true
+    "available": true,
+    "cost_price": 600.14,
+    "discount": 24.93,
+    "stock_level": 30
   },
   {
     "id": 96,
@@ -1149,7 +1434,10 @@
       "rate": 2.3,
       "count": 1205
     },
-    "available": true
+    "available": true,
+    "cost_price": 205.17,
+    "discount": 35.18,
+    "stock_level": 21
   },
   {
     "id": 97,
@@ -1161,7 +1449,10 @@
       "rate": 3.0,
       "count": 545
     },
-    "available": false
+    "available": false,
+    "cost_price": 264.8,
+    "discount": 7.97,
+    "stock_level": 34
   },
   {
     "id": 98,
@@ -1173,7 +1464,10 @@
       "rate": 4.5,
       "count": 2792
     },
-    "available": true
+    "available": true,
+    "cost_price": 314.29,
+    "discount": 11.46,
+    "stock_level": 90
   },
   {
     "id": 99,
@@ -1185,7 +1479,10 @@
       "rate": 3.7,
       "count": 962
     },
-    "available": false
+    "available": false,
+    "cost_price": 458.04,
+    "discount": 19.56,
+    "stock_level": 25
   },
   {
     "id": 100,
@@ -1197,7 +1494,10 @@
       "rate": 3.4,
       "count": 2994
     },
-    "available": true
+    "available": true,
+    "cost_price": 94.47,
+    "discount": 37.46,
+    "stock_level": 91
   },
   {
     "id": 101,
@@ -1209,7 +1509,10 @@
       "rate": 2.4,
       "count": 2752
     },
-    "available": false
+    "available": false,
+    "cost_price": 66.86,
+    "discount": 13.42,
+    "stock_level": 69
   },
   {
     "id": 102,
@@ -1221,7 +1524,10 @@
       "rate": 4.6,
       "count": 2060
     },
-    "available": false
+    "available": false,
+    "cost_price": 160.54,
+    "discount": 26.46,
+    "stock_level": 95
   },
   {
     "id": 103,
@@ -1233,7 +1539,10 @@
       "rate": 3.8,
       "count": 2470
     },
-    "available": true
+    "available": true,
+    "cost_price": 237.19,
+    "discount": 38.48,
+    "stock_level": 76
   },
   {
     "id": 104,
@@ -1245,7 +1554,10 @@
       "rate": 2.8,
       "count": 3334
     },
-    "available": true
+    "available": true,
+    "cost_price": 704.39,
+    "discount": 21.2,
+    "stock_level": 16
   },
   {
     "id": 105,
@@ -1257,7 +1569,10 @@
       "rate": 3.8,
       "count": 2556
     },
-    "available": false
+    "available": false,
+    "cost_price": 342.26,
+    "discount": 1.69,
+    "stock_level": 18
   },
   {
     "id": 106,
@@ -1269,7 +1584,10 @@
       "rate": 1.0,
       "count": 1288
     },
-    "available": false
+    "available": false,
+    "cost_price": 17.13,
+    "discount": 21.72,
+    "stock_level": 20
   },
   {
     "id": 107,
@@ -1281,7 +1599,10 @@
       "rate": 4.8,
       "count": 1047
     },
-    "available": false
+    "available": false,
+    "cost_price": 182.18,
+    "discount": 10.18,
+    "stock_level": 45
   },
   {
     "id": 108,
@@ -1293,7 +1614,10 @@
       "rate": 4.9,
       "count": 230
     },
-    "available": false
+    "available": false,
+    "cost_price": 505.34,
+    "discount": 6.64,
+    "stock_level": 29
   },
   {
     "id": 109,
@@ -1305,7 +1629,10 @@
       "rate": 2.5,
       "count": 988
     },
-    "available": true
+    "available": true,
+    "cost_price": 175.05,
+    "discount": 34.58,
+    "stock_level": 18
   },
   {
     "id": 110,
@@ -1317,7 +1644,10 @@
       "rate": 2.6,
       "count": 1820
     },
-    "available": true
+    "available": true,
+    "cost_price": 554.46,
+    "discount": 11.01,
+    "stock_level": 4
   },
   {
     "id": 111,
@@ -1329,7 +1659,10 @@
       "rate": 4.4,
       "count": 1064
     },
-    "available": true
+    "available": true,
+    "cost_price": 45.1,
+    "discount": 36.99,
+    "stock_level": 58
   },
   {
     "id": 112,
@@ -1341,7 +1674,10 @@
       "rate": 2.4,
       "count": 4396
     },
-    "available": true
+    "available": true,
+    "cost_price": 26.09,
+    "discount": 26.14,
+    "stock_level": 85
   },
   {
     "id": 113,
@@ -1353,7 +1689,10 @@
       "rate": 1.4,
       "count": 4553
     },
-    "available": false
+    "available": false,
+    "cost_price": 409.1,
+    "discount": 26.67,
+    "stock_level": 45
   },
   {
     "id": 114,
@@ -1365,7 +1704,10 @@
       "rate": 1.5,
       "count": 1799
     },
-    "available": false
+    "available": false,
+    "cost_price": 2298.49,
+    "discount": 25.21,
+    "stock_level": 37
   },
   {
     "id": 115,
@@ -1377,7 +1719,10 @@
       "rate": 3.2,
       "count": 2415
     },
-    "available": false
+    "available": false,
+    "cost_price": 81.62,
+    "discount": 30.28,
+    "stock_level": 62
   },
   {
     "id": 116,
@@ -1389,7 +1734,10 @@
       "rate": 1.4,
       "count": 4504
     },
-    "available": false
+    "available": false,
+    "cost_price": 891.95,
+    "discount": 16.8,
+    "stock_level": 91
   },
   {
     "id": 117,
@@ -1401,7 +1749,10 @@
       "rate": 1.3,
       "count": 3802
     },
-    "available": true
+    "available": true,
+    "cost_price": 514.65,
+    "discount": 6.32,
+    "stock_level": 39
   },
   {
     "id": 118,
@@ -1413,7 +1764,10 @@
       "rate": 1.7,
       "count": 4608
     },
-    "available": true
+    "available": true,
+    "cost_price": 1211.24,
+    "discount": 10.29,
+    "stock_level": 98
   },
   {
     "id": 119,
@@ -1425,7 +1779,10 @@
       "rate": 3.8,
       "count": 1495
     },
-    "available": true
+    "available": true,
+    "cost_price": 255.12,
+    "discount": 7.32,
+    "stock_level": 36
   },
   {
     "id": 120,
@@ -1437,7 +1794,10 @@
       "rate": 4.2,
       "count": 263
     },
-    "available": false
+    "available": false,
+    "cost_price": 597.82,
+    "discount": 23.36,
+    "stock_level": 95
   },
   {
     "id": 121,
@@ -1449,7 +1809,10 @@
       "rate": 3.9,
       "count": 4273
     },
-    "available": false
+    "available": false,
+    "cost_price": 337.59,
+    "discount": 15.81,
+    "stock_level": 2
   },
   {
     "id": 122,
@@ -1461,7 +1824,10 @@
       "rate": 4.8,
       "count": 715
     },
-    "available": true
+    "available": true,
+    "cost_price": 314.69,
+    "discount": 19.5,
+    "stock_level": 34
   },
   {
     "id": 123,
@@ -1473,7 +1839,10 @@
       "rate": 3.2,
       "count": 58
     },
-    "available": true
+    "available": true,
+    "cost_price": 782.81,
+    "discount": 86.37,
+    "stock_level": 43
   },
   {
     "id": 124,
@@ -1485,7 +1854,10 @@
       "rate": 2.3,
       "count": 3917
     },
-    "available": false
+    "available": false,
+    "cost_price": 71.25,
+    "discount": 4.69,
+    "stock_level": 67
   },
   {
     "id": 125,
@@ -1497,7 +1869,10 @@
       "rate": 3.3,
       "count": 4009
     },
-    "available": false
+    "available": false,
+    "cost_price": 119.99,
+    "discount": 16.18,
+    "stock_level": 39
   },
   {
     "id": 126,
@@ -1509,7 +1884,10 @@
       "rate": 2.1,
       "count": 2798
     },
-    "available": true
+    "available": true,
+    "cost_price": 271.4,
+    "discount": 21.51,
+    "stock_level": 54
   },
   {
     "id": 127,
@@ -1521,7 +1899,10 @@
       "rate": 1.5,
       "count": 2006
     },
-    "available": false
+    "available": false,
+    "cost_price": 58.11,
+    "discount": 7.92,
+    "stock_level": 83
   },
   {
     "id": 128,
@@ -1533,7 +1914,10 @@
       "rate": 3.7,
       "count": 2460
     },
-    "available": true
+    "available": true,
+    "cost_price": 45.64,
+    "discount": 29.3,
+    "stock_level": 27
   },
   {
     "id": 129,
@@ -1545,7 +1929,10 @@
       "rate": 3.2,
       "count": 1893
     },
-    "available": true
+    "available": true,
+    "cost_price": 246.9,
+    "discount": 28.91,
+    "stock_level": 91
   },
   {
     "id": 130,
@@ -1557,7 +1944,10 @@
       "rate": 2.6,
       "count": 4378
     },
-    "available": true
+    "available": true,
+    "cost_price": 642.62,
+    "discount": 8.72,
+    "stock_level": 84
   },
   {
     "id": 131,
@@ -1569,7 +1959,10 @@
       "rate": 1.6,
       "count": 1179
     },
-    "available": false
+    "available": false,
+    "cost_price": 105.91,
+    "discount": 6.64,
+    "stock_level": 97
   },
   {
     "id": 132,
@@ -1581,7 +1974,10 @@
       "rate": 1.6,
       "count": 2746
     },
-    "available": false
+    "available": false,
+    "cost_price": 818.5,
+    "discount": 6.72,
+    "stock_level": 43
   },
   {
     "id": 133,
@@ -1593,7 +1989,10 @@
       "rate": 2.9,
       "count": 3172
     },
-    "available": false
+    "available": false,
+    "cost_price": 159.16,
+    "discount": 33.23,
+    "stock_level": 90
   },
   {
     "id": 134,
@@ -1605,7 +2004,10 @@
       "rate": 1.6,
       "count": 2228
     },
-    "available": false
+    "available": false,
+    "cost_price": 180.67,
+    "discount": 47.92,
+    "stock_level": 28
   },
   {
     "id": 135,
@@ -1617,7 +2019,10 @@
       "rate": 3.7,
       "count": 3670
     },
-    "available": true
+    "available": true,
+    "cost_price": 74.06,
+    "discount": 17.63,
+    "stock_level": 24
   },
   {
     "id": 136,
@@ -1629,7 +2034,10 @@
       "rate": 4.2,
       "count": 3648
     },
-    "available": false
+    "available": false,
+    "cost_price": 1381.14,
+    "discount": 17.95,
+    "stock_level": 49
   },
   {
     "id": 137,
@@ -1641,7 +2049,10 @@
       "rate": 4.7,
       "count": 2724
     },
-    "available": false
+    "available": false,
+    "cost_price": 187.19,
+    "discount": 6.1,
+    "stock_level": 19
   },
   {
     "id": 138,
@@ -1653,7 +2064,10 @@
       "rate": 3.2,
       "count": 1973
     },
-    "available": true
+    "available": true,
+    "cost_price": 143.25,
+    "discount": 30.59,
+    "stock_level": 81
   },
   {
     "id": 139,
@@ -1665,7 +2079,10 @@
       "rate": 2.8,
       "count": 191
     },
-    "available": false
+    "available": false,
+    "cost_price": 127.68,
+    "discount": 26.03,
+    "stock_level": 83
   },
   {
     "id": 140,
@@ -1677,7 +2094,10 @@
       "rate": 1.2,
       "count": 1040
     },
-    "available": false
+    "available": false,
+    "cost_price": 98.84,
+    "discount": 17.45,
+    "stock_level": 37
   },
   {
     "id": 141,
@@ -1689,7 +2109,10 @@
       "rate": 2.4,
       "count": 993
     },
-    "available": true
+    "available": true,
+    "cost_price": 2994.23,
+    "discount": 30.69,
+    "stock_level": 86
   },
   {
     "id": 142,
@@ -1701,7 +2124,10 @@
       "rate": 2.5,
       "count": 352
     },
-    "available": true
+    "available": true,
+    "cost_price": 72.66,
+    "discount": 0.15,
+    "stock_level": 8
   },
   {
     "id": 143,
@@ -1713,7 +2139,10 @@
       "rate": 4.3,
       "count": 55
     },
-    "available": false
+    "available": false,
+    "cost_price": 310.92,
+    "discount": 34.62,
+    "stock_level": 12
   },
   {
     "id": 144,
@@ -1725,7 +2154,10 @@
       "rate": 3.0,
       "count": 1172
     },
-    "available": false
+    "available": false,
+    "cost_price": 45.2,
+    "discount": 1.06,
+    "stock_level": 66
   },
   {
     "id": 145,
@@ -1737,7 +2169,10 @@
       "rate": 2.6,
       "count": 1473
     },
-    "available": true
+    "available": true,
+    "cost_price": 196.35,
+    "discount": 2.74,
+    "stock_level": 27
   },
   {
     "id": 146,
@@ -1749,7 +2184,10 @@
       "rate": 4.4,
       "count": 3324
     },
-    "available": true
+    "available": true,
+    "cost_price": 190.35,
+    "discount": 19.21,
+    "stock_level": 40
   },
   {
     "id": 147,
@@ -1761,7 +2199,10 @@
       "rate": 3.2,
       "count": 721
     },
-    "available": false
+    "available": false,
+    "cost_price": 1990.41,
+    "discount": 9.17,
+    "stock_level": 40
   },
   {
     "id": 148,
@@ -1773,7 +2214,10 @@
       "rate": 3.1,
       "count": 1024
     },
-    "available": true
+    "available": true,
+    "cost_price": 58.76,
+    "discount": 36.93,
+    "stock_level": 98
   },
   {
     "id": 149,
@@ -1785,7 +2229,10 @@
       "rate": 1.2,
       "count": 202
     },
-    "available": true
+    "available": true,
+    "cost_price": 232.32,
+    "discount": 17.63,
+    "stock_level": 68
   },
   {
     "id": 150,
@@ -1797,7 +2244,10 @@
       "rate": 2.1,
       "count": 3719
     },
-    "available": false
+    "available": false,
+    "cost_price": 70.31,
+    "discount": 47.02,
+    "stock_level": 71
   },
   {
     "id": 151,
@@ -1809,7 +2259,10 @@
       "rate": 4.3,
       "count": 2526
     },
-    "available": false
+    "available": false,
+    "cost_price": 207.85,
+    "discount": 83.94,
+    "stock_level": 84
   },
   {
     "id": 152,
@@ -1821,7 +2274,10 @@
       "rate": 1.8,
       "count": 1176
     },
-    "available": true
+    "available": true,
+    "cost_price": 884.2,
+    "discount": 69.82,
+    "stock_level": 91
   },
   {
     "id": 153,
@@ -1833,7 +2289,10 @@
       "rate": 2.0,
       "count": 2222
     },
-    "available": true
+    "available": true,
+    "cost_price": 416.7,
+    "discount": 32.85,
+    "stock_level": 54
   },
   {
     "id": 154,
@@ -1845,7 +2304,10 @@
       "rate": 3.7,
       "count": 908
     },
-    "available": false
+    "available": false,
+    "cost_price": 907.74,
+    "discount": 10.55,
+    "stock_level": 79
   },
   {
     "id": 155,
@@ -1857,7 +2319,10 @@
       "rate": 2.9,
       "count": 1283
     },
-    "available": false
+    "available": false,
+    "cost_price": 3157.38,
+    "discount": 33.68,
+    "stock_level": 83
   },
   {
     "id": 156,
@@ -1869,7 +2334,10 @@
       "rate": 4.0,
       "count": 526
     },
-    "available": false
+    "available": false,
+    "cost_price": 43.29,
+    "discount": 14.51,
+    "stock_level": 87
   },
   {
     "id": 157,
@@ -1881,7 +2349,10 @@
       "rate": 4.1,
       "count": 1023
     },
-    "available": true
+    "available": true,
+    "cost_price": 3108.99,
+    "discount": 75.13,
+    "stock_level": 17
   },
   {
     "id": 158,
@@ -1893,7 +2364,10 @@
       "rate": 2.9,
       "count": 4449
     },
-    "available": false
+    "available": false,
+    "cost_price": 157.71,
+    "discount": 11.17,
+    "stock_level": 16
   },
   {
     "id": 159,
@@ -1905,7 +2379,10 @@
       "rate": 3.3,
       "count": 211
     },
-    "available": true
+    "available": true,
+    "cost_price": 25.19,
+    "discount": 3.35,
+    "stock_level": 46
   },
   {
     "id": 160,
@@ -1917,7 +2394,10 @@
       "rate": 2.1,
       "count": 4857
     },
-    "available": false
+    "available": false,
+    "cost_price": 175.59,
+    "discount": 35.25,
+    "stock_level": 12
   },
   {
     "id": 161,
@@ -1929,7 +2409,10 @@
       "rate": 3.6,
       "count": 3009
     },
-    "available": true
+    "available": true,
+    "cost_price": 2235.51,
+    "discount": 15.92,
+    "stock_level": 34
   },
   {
     "id": 162,
@@ -1941,7 +2424,10 @@
       "rate": 3.9,
       "count": 483
     },
-    "available": true
+    "available": true,
+    "cost_price": 979.48,
+    "discount": 14.43,
+    "stock_level": 76
   },
   {
     "id": 163,
@@ -1953,7 +2439,10 @@
       "rate": 4.5,
       "count": 1905
     },
-    "available": false
+    "available": false,
+    "cost_price": 71.87,
+    "discount": 32.14,
+    "stock_level": 0
   },
   {
     "id": 164,
@@ -1965,7 +2454,10 @@
       "rate": 5.0,
       "count": 3520
     },
-    "available": true
+    "available": true,
+    "cost_price": 695.02,
+    "discount": 1.76,
+    "stock_level": 16
   },
   {
     "id": 165,
@@ -1977,7 +2469,10 @@
       "rate": 2.7,
       "count": 1473
     },
-    "available": true
+    "available": true,
+    "cost_price": 116.62,
+    "discount": 32.79,
+    "stock_level": 73
   },
   {
     "id": 166,
@@ -1989,7 +2484,10 @@
       "rate": 3.1,
       "count": 3774
     },
-    "available": true
+    "available": true,
+    "cost_price": 158.23,
+    "discount": 20.53,
+    "stock_level": 34
   },
   {
     "id": 167,
@@ -2001,7 +2499,10 @@
       "rate": 2.5,
       "count": 3367
     },
-    "available": false
+    "available": false,
+    "cost_price": 74.06,
+    "discount": 20.35,
+    "stock_level": 69
   },
   {
     "id": 168,
@@ -2013,7 +2514,10 @@
       "rate": 1.5,
       "count": 2205
     },
-    "available": false
+    "available": false,
+    "cost_price": 728.72,
+    "discount": 14.46,
+    "stock_level": 46
   },
   {
     "id": 169,
@@ -2025,7 +2529,10 @@
       "rate": 4.8,
       "count": 3880
     },
-    "available": true
+    "available": true,
+    "cost_price": 114.39,
+    "discount": 12.49,
+    "stock_level": 45
   },
   {
     "id": 170,
@@ -2037,7 +2544,10 @@
       "rate": 3.9,
       "count": 2195
     },
-    "available": false
+    "available": false,
+    "cost_price": 77.73,
+    "discount": 28.34,
+    "stock_level": 72
   },
   {
     "id": 171,
@@ -2049,7 +2559,10 @@
       "rate": 2.1,
       "count": 840
     },
-    "available": true
+    "available": true,
+    "cost_price": 87.81,
+    "discount": 29.03,
+    "stock_level": 41
   },
   {
     "id": 172,
@@ -2061,7 +2574,10 @@
       "rate": 1.2,
       "count": 4306
     },
-    "available": true
+    "available": true,
+    "cost_price": 21.08,
+    "discount": 10.47,
+    "stock_level": 67
   },
   {
     "id": 173,
@@ -2073,7 +2589,10 @@
       "rate": 4.4,
       "count": 1900
     },
-    "available": true
+    "available": true,
+    "cost_price": 206.74,
+    "discount": 10.35,
+    "stock_level": 52
   },
   {
     "id": 174,
@@ -2085,7 +2604,10 @@
       "rate": 3.8,
       "count": 2237
     },
-    "available": true
+    "available": true,
+    "cost_price": 1586.01,
+    "discount": 7.15,
+    "stock_level": 36
   },
   {
     "id": 175,
@@ -2097,7 +2619,10 @@
       "rate": 3.6,
       "count": 2851
     },
-    "available": true
+    "available": true,
+    "cost_price": 1100.82,
+    "discount": 21.47,
+    "stock_level": 28
   },
   {
     "id": 176,
@@ -2109,7 +2634,10 @@
       "rate": 1.5,
       "count": 2771
     },
-    "available": true
+    "available": true,
+    "cost_price": 101.67,
+    "discount": 56.19,
+    "stock_level": 57
   },
   {
     "id": 177,
@@ -2121,7 +2649,10 @@
       "rate": 3.9,
       "count": 2814
     },
-    "available": true
+    "available": true,
+    "cost_price": 58.34,
+    "discount": 18.08,
+    "stock_level": 29
   },
   {
     "id": 178,
@@ -2133,7 +2664,10 @@
       "rate": 1.6,
       "count": 2486
     },
-    "available": true
+    "available": true,
+    "cost_price": 109.13,
+    "discount": 66.22,
+    "stock_level": 64
   },
   {
     "id": 179,
@@ -2145,7 +2679,10 @@
       "rate": 3.3,
       "count": 947
     },
-    "available": true
+    "available": true,
+    "cost_price": 789.21,
+    "discount": 39.82,
+    "stock_level": 66
   },
   {
     "id": 180,
@@ -2157,7 +2694,10 @@
       "rate": 4.1,
       "count": 2929
     },
-    "available": true
+    "available": true,
+    "cost_price": 98.36,
+    "discount": 7.92,
+    "stock_level": 55
   },
   {
     "id": 181,
@@ -2169,7 +2709,10 @@
       "rate": 3.6,
       "count": 4316
     },
-    "available": true
+    "available": true,
+    "cost_price": 338.15,
+    "discount": 11.52,
+    "stock_level": 34
   },
   {
     "id": 182,
@@ -2181,7 +2724,10 @@
       "rate": 2.0,
       "count": 2947
     },
-    "available": true
+    "available": true,
+    "cost_price": 18.79,
+    "discount": 3.7,
+    "stock_level": 57
   },
   {
     "id": 183,
@@ -2193,7 +2739,10 @@
       "rate": 2.5,
       "count": 3094
     },
-    "available": false
+    "available": false,
+    "cost_price": 2692.41,
+    "discount": 18.96,
+    "stock_level": 70
   },
   {
     "id": 184,
@@ -2205,7 +2754,10 @@
       "rate": 2.5,
       "count": 647
     },
-    "available": false
+    "available": false,
+    "cost_price": 609.77,
+    "discount": 2.57,
+    "stock_level": 52
   },
   {
     "id": 185,
@@ -2217,7 +2769,10 @@
       "rate": 4.3,
       "count": 4166
     },
-    "available": false
+    "available": false,
+    "cost_price": 44.8,
+    "discount": 32.17,
+    "stock_level": 69
   },
   {
     "id": 186,
@@ -2229,7 +2784,10 @@
       "rate": 1.1,
       "count": 2883
     },
-    "available": false
+    "available": false,
+    "cost_price": 53.75,
+    "discount": 26.58,
+    "stock_level": 70
   },
   {
     "id": 187,
@@ -2241,7 +2799,10 @@
       "rate": 4.2,
       "count": 377
     },
-    "available": true
+    "available": true,
+    "cost_price": 591.88,
+    "discount": 28.84,
+    "stock_level": 11
   },
   {
     "id": 188,
@@ -2253,7 +2814,10 @@
       "rate": 1.7,
       "count": 1287
     },
-    "available": false
+    "available": false,
+    "cost_price": 241.79,
+    "discount": 0.02,
+    "stock_level": 49
   },
   {
     "id": 189,
@@ -2265,7 +2829,10 @@
       "rate": 5.0,
       "count": 1268
     },
-    "available": false
+    "available": false,
+    "cost_price": 164.63,
+    "discount": 25.5,
+    "stock_level": 65
   },
   {
     "id": 190,
@@ -2277,7 +2844,10 @@
       "rate": 1.2,
       "count": 3299
     },
-    "available": false
+    "available": false,
+    "cost_price": 151.87,
+    "discount": 6.67,
+    "stock_level": 72
   },
   {
     "id": 191,
@@ -2289,7 +2859,10 @@
       "rate": 4.7,
       "count": 4893
     },
-    "available": true
+    "available": true,
+    "cost_price": 50.29,
+    "discount": 2.28,
+    "stock_level": 29
   },
   {
     "id": 192,
@@ -2301,7 +2874,10 @@
       "rate": 3.5,
       "count": 4884
     },
-    "available": false
+    "available": false,
+    "cost_price": 1462.02,
+    "discount": 1.04,
+    "stock_level": 94
   },
   {
     "id": 193,
@@ -2313,7 +2889,10 @@
       "rate": 4.0,
       "count": 1191
     },
-    "available": true
+    "available": true,
+    "cost_price": 139.62,
+    "discount": 74.99,
+    "stock_level": 23
   },
   {
     "id": 194,
@@ -2325,7 +2904,10 @@
       "rate": 1.1,
       "count": 3721
     },
-    "available": false
+    "available": false,
+    "cost_price": 2573.17,
+    "discount": 24.68,
+    "stock_level": 70
   },
   {
     "id": 195,
@@ -2337,7 +2919,10 @@
       "rate": 3.1,
       "count": 652
     },
-    "available": true
+    "available": true,
+    "cost_price": 2402.39,
+    "discount": 65.11,
+    "stock_level": 8
   },
   {
     "id": 196,
@@ -2349,7 +2934,10 @@
       "rate": 2.3,
       "count": 1816
     },
-    "available": false
+    "available": false,
+    "cost_price": 191.51,
+    "discount": 23.86,
+    "stock_level": 95
   },
   {
     "id": 197,
@@ -2361,7 +2949,10 @@
       "rate": 1.5,
       "count": 4536
     },
-    "available": false
+    "available": false,
+    "cost_price": 158.35,
+    "discount": 3.04,
+    "stock_level": 47
   },
   {
     "id": 198,
@@ -2373,7 +2964,10 @@
       "rate": 2.3,
       "count": 1307
     },
-    "available": true
+    "available": true,
+    "cost_price": 735.73,
+    "discount": 39.94,
+    "stock_level": 96
   },
   {
     "id": 199,
@@ -2385,7 +2979,10 @@
       "rate": 1.8,
       "count": 2430
     },
-    "available": false
+    "available": false,
+    "cost_price": 132.6,
+    "discount": 29.43,
+    "stock_level": 100
   },
   {
     "id": 200,
@@ -2397,7 +2994,10 @@
       "rate": 3.8,
       "count": 2754
     },
-    "available": false
+    "available": false,
+    "cost_price": 1694.02,
+    "discount": 27.29,
+    "stock_level": 82
   },
   {
     "id": 201,
@@ -2409,7 +3009,10 @@
       "rate": 3.8,
       "count": 2115
     },
-    "available": true
+    "available": true,
+    "cost_price": 159.6,
+    "discount": 10.02,
+    "stock_level": 4
   },
   {
     "id": 202,
@@ -2421,7 +3024,10 @@
       "rate": 4.9,
       "count": 502
     },
-    "available": false
+    "available": false,
+    "cost_price": 1539.68,
+    "discount": 0.86,
+    "stock_level": 84
   },
   {
     "id": 203,
@@ -2433,7 +3039,10 @@
       "rate": 3.7,
       "count": 4080
     },
-    "available": true
+    "available": true,
+    "cost_price": 14.98,
+    "discount": 38.44,
+    "stock_level": 13
   },
   {
     "id": 204,
@@ -2445,7 +3054,10 @@
       "rate": 2.8,
       "count": 4350
     },
-    "available": true
+    "available": true,
+    "cost_price": 185.79,
+    "discount": 23.9,
+    "stock_level": 48
   },
   {
     "id": 205,
@@ -2457,7 +3069,10 @@
       "rate": 1.6,
       "count": 1719
     },
-    "available": false
+    "available": false,
+    "cost_price": 318.91,
+    "discount": 23.75,
+    "stock_level": 49
   },
   {
     "id": 206,
@@ -2469,7 +3084,10 @@
       "rate": 3.2,
       "count": 3142
     },
-    "available": false
+    "available": false,
+    "cost_price": 762.74,
+    "discount": 10.33,
+    "stock_level": 89
   },
   {
     "id": 207,
@@ -2481,7 +3099,10 @@
       "rate": 3.4,
       "count": 4584
     },
-    "available": false
+    "available": false,
+    "cost_price": 21.42,
+    "discount": 21.12,
+    "stock_level": 61
   },
   {
     "id": 208,
@@ -2493,7 +3114,10 @@
       "rate": 3.9,
       "count": 2843
     },
-    "available": true
+    "available": true,
+    "cost_price": 97.03,
+    "discount": 26.58,
+    "stock_level": 85
   },
   {
     "id": 209,
@@ -2505,7 +3129,10 @@
       "rate": 1.1,
       "count": 334
     },
-    "available": true
+    "available": true,
+    "cost_price": 388.71,
+    "discount": 5.97,
+    "stock_level": 63
   },
   {
     "id": 210,
@@ -2517,7 +3144,10 @@
       "rate": 1.4,
       "count": 1057
     },
-    "available": false
+    "available": false,
+    "cost_price": 190.84,
+    "discount": 1.09,
+    "stock_level": 77
   },
   {
     "id": 211,
@@ -2529,7 +3159,10 @@
       "rate": 3.8,
       "count": 3758
     },
-    "available": true
+    "available": true,
+    "cost_price": 363.17,
+    "discount": 93.62,
+    "stock_level": 1
   },
   {
     "id": 212,
@@ -2541,7 +3174,10 @@
       "rate": 1.6,
       "count": 2382
     },
-    "available": false
+    "available": false,
+    "cost_price": 169.81,
+    "discount": 16.07,
+    "stock_level": 99
   },
   {
     "id": 213,
@@ -2553,7 +3189,10 @@
       "rate": 4.5,
       "count": 281
     },
-    "available": false
+    "available": false,
+    "cost_price": 122.73,
+    "discount": 19.12,
+    "stock_level": 39
   },
   {
     "id": 214,
@@ -2565,7 +3204,10 @@
       "rate": 2.1,
       "count": 1532
     },
-    "available": false
+    "available": false,
+    "cost_price": 78.78,
+    "discount": 19.45,
+    "stock_level": 55
   },
   {
     "id": 215,
@@ -2577,7 +3219,10 @@
       "rate": 1.6,
       "count": 1009
     },
-    "available": true
+    "available": true,
+    "cost_price": 63.51,
+    "discount": 33.86,
+    "stock_level": 10
   },
   {
     "id": 216,
@@ -2589,7 +3234,10 @@
       "rate": 3.0,
       "count": 4938
     },
-    "available": true
+    "available": true,
+    "cost_price": 76.7,
+    "discount": 7.59,
+    "stock_level": 27
   },
   {
     "id": 217,
@@ -2601,7 +3249,10 @@
       "rate": 4.7,
       "count": 557
     },
-    "available": false
+    "available": false,
+    "cost_price": 67.91,
+    "discount": 29.49,
+    "stock_level": 100
   },
   {
     "id": 218,
@@ -2613,7 +3264,10 @@
       "rate": 1.4,
       "count": 3060
     },
-    "available": false
+    "available": false,
+    "cost_price": 172.87,
+    "discount": 32.44,
+    "stock_level": 59
   },
   {
     "id": 219,
@@ -2625,7 +3279,10 @@
       "rate": 4.1,
       "count": 667
     },
-    "available": false
+    "available": false,
+    "cost_price": 62.04,
+    "discount": 12.04,
+    "stock_level": 30
   },
   {
     "id": 220,
@@ -2637,7 +3294,10 @@
       "rate": 2.6,
       "count": 4699
     },
-    "available": true
+    "available": true,
+    "cost_price": 1445.0,
+    "discount": 12.86,
+    "stock_level": 20
   },
   {
     "id": 221,
@@ -2649,7 +3309,10 @@
       "rate": 1.3,
       "count": 4734
     },
-    "available": false
+    "available": false,
+    "cost_price": 57.75,
+    "discount": 23.42,
+    "stock_level": 89
   },
   {
     "id": 222,
@@ -2661,7 +3324,10 @@
       "rate": 1.1,
       "count": 360
     },
-    "available": true
+    "available": true,
+    "cost_price": 212.71,
+    "discount": 4.37,
+    "stock_level": 52
   },
   {
     "id": 223,
@@ -2673,7 +3339,10 @@
       "rate": 3.8,
       "count": 4835
     },
-    "available": true
+    "available": true,
+    "cost_price": 160.35,
+    "discount": 26.61,
+    "stock_level": 85
   },
   {
     "id": 224,
@@ -2685,7 +3354,10 @@
       "rate": 2.3,
       "count": 535
     },
-    "available": true
+    "available": true,
+    "cost_price": 602.11,
+    "discount": 12.52,
+    "stock_level": 89
   },
   {
     "id": 225,
@@ -2697,7 +3369,10 @@
       "rate": 3.3,
       "count": 3555
     },
-    "available": false
+    "available": false,
+    "cost_price": 281.42,
+    "discount": 7.39,
+    "stock_level": 65
   },
   {
     "id": 226,
@@ -2709,7 +3384,10 @@
       "rate": 2.3,
       "count": 2247
     },
-    "available": false
+    "available": false,
+    "cost_price": 819.84,
+    "discount": 8.31,
+    "stock_level": 92
   },
   {
     "id": 227,
@@ -2721,7 +3399,10 @@
       "rate": 1.0,
       "count": 382
     },
-    "available": true
+    "available": true,
+    "cost_price": 498.89,
+    "discount": 25.84,
+    "stock_level": 47
   },
   {
     "id": 228,
@@ -2733,7 +3414,10 @@
       "rate": 3.1,
       "count": 1567
     },
-    "available": true
+    "available": true,
+    "cost_price": 116.4,
+    "discount": 37.59,
+    "stock_level": 78
   },
   {
     "id": 229,
@@ -2745,7 +3429,10 @@
       "rate": 3.9,
       "count": 4190
     },
-    "available": false
+    "available": false,
+    "cost_price": 210.09,
+    "discount": 4.09,
+    "stock_level": 65
   },
   {
     "id": 230,
@@ -2757,7 +3444,10 @@
       "rate": 3.3,
       "count": 1802
     },
-    "available": false
+    "available": false,
+    "cost_price": 34.07,
+    "discount": 56.36,
+    "stock_level": 16
   },
   {
     "id": 231,
@@ -2769,7 +3459,10 @@
       "rate": 1.8,
       "count": 405
     },
-    "available": false
+    "available": false,
+    "cost_price": 223.2,
+    "discount": 22.81,
+    "stock_level": 68
   },
   {
     "id": 232,
@@ -2781,7 +3474,10 @@
       "rate": 4.8,
       "count": 1119
     },
-    "available": true
+    "available": true,
+    "cost_price": 135.39,
+    "discount": 22.9,
+    "stock_level": 93
   },
   {
     "id": 233,
@@ -2793,7 +3489,10 @@
       "rate": 3.7,
       "count": 160
     },
-    "available": true
+    "available": true,
+    "cost_price": 56.84,
+    "discount": 7.42,
+    "stock_level": 72
   },
   {
     "id": 234,
@@ -2805,7 +3504,10 @@
       "rate": 4.6,
       "count": 1849
     },
-    "available": false
+    "available": false,
+    "cost_price": 87.89,
+    "discount": 31.27,
+    "stock_level": 6
   },
   {
     "id": 235,
@@ -2817,7 +3519,10 @@
       "rate": 1.8,
       "count": 1339
     },
-    "available": false
+    "available": false,
+    "cost_price": 29.58,
+    "discount": 21.85,
+    "stock_level": 18
   },
   {
     "id": 236,
@@ -2829,7 +3534,10 @@
       "rate": 2.5,
       "count": 3438
     },
-    "available": false
+    "available": false,
+    "cost_price": 1581.7,
+    "discount": 4.23,
+    "stock_level": 8
   },
   {
     "id": 237,
@@ -2841,7 +3549,10 @@
       "rate": 3.0,
       "count": 2683
     },
-    "available": true
+    "available": true,
+    "cost_price": 586.38,
+    "discount": 18.58,
+    "stock_level": 25
   },
   {
     "id": 238,
@@ -2853,7 +3564,10 @@
       "rate": 1.4,
       "count": 2044
     },
-    "available": false
+    "available": false,
+    "cost_price": 170.84,
+    "discount": 30.55,
+    "stock_level": 12
   },
   {
     "id": 239,
@@ -2865,7 +3579,10 @@
       "rate": 3.2,
       "count": 2355
     },
-    "available": false
+    "available": false,
+    "cost_price": 554.95,
+    "discount": 37.64,
+    "stock_level": 93
   },
   {
     "id": 240,
@@ -2877,7 +3594,10 @@
       "rate": 3.5,
       "count": 1886
     },
-    "available": true
+    "available": true,
+    "cost_price": 20.82,
+    "discount": 21.44,
+    "stock_level": 67
   },
   {
     "id": 241,
@@ -2889,7 +3609,10 @@
       "rate": 3.7,
       "count": 333
     },
-    "available": true
+    "available": true,
+    "cost_price": 68.58,
+    "discount": 14.99,
+    "stock_level": 14
   },
   {
     "id": 242,
@@ -2901,7 +3624,10 @@
       "rate": 4.8,
       "count": 4166
     },
-    "available": true
+    "available": true,
+    "cost_price": 44.87,
+    "discount": 38.62,
+    "stock_level": 28
   },
   {
     "id": 243,
@@ -2913,7 +3639,10 @@
       "rate": 3.5,
       "count": 4144
     },
-    "available": false
+    "available": false,
+    "cost_price": 134.56,
+    "discount": 36.64,
+    "stock_level": 4
   },
   {
     "id": 244,
@@ -2925,7 +3654,10 @@
       "rate": 2.7,
       "count": 3129
     },
-    "available": false
+    "available": false,
+    "cost_price": 89.0,
+    "discount": 1.41,
+    "stock_level": 56
   },
   {
     "id": 245,
@@ -2937,7 +3669,10 @@
       "rate": 1.5,
       "count": 3121
     },
-    "available": false
+    "available": false,
+    "cost_price": 3.29,
+    "discount": 32.79,
+    "stock_level": 0
   },
   {
     "id": 246,
@@ -2949,7 +3684,10 @@
       "rate": 2.3,
       "count": 1266
     },
-    "available": false
+    "available": false,
+    "cost_price": 20.33,
+    "discount": 39.27,
+    "stock_level": 10
   },
   {
     "id": 247,
@@ -2961,7 +3699,10 @@
       "rate": 4.9,
       "count": 3634
     },
-    "available": true
+    "available": true,
+    "cost_price": 720.48,
+    "discount": 29.52,
+    "stock_level": 15
   },
   {
     "id": 248,
@@ -2973,7 +3714,10 @@
       "rate": 3.6,
       "count": 2706
     },
-    "available": false
+    "available": false,
+    "cost_price": 36.91,
+    "discount": 36.13,
+    "stock_level": 27
   },
   {
     "id": 249,
@@ -2985,7 +3729,10 @@
       "rate": 1.1,
       "count": 435
     },
-    "available": true
+    "available": true,
+    "cost_price": 194.31,
+    "discount": 37.52,
+    "stock_level": 60
   },
   {
     "id": 250,
@@ -2997,7 +3744,10 @@
       "rate": 3.5,
       "count": 4745
     },
-    "available": false
+    "available": false,
+    "cost_price": 94.76,
+    "discount": 12.5,
+    "stock_level": 86
   },
   {
     "id": 251,
@@ -3009,7 +3759,10 @@
       "rate": 2.8,
       "count": 4253
     },
-    "available": false
+    "available": false,
+    "cost_price": 3030.77,
+    "discount": 92.71,
+    "stock_level": 99
   },
   {
     "id": 252,
@@ -3021,7 +3774,10 @@
       "rate": 1.8,
       "count": 1253
     },
-    "available": true
+    "available": true,
+    "cost_price": 1289.26,
+    "discount": 22.9,
+    "stock_level": 25
   },
   {
     "id": 253,
@@ -3033,7 +3789,10 @@
       "rate": 3.2,
       "count": 542
     },
-    "available": true
+    "available": true,
+    "cost_price": 84.2,
+    "discount": 20.34,
+    "stock_level": 50
   },
   {
     "id": 254,
@@ -3045,7 +3804,10 @@
       "rate": 4.9,
       "count": 3179
     },
-    "available": false
+    "available": false,
+    "cost_price": 68.82,
+    "discount": 10.99,
+    "stock_level": 28
   },
   {
     "id": 255,
@@ -3057,7 +3819,10 @@
       "rate": 3.5,
       "count": 3383
     },
-    "available": false
+    "available": false,
+    "cost_price": 62.44,
+    "discount": 24.68,
+    "stock_level": 24
   },
   {
     "id": 256,
@@ -3069,7 +3834,10 @@
       "rate": 2.0,
       "count": 2464
     },
-    "available": true
+    "available": true,
+    "cost_price": 128.15,
+    "discount": 8.21,
+    "stock_level": 60
   },
   {
     "id": 257,
@@ -3081,7 +3849,10 @@
       "rate": 1.1,
       "count": 2877
     },
-    "available": false
+    "available": false,
+    "cost_price": 433.67,
+    "discount": 36.85,
+    "stock_level": 23
   },
   {
     "id": 258,
@@ -3093,7 +3864,10 @@
       "rate": 3.8,
       "count": 3922
     },
-    "available": false
+    "available": false,
+    "cost_price": 175.02,
+    "discount": 38.8,
+    "stock_level": 50
   },
   {
     "id": 259,
@@ -3105,7 +3879,10 @@
       "rate": 4.1,
       "count": 726
     },
-    "available": true
+    "available": true,
+    "cost_price": 27.93,
+    "discount": 27.68,
+    "stock_level": 10
   },
   {
     "id": 260,
@@ -3117,7 +3894,10 @@
       "rate": 3.7,
       "count": 663
     },
-    "available": true
+    "available": true,
+    "cost_price": 561.6,
+    "discount": 0.3,
+    "stock_level": 63
   },
   {
     "id": 261,
@@ -3129,7 +3909,10 @@
       "rate": 3.2,
       "count": 3809
     },
-    "available": true
+    "available": true,
+    "cost_price": 52.71,
+    "discount": 25.28,
+    "stock_level": 61
   },
   {
     "id": 262,
@@ -3141,7 +3924,10 @@
       "rate": 2.1,
       "count": 2626
     },
-    "available": false
+    "available": false,
+    "cost_price": 370.78,
+    "discount": 53.98,
+    "stock_level": 48
   },
   {
     "id": 263,
@@ -3153,7 +3939,10 @@
       "rate": 3.4,
       "count": 4669
     },
-    "available": true
+    "available": true,
+    "cost_price": 30.54,
+    "discount": 20.56,
+    "stock_level": 57
   },
   {
     "id": 264,
@@ -3165,7 +3954,10 @@
       "rate": 3.4,
       "count": 4649
     },
-    "available": false
+    "available": false,
+    "cost_price": 218.03,
+    "discount": 0.92,
+    "stock_level": 32
   },
   {
     "id": 265,
@@ -3177,7 +3969,10 @@
       "rate": 4.4,
       "count": 1496
     },
-    "available": true
+    "available": true,
+    "cost_price": 406.46,
+    "discount": 35.94,
+    "stock_level": 61
   },
   {
     "id": 266,
@@ -3189,7 +3984,10 @@
       "rate": 1.2,
       "count": 243
     },
-    "available": true
+    "available": true,
+    "cost_price": 67.76,
+    "discount": 14.24,
+    "stock_level": 29
   },
   {
     "id": 267,
@@ -3201,7 +3999,10 @@
       "rate": 4.4,
       "count": 4484
     },
-    "available": false
+    "available": false,
+    "cost_price": 85.85,
+    "discount": 8.16,
+    "stock_level": 13
   },
   {
     "id": 268,
@@ -3213,7 +4014,10 @@
       "rate": 3.2,
       "count": 4303
     },
-    "available": false
+    "available": false,
+    "cost_price": 85.72,
+    "discount": 13.76,
+    "stock_level": 11
   },
   {
     "id": 269,
@@ -3225,7 +4029,10 @@
       "rate": 2.1,
       "count": 180
     },
-    "available": true
+    "available": true,
+    "cost_price": 281.1,
+    "discount": 81.84,
+    "stock_level": 25
   },
   {
     "id": 270,
@@ -3237,7 +4044,10 @@
       "rate": 4.8,
       "count": 3172
     },
-    "available": false
+    "available": false,
+    "cost_price": 28.9,
+    "discount": 10.45,
+    "stock_level": 74
   },
   {
     "id": 271,
@@ -3249,7 +4059,10 @@
       "rate": 4.5,
       "count": 2432
     },
-    "available": false
+    "available": false,
+    "cost_price": 1082.29,
+    "discount": 5.01,
+    "stock_level": 91
   },
   {
     "id": 272,
@@ -3261,7 +4074,10 @@
       "rate": 4.2,
       "count": 2400
     },
-    "available": false
+    "available": false,
+    "cost_price": 131.44,
+    "discount": 14.59,
+    "stock_level": 47
   },
   {
     "id": 273,
@@ -3273,7 +4089,10 @@
       "rate": 3.1,
       "count": 3045
     },
-    "available": false
+    "available": false,
+    "cost_price": 262.99,
+    "discount": 21.43,
+    "stock_level": 67
   },
   {
     "id": 274,
@@ -3285,7 +4104,10 @@
       "rate": 1.4,
       "count": 2812
     },
-    "available": false
+    "available": false,
+    "cost_price": 14.99,
+    "discount": 36.28,
+    "stock_level": 63
   },
   {
     "id": 275,
@@ -3297,7 +4119,10 @@
       "rate": 2.0,
       "count": 2437
     },
-    "available": true
+    "available": true,
+    "cost_price": 90.8,
+    "discount": 6.71,
+    "stock_level": 84
   },
   {
     "id": 276,
@@ -3309,7 +4134,10 @@
       "rate": 2.7,
       "count": 4867
     },
-    "available": false
+    "available": false,
+    "cost_price": 527.61,
+    "discount": 12.54,
+    "stock_level": 47
   },
   {
     "id": 277,
@@ -3321,7 +4149,10 @@
       "rate": 2.7,
       "count": 149
     },
-    "available": true
+    "available": true,
+    "cost_price": 77.48,
+    "discount": 74.94,
+    "stock_level": 20
   },
   {
     "id": 278,
@@ -3333,7 +4164,10 @@
       "rate": 2.9,
       "count": 4098
     },
-    "available": false
+    "available": false,
+    "cost_price": 11.67,
+    "discount": 19.97,
+    "stock_level": 64
   },
   {
     "id": 279,
@@ -3345,7 +4179,10 @@
       "rate": 4.0,
       "count": 868
     },
-    "available": false
+    "available": false,
+    "cost_price": 73.91,
+    "discount": 18.23,
+    "stock_level": 29
   },
   {
     "id": 280,
@@ -3357,7 +4194,10 @@
       "rate": 4.6,
       "count": 44
     },
-    "available": true
+    "available": true,
+    "cost_price": 2453.56,
+    "discount": 21.73,
+    "stock_level": 42
   },
   {
     "id": 281,
@@ -3369,7 +4209,10 @@
       "rate": 1.8,
       "count": 1233
     },
-    "available": false
+    "available": false,
+    "cost_price": 72.38,
+    "discount": 5.45,
+    "stock_level": 10
   },
   {
     "id": 282,
@@ -3381,7 +4224,10 @@
       "rate": 5.0,
       "count": 2336
     },
-    "available": true
+    "available": true,
+    "cost_price": 168.96,
+    "discount": 1.31,
+    "stock_level": 22
   },
   {
     "id": 283,
@@ -3393,7 +4239,10 @@
       "rate": 2.9,
       "count": 3767
     },
-    "available": false
+    "available": false,
+    "cost_price": 194.08,
+    "discount": 6.38,
+    "stock_level": 34
   },
   {
     "id": 284,
@@ -3405,7 +4254,10 @@
       "rate": 1.5,
       "count": 1656
     },
-    "available": true
+    "available": true,
+    "cost_price": 146.89,
+    "discount": 18.02,
+    "stock_level": 80
   },
   {
     "id": 285,
@@ -3417,7 +4269,10 @@
       "rate": 1.8,
       "count": 4767
     },
-    "available": true
+    "available": true,
+    "cost_price": 141.98,
+    "discount": 8.24,
+    "stock_level": 20
   },
   {
     "id": 286,
@@ -3429,7 +4284,10 @@
       "rate": 4.7,
       "count": 4408
     },
-    "available": true
+    "available": true,
+    "cost_price": 637.98,
+    "discount": 12.54,
+    "stock_level": 89
   },
   {
     "id": 287,
@@ -3441,7 +4299,10 @@
       "rate": 2.1,
       "count": 3346
     },
-    "available": true
+    "available": true,
+    "cost_price": 62.17,
+    "discount": 34.34,
+    "stock_level": 53
   },
   {
     "id": 288,
@@ -3453,7 +4314,10 @@
       "rate": 3.3,
       "count": 4881
     },
-    "available": true
+    "available": true,
+    "cost_price": 1244.58,
+    "discount": 73.16,
+    "stock_level": 18
   },
   {
     "id": 289,
@@ -3465,7 +4329,10 @@
       "rate": 3.9,
       "count": 2251
     },
-    "available": false
+    "available": false,
+    "cost_price": 18.33,
+    "discount": 5.38,
+    "stock_level": 54
   },
   {
     "id": 290,
@@ -3477,7 +4344,10 @@
       "rate": 4.8,
       "count": 1659
     },
-    "available": true
+    "available": true,
+    "cost_price": 64.74,
+    "discount": 33.72,
+    "stock_level": 100
   },
   {
     "id": 291,
@@ -3489,7 +4359,10 @@
       "rate": 2.1,
       "count": 936
     },
-    "available": false
+    "available": false,
+    "cost_price": 559.47,
+    "discount": 31.38,
+    "stock_level": 55
   },
   {
     "id": 292,
@@ -3501,7 +4374,10 @@
       "rate": 1.3,
       "count": 1100
     },
-    "available": true
+    "available": true,
+    "cost_price": 274.16,
+    "discount": 39.23,
+    "stock_level": 32
   },
   {
     "id": 293,
@@ -3513,7 +4389,10 @@
       "rate": 2.6,
       "count": 1917
     },
-    "available": false
+    "available": false,
+    "cost_price": 1812.09,
+    "discount": 21.32,
+    "stock_level": 63
   },
   {
     "id": 294,
@@ -3525,7 +4404,10 @@
       "rate": 4.8,
       "count": 3290
     },
-    "available": true
+    "available": true,
+    "cost_price": 50.15,
+    "discount": 24.69,
+    "stock_level": 56
   },
   {
     "id": 295,
@@ -3537,7 +4419,10 @@
       "rate": 4.2,
       "count": 1009
     },
-    "available": true
+    "available": true,
+    "cost_price": 195.29,
+    "discount": 32.04,
+    "stock_level": 77
   },
   {
     "id": 296,
@@ -3549,7 +4434,10 @@
       "rate": 4.0,
       "count": 4143
     },
-    "available": false
+    "available": false,
+    "cost_price": 341.65,
+    "discount": 36.59,
+    "stock_level": 54
   },
   {
     "id": 297,
@@ -3561,7 +4449,10 @@
       "rate": 4.5,
       "count": 2819
     },
-    "available": false
+    "available": false,
+    "cost_price": 67.5,
+    "discount": 10.38,
+    "stock_level": 10
   },
   {
     "id": 298,
@@ -3573,7 +4464,10 @@
       "rate": 2.1,
       "count": 1275
     },
-    "available": false
+    "available": false,
+    "cost_price": 68.6,
+    "discount": 29.48,
+    "stock_level": 40
   },
   {
     "id": 299,
@@ -3585,7 +4479,10 @@
       "rate": 2.3,
       "count": 2909
     },
-    "available": false
+    "available": false,
+    "cost_price": 149.29,
+    "discount": 36.19,
+    "stock_level": 60
   },
   {
     "id": 300,
@@ -3597,7 +4494,10 @@
       "rate": 4.4,
       "count": 210
     },
-    "available": false
+    "available": false,
+    "cost_price": 68.9,
+    "discount": 37.54,
+    "stock_level": 27
   },
   {
     "id": 301,
@@ -3609,7 +4509,10 @@
       "rate": 3.5,
       "count": 2231
     },
-    "available": true
+    "available": true,
+    "cost_price": 187.16,
+    "discount": 72.39,
+    "stock_level": 99
   },
   {
     "id": 302,
@@ -3621,7 +4524,10 @@
       "rate": 4.0,
       "count": 990
     },
-    "available": false
+    "available": false,
+    "cost_price": 121.64,
+    "discount": 15.93,
+    "stock_level": 74
   },
   {
     "id": 303,
@@ -3633,7 +4539,10 @@
       "rate": 2.2,
       "count": 4715
     },
-    "available": false
+    "available": false,
+    "cost_price": 44.74,
+    "discount": 69.73,
+    "stock_level": 21
   },
   {
     "id": 304,
@@ -3645,7 +4554,10 @@
       "rate": 1.5,
       "count": 3258
     },
-    "available": false
+    "available": false,
+    "cost_price": 133.57,
+    "discount": 28.1,
+    "stock_level": 22
   },
   {
     "id": 305,
@@ -3657,7 +4569,10 @@
       "rate": 2.5,
       "count": 3986
     },
-    "available": false
+    "available": false,
+    "cost_price": 59.29,
+    "discount": 21.74,
+    "stock_level": 43
   },
   {
     "id": 306,
@@ -3669,7 +4584,10 @@
       "rate": 4.7,
       "count": 4126
     },
-    "available": true
+    "available": true,
+    "cost_price": 102.97,
+    "discount": 2.1,
+    "stock_level": 65
   },
   {
     "id": 307,
@@ -3681,7 +4599,10 @@
       "rate": 1.5,
       "count": 1259
     },
-    "available": false
+    "available": false,
+    "cost_price": 83.95,
+    "discount": 10.54,
+    "stock_level": 94
   },
   {
     "id": 308,
@@ -3693,7 +4614,10 @@
       "rate": 4.1,
       "count": 2118
     },
-    "available": true
+    "available": true,
+    "cost_price": 619.65,
+    "discount": 30.31,
+    "stock_level": 53
   },
   {
     "id": 309,
@@ -3705,7 +4629,10 @@
       "rate": 4.8,
       "count": 4718
     },
-    "available": true
+    "available": true,
+    "cost_price": 1.0,
+    "discount": 3.97,
+    "stock_level": 78
   },
   {
     "id": 310,
@@ -3717,7 +4644,10 @@
       "rate": 2.3,
       "count": 1063
     },
-    "available": true
+    "available": true,
+    "cost_price": 1551.42,
+    "discount": 0.71,
+    "stock_level": 63
   },
   {
     "id": 311,
@@ -3729,7 +4659,10 @@
       "rate": 2.6,
       "count": 3289
     },
-    "available": false
+    "available": false,
+    "cost_price": 334.24,
+    "discount": 80.79,
+    "stock_level": 19
   },
   {
     "id": 312,
@@ -3741,7 +4674,10 @@
       "rate": 4.1,
       "count": 4805
     },
-    "available": true
+    "available": true,
+    "cost_price": 50.7,
+    "discount": 28.51,
+    "stock_level": 3
   },
   {
     "id": 313,
@@ -3753,7 +4689,10 @@
       "rate": 1.6,
       "count": 3772
     },
-    "available": true
+    "available": true,
+    "cost_price": 550.28,
+    "discount": 17.94,
+    "stock_level": 10
   },
   {
     "id": 314,
@@ -3765,7 +4704,10 @@
       "rate": 4.3,
       "count": 421
     },
-    "available": false
+    "available": false,
+    "cost_price": 839.62,
+    "discount": 13.59,
+    "stock_level": 75
   },
   {
     "id": 315,
@@ -3777,7 +4719,10 @@
       "rate": 1.2,
       "count": 2119
     },
-    "available": true
+    "available": true,
+    "cost_price": 100.59,
+    "discount": 3.96,
+    "stock_level": 68
   },
   {
     "id": 316,
@@ -3789,7 +4734,10 @@
       "rate": 2.9,
       "count": 1881
     },
-    "available": true
+    "available": true,
+    "cost_price": 104.81,
+    "discount": 24.52,
+    "stock_level": 27
   },
   {
     "id": 317,
@@ -3801,7 +4749,10 @@
       "rate": 2.8,
       "count": 732
     },
-    "available": true
+    "available": true,
+    "cost_price": 453.92,
+    "discount": 7.57,
+    "stock_level": 94
   },
   {
     "id": 318,
@@ -3813,7 +4764,10 @@
       "rate": 2.7,
       "count": 2156
     },
-    "available": true
+    "available": true,
+    "cost_price": 225.71,
+    "discount": 12.69,
+    "stock_level": 47
   },
   {
     "id": 319,
@@ -3825,7 +4779,10 @@
       "rate": 4.5,
       "count": 1275
     },
-    "available": false
+    "available": false,
+    "cost_price": 169.95,
+    "discount": 20.7,
+    "stock_level": 31
   },
   {
     "id": 320,
@@ -3837,7 +4794,10 @@
       "rate": 2.1,
       "count": 222
     },
-    "available": true
+    "available": true,
+    "cost_price": 2524.76,
+    "discount": 26.37,
+    "stock_level": 96
   },
   {
     "id": 321,
@@ -3849,7 +4809,10 @@
       "rate": 1.4,
       "count": 3644
     },
-    "available": true
+    "available": true,
+    "cost_price": 309.56,
+    "discount": 16.12,
+    "stock_level": 7
   },
   {
     "id": 322,
@@ -3861,7 +4824,10 @@
       "rate": 3.5,
       "count": 1808
     },
-    "available": false
+    "available": false,
+    "cost_price": 141.89,
+    "discount": 2.83,
+    "stock_level": 66
   },
   {
     "id": 323,
@@ -3873,7 +4839,10 @@
       "rate": 2.5,
       "count": 3738
     },
-    "available": false
+    "available": false,
+    "cost_price": 1007.96,
+    "discount": 30.7,
+    "stock_level": 29
   },
   {
     "id": 324,
@@ -3885,7 +4854,10 @@
       "rate": 1.0,
       "count": 382
     },
-    "available": true
+    "available": true,
+    "cost_price": 58.28,
+    "discount": 7.4,
+    "stock_level": 72
   },
   {
     "id": 325,
@@ -3897,7 +4869,10 @@
       "rate": 3.8,
       "count": 4007
     },
-    "available": false
+    "available": false,
+    "cost_price": 92.94,
+    "discount": 29.96,
+    "stock_level": 79
   },
   {
     "id": 326,
@@ -3909,7 +4884,10 @@
       "rate": 3.2,
       "count": 4948
     },
-    "available": false
+    "available": false,
+    "cost_price": 705.81,
+    "discount": 39.05,
+    "stock_level": 77
   },
   {
     "id": 327,
@@ -3921,7 +4899,10 @@
       "rate": 2.1,
       "count": 4069
     },
-    "available": true
+    "available": true,
+    "cost_price": 94.17,
+    "discount": 10.68,
+    "stock_level": 79
   },
   {
     "id": 328,
@@ -3933,7 +4914,10 @@
       "rate": 4.4,
       "count": 4809
     },
-    "available": false
+    "available": false,
+    "cost_price": 2002.56,
+    "discount": 9.19,
+    "stock_level": 25
   },
   {
     "id": 329,
@@ -3945,7 +4929,10 @@
       "rate": 3.6,
       "count": 4945
     },
-    "available": false
+    "available": false,
+    "cost_price": 179.71,
+    "discount": 38.32,
+    "stock_level": 92
   },
   {
     "id": 330,
@@ -3957,7 +4944,10 @@
       "rate": 3.1,
       "count": 3815
     },
-    "available": false
+    "available": false,
+    "cost_price": 526.9,
+    "discount": 18.37,
+    "stock_level": 33
   },
   {
     "id": 331,
@@ -3969,7 +4959,10 @@
       "rate": 4.7,
       "count": 1059
     },
-    "available": false
+    "available": false,
+    "cost_price": 96.27,
+    "discount": 14.3,
+    "stock_level": 11
   },
   {
     "id": 332,
@@ -3981,7 +4974,10 @@
       "rate": 1.3,
       "count": 93
     },
-    "available": true
+    "available": true,
+    "cost_price": 222.88,
+    "discount": 15.88,
+    "stock_level": 77
   },
   {
     "id": 333,
@@ -3993,7 +4989,10 @@
       "rate": 4.4,
       "count": 1994
     },
-    "available": false
+    "available": false,
+    "cost_price": 218.48,
+    "discount": 6.54,
+    "stock_level": 54
   },
   {
     "id": 334,
@@ -4005,7 +5004,10 @@
       "rate": 2.7,
       "count": 745
     },
-    "available": true
+    "available": true,
+    "cost_price": 796.59,
+    "discount": 81.92,
+    "stock_level": 6
   },
   {
     "id": 335,
@@ -4017,7 +5019,10 @@
       "rate": 2.6,
       "count": 1290
     },
-    "available": true
+    "available": true,
+    "cost_price": 58.68,
+    "discount": 12.11,
+    "stock_level": 24
   },
   {
     "id": 336,
@@ -4029,7 +5034,10 @@
       "rate": 1.7,
       "count": 4770
     },
-    "available": false
+    "available": false,
+    "cost_price": 2779.4,
+    "discount": 6.69,
+    "stock_level": 27
   },
   {
     "id": 337,
@@ -4041,7 +5049,10 @@
       "rate": 2.2,
       "count": 712
     },
-    "available": true
+    "available": true,
+    "cost_price": 59.42,
+    "discount": 83.59,
+    "stock_level": 75
   },
   {
     "id": 338,
@@ -4053,7 +5064,10 @@
       "rate": 4.3,
       "count": 1274
     },
-    "available": true
+    "available": true,
+    "cost_price": 2153.42,
+    "discount": 9.82,
+    "stock_level": 97
   },
   {
     "id": 339,
@@ -4065,7 +5079,10 @@
       "rate": 2.3,
       "count": 1159
     },
-    "available": false
+    "available": false,
+    "cost_price": 62.58,
+    "discount": 92.18,
+    "stock_level": 41
   },
   {
     "id": 340,
@@ -4077,7 +5094,10 @@
       "rate": 2.1,
       "count": 2800
     },
-    "available": false
+    "available": false,
+    "cost_price": 859.78,
+    "discount": 54.12,
+    "stock_level": 61
   },
   {
     "id": 341,
@@ -4089,7 +5109,10 @@
       "rate": 2.4,
       "count": 2147
     },
-    "available": true
+    "available": true,
+    "cost_price": 227.03,
+    "discount": 54.99,
+    "stock_level": 13
   },
   {
     "id": 342,
@@ -4101,7 +5124,10 @@
       "rate": 1.5,
       "count": 994
     },
-    "available": false
+    "available": false,
+    "cost_price": 893.26,
+    "discount": 30.68,
+    "stock_level": 49
   },
   {
     "id": 343,
@@ -4113,7 +5139,10 @@
       "rate": 1.5,
       "count": 2989
     },
-    "available": false
+    "available": false,
+    "cost_price": 37.68,
+    "discount": 38.59,
+    "stock_level": 57
   },
   {
     "id": 344,
@@ -4125,7 +5154,10 @@
       "rate": 2.6,
       "count": 2937
     },
-    "available": false
+    "available": false,
+    "cost_price": 26.08,
+    "discount": 16.43,
+    "stock_level": 10
   },
   {
     "id": 345,
@@ -4137,7 +5169,10 @@
       "rate": 3.8,
       "count": 1853
     },
-    "available": false
+    "available": false,
+    "cost_price": 79.98,
+    "discount": 11.31,
+    "stock_level": 34
   },
   {
     "id": 346,
@@ -4149,7 +5184,10 @@
       "rate": 2.1,
       "count": 1324
     },
-    "available": true
+    "available": true,
+    "cost_price": 93.72,
+    "discount": 10.22,
+    "stock_level": 25
   },
   {
     "id": 347,
@@ -4161,7 +5199,10 @@
       "rate": 1.6,
       "count": 1131
     },
-    "available": false
+    "available": false,
+    "cost_price": 695.76,
+    "discount": 32.1,
+    "stock_level": 24
   },
   {
     "id": 348,
@@ -4173,7 +5214,10 @@
       "rate": 4.1,
       "count": 2717
     },
-    "available": false
+    "available": false,
+    "cost_price": 205.43,
+    "discount": 9.88,
+    "stock_level": 20
   },
   {
     "id": 349,
@@ -4185,7 +5229,10 @@
       "rate": 2.6,
       "count": 3270
     },
-    "available": true
+    "available": true,
+    "cost_price": 13.92,
+    "discount": 33.68,
+    "stock_level": 71
   },
   {
     "id": 350,
@@ -4197,7 +5244,10 @@
       "rate": 1.4,
       "count": 4034
     },
-    "available": false
+    "available": false,
+    "cost_price": 1956.22,
+    "discount": 16.66,
+    "stock_level": 58
   },
   {
     "id": 351,
@@ -4209,7 +5259,10 @@
       "rate": 2.9,
       "count": 1827
     },
-    "available": true
+    "available": true,
+    "cost_price": 112.74,
+    "discount": 7.31,
+    "stock_level": 83
   },
   {
     "id": 352,
@@ -4221,7 +5274,10 @@
       "rate": 3.4,
       "count": 3352
     },
-    "available": true
+    "available": true,
+    "cost_price": 115.74,
+    "discount": 21.59,
+    "stock_level": 10
   },
   {
     "id": 353,
@@ -4233,7 +5289,10 @@
       "rate": 1.3,
       "count": 128
     },
-    "available": true
+    "available": true,
+    "cost_price": 466.58,
+    "discount": 36.12,
+    "stock_level": 99
   },
   {
     "id": 354,
@@ -4245,7 +5304,10 @@
       "rate": 1.1,
       "count": 2117
     },
-    "available": true
+    "available": true,
+    "cost_price": 264.71,
+    "discount": 28.81,
+    "stock_level": 1
   },
   {
     "id": 355,
@@ -4257,7 +5319,10 @@
       "rate": 1.3,
       "count": 1440
     },
-    "available": false
+    "available": false,
+    "cost_price": 276.47,
+    "discount": 85.77,
+    "stock_level": 0
   },
   {
     "id": 356,
@@ -4269,7 +5334,10 @@
       "rate": 3.5,
       "count": 4980
     },
-    "available": false
+    "available": false,
+    "cost_price": 432.04,
+    "discount": 21.03,
+    "stock_level": 84
   },
   {
     "id": 357,
@@ -4281,7 +5349,10 @@
       "rate": 3.8,
       "count": 686
     },
-    "available": false
+    "available": false,
+    "cost_price": 549.46,
+    "discount": 11.58,
+    "stock_level": 100
   },
   {
     "id": 358,
@@ -4293,7 +5364,10 @@
       "rate": 4.6,
       "count": 1350
     },
-    "available": false
+    "available": false,
+    "cost_price": 548.79,
+    "discount": 22.61,
+    "stock_level": 67
   },
   {
     "id": 359,
@@ -4305,7 +5379,10 @@
       "rate": 3.7,
       "count": 1304
     },
-    "available": false
+    "available": false,
+    "cost_price": 28.49,
+    "discount": 34.29,
+    "stock_level": 85
   },
   {
     "id": 360,
@@ -4317,7 +5394,10 @@
       "rate": 1.6,
       "count": 2087
     },
-    "available": false
+    "available": false,
+    "cost_price": 677.39,
+    "discount": 36.58,
+    "stock_level": 23
   },
   {
     "id": 361,
@@ -4329,7 +5409,10 @@
       "rate": 2.3,
       "count": 2992
     },
-    "available": false
+    "available": false,
+    "cost_price": 111.2,
+    "discount": 32.49,
+    "stock_level": 41
   },
   {
     "id": 362,
@@ -4341,7 +5424,10 @@
       "rate": 4.9,
       "count": 4139
     },
-    "available": true
+    "available": true,
+    "cost_price": 751.75,
+    "discount": 35.04,
+    "stock_level": 47
   },
   {
     "id": 363,
@@ -4353,7 +5439,10 @@
       "rate": 3.5,
       "count": 4377
     },
-    "available": true
+    "available": true,
+    "cost_price": 281.8,
+    "discount": 47.82,
+    "stock_level": 97
   },
   {
     "id": 364,
@@ -4365,7 +5454,10 @@
       "rate": 3.7,
       "count": 4240
     },
-    "available": true
+    "available": true,
+    "cost_price": 1941.78,
+    "discount": 22.2,
+    "stock_level": 25
   },
   {
     "id": 365,
@@ -4377,7 +5469,10 @@
       "rate": 2.8,
       "count": 1181
     },
-    "available": true
+    "available": true,
+    "cost_price": 896.8,
+    "discount": 19.09,
+    "stock_level": 48
   },
   {
     "id": 366,
@@ -4389,7 +5484,10 @@
       "rate": 4.1,
       "count": 1337
     },
-    "available": true
+    "available": true,
+    "cost_price": 214.06,
+    "discount": 29.03,
+    "stock_level": 90
   },
   {
     "id": 367,
@@ -4401,7 +5499,10 @@
       "rate": 3.1,
       "count": 863
     },
-    "available": false
+    "available": false,
+    "cost_price": 507.9,
+    "discount": 57.05,
+    "stock_level": 89
   },
   {
     "id": 368,
@@ -4413,7 +5514,10 @@
       "rate": 1.1,
       "count": 4887
     },
-    "available": true
+    "available": true,
+    "cost_price": 96.78,
+    "discount": 86.5,
+    "stock_level": 69
   },
   {
     "id": 369,
@@ -4425,7 +5529,10 @@
       "rate": 5.0,
       "count": 2186
     },
-    "available": false
+    "available": false,
+    "cost_price": 20.4,
+    "discount": 3.35,
+    "stock_level": 70
   },
   {
     "id": 370,
@@ -4437,7 +5544,10 @@
       "rate": 3.0,
       "count": 1371
     },
-    "available": false
+    "available": false,
+    "cost_price": 48.03,
+    "discount": 13.8,
+    "stock_level": 9
   },
   {
     "id": 371,
@@ -4449,7 +5559,10 @@
       "rate": 3.9,
       "count": 1926
     },
-    "available": true
+    "available": true,
+    "cost_price": 101.57,
+    "discount": 21.72,
+    "stock_level": 7
   },
   {
     "id": 372,
@@ -4461,7 +5574,10 @@
       "rate": 5.0,
       "count": 1
     },
-    "available": false
+    "available": false,
+    "cost_price": 181.47,
+    "discount": 1.5,
+    "stock_level": 82
   },
   {
     "id": 373,
@@ -4473,7 +5589,10 @@
       "rate": 4.5,
       "count": 2271
     },
-    "available": true
+    "available": true,
+    "cost_price": 84.2,
+    "discount": 91.81,
+    "stock_level": 50
   },
   {
     "id": 374,
@@ -4485,7 +5604,10 @@
       "rate": 1.1,
       "count": 904
     },
-    "available": false
+    "available": false,
+    "cost_price": 95.17,
+    "discount": 2.36,
+    "stock_level": 89
   },
   {
     "id": 375,
@@ -4497,7 +5619,10 @@
       "rate": 4.7,
       "count": 4276
     },
-    "available": false
+    "available": false,
+    "cost_price": 32.87,
+    "discount": 32.62,
+    "stock_level": 34
   },
   {
     "id": 376,
@@ -4509,7 +5634,10 @@
       "rate": 3.7,
       "count": 3487
     },
-    "available": false
+    "available": false,
+    "cost_price": 80.22,
+    "discount": 31.19,
+    "stock_level": 33
   },
   {
     "id": 377,
@@ -4521,7 +5649,10 @@
       "rate": 3.8,
       "count": 4240
     },
-    "available": true
+    "available": true,
+    "cost_price": 34.78,
+    "discount": 21.74,
+    "stock_level": 89
   },
   {
     "id": 378,
@@ -4533,7 +5664,10 @@
       "rate": 4.8,
       "count": 649
     },
-    "available": false
+    "available": false,
+    "cost_price": 244.39,
+    "discount": 17.76,
+    "stock_level": 77
   },
   {
     "id": 379,
@@ -4545,7 +5679,10 @@
       "rate": 2.0,
       "count": 3794
     },
-    "available": true
+    "available": true,
+    "cost_price": 175.58,
+    "discount": 28.37,
+    "stock_level": 88
   },
   {
     "id": 380,
@@ -4557,7 +5694,10 @@
       "rate": 1.1,
       "count": 3594
     },
-    "available": true
+    "available": true,
+    "cost_price": 98.65,
+    "discount": 34.25,
+    "stock_level": 78
   },
   {
     "id": 381,
@@ -4569,7 +5709,10 @@
       "rate": 3.0,
       "count": 3879
     },
-    "available": false
+    "available": false,
+    "cost_price": 338.91,
+    "discount": 1.31,
+    "stock_level": 31
   },
   {
     "id": 382,
@@ -4581,7 +5724,10 @@
       "rate": 1.3,
       "count": 1285
     },
-    "available": false
+    "available": false,
+    "cost_price": 370.23,
+    "discount": 26.05,
+    "stock_level": 18
   },
   {
     "id": 383,
@@ -4593,7 +5739,10 @@
       "rate": 1.2,
       "count": 747
     },
-    "available": false
+    "available": false,
+    "cost_price": 521.32,
+    "discount": 37.25,
+    "stock_level": 33
   },
   {
     "id": 384,
@@ -4605,7 +5754,10 @@
       "rate": 3.9,
       "count": 1648
     },
-    "available": false
+    "available": false,
+    "cost_price": 405.17,
+    "discount": 60.19,
+    "stock_level": 4
   },
   {
     "id": 385,
@@ -4617,7 +5769,10 @@
       "rate": 3.8,
       "count": 4704
     },
-    "available": false
+    "available": false,
+    "cost_price": 804.9,
+    "discount": 9.23,
+    "stock_level": 4
   },
   {
     "id": 386,
@@ -4629,7 +5784,10 @@
       "rate": 1.5,
       "count": 1266
     },
-    "available": true
+    "available": true,
+    "cost_price": 88.24,
+    "discount": 22.72,
+    "stock_level": 80
   },
   {
     "id": 387,
@@ -4641,7 +5799,10 @@
       "rate": 1.8,
       "count": 2530
     },
-    "available": false
+    "available": false,
+    "cost_price": 390.45,
+    "discount": 19.49,
+    "stock_level": 30
   },
   {
     "id": 388,
@@ -4653,7 +5814,10 @@
       "rate": 1.5,
       "count": 3716
     },
-    "available": false
+    "available": false,
+    "cost_price": 199.83,
+    "discount": 8.17,
+    "stock_level": 6
   },
   {
     "id": 389,
@@ -4665,7 +5829,10 @@
       "rate": 1.3,
       "count": 3045
     },
-    "available": false
+    "available": false,
+    "cost_price": 41.37,
+    "discount": 74.24,
+    "stock_level": 83
   },
   {
     "id": 390,
@@ -4677,7 +5844,10 @@
       "rate": 4.3,
       "count": 781
     },
-    "available": false
+    "available": false,
+    "cost_price": 773.88,
+    "discount": 17.81,
+    "stock_level": 93
   },
   {
     "id": 391,
@@ -4689,7 +5859,10 @@
       "rate": 2.1,
       "count": 4460
     },
-    "available": false
+    "available": false,
+    "cost_price": 40.82,
+    "discount": 22.76,
+    "stock_level": 78
   },
   {
     "id": 392,
@@ -4701,7 +5874,10 @@
       "rate": 3.0,
       "count": 621
     },
-    "available": true
+    "available": true,
+    "cost_price": 125.35,
+    "discount": 82.19,
+    "stock_level": 93
   },
   {
     "id": 393,
@@ -4713,7 +5889,10 @@
       "rate": 4.6,
       "count": 1866
     },
-    "available": false
+    "available": false,
+    "cost_price": 542.33,
+    "discount": 31.89,
+    "stock_level": 22
   },
   {
     "id": 394,
@@ -4725,7 +5904,10 @@
       "rate": 4.1,
       "count": 3032
     },
-    "available": true
+    "available": true,
+    "cost_price": 299.71,
+    "discount": 31.83,
+    "stock_level": 21
   },
   {
     "id": 395,
@@ -4737,7 +5919,10 @@
       "rate": 3.1,
       "count": 3493
     },
-    "available": true
+    "available": true,
+    "cost_price": 15.65,
+    "discount": 21.72,
+    "stock_level": 28
   },
   {
     "id": 396,
@@ -4749,7 +5934,10 @@
       "rate": 3.8,
       "count": 3335
     },
-    "available": true
+    "available": true,
+    "cost_price": 217.88,
+    "discount": 8.32,
+    "stock_level": 1
   },
   {
     "id": 397,
@@ -4761,7 +5949,10 @@
       "rate": 3.9,
       "count": 223
     },
-    "available": true
+    "available": true,
+    "cost_price": 125.23,
+    "discount": 1.99,
+    "stock_level": 4
   },
   {
     "id": 398,
@@ -4773,7 +5964,10 @@
       "rate": 4.8,
       "count": 4197
     },
-    "available": true
+    "available": true,
+    "cost_price": 362.02,
+    "discount": 22.67,
+    "stock_level": 71
   },
   {
     "id": 399,
@@ -4785,7 +5979,10 @@
       "rate": 4.4,
       "count": 3048
     },
-    "available": false
+    "available": false,
+    "cost_price": 168.07,
+    "discount": 15.41,
+    "stock_level": 35
   },
   {
     "id": 400,
@@ -4797,7 +5994,10 @@
       "rate": 3.4,
       "count": 4087
     },
-    "available": false
+    "available": false,
+    "cost_price": 65.69,
+    "discount": 20.94,
+    "stock_level": 54
   },
   {
     "id": 401,
@@ -4809,7 +6009,10 @@
       "rate": 2.1,
       "count": 950
     },
-    "available": false
+    "available": false,
+    "cost_price": 211.08,
+    "discount": 4.29,
+    "stock_level": 24
   },
   {
     "id": 402,
@@ -4821,7 +6024,10 @@
       "rate": 4.9,
       "count": 573
     },
-    "available": true
+    "available": true,
+    "cost_price": 68.58,
+    "discount": 15.3,
+    "stock_level": 44
   },
   {
     "id": 403,
@@ -4833,7 +6039,10 @@
       "rate": 3.7,
       "count": 592
     },
-    "available": true
+    "available": true,
+    "cost_price": 21.8,
+    "discount": 32.67,
+    "stock_level": 13
   },
   {
     "id": 404,
@@ -4845,7 +6054,10 @@
       "rate": 4.3,
       "count": 3176
     },
-    "available": true
+    "available": true,
+    "cost_price": 217.97,
+    "discount": 27.31,
+    "stock_level": 71
   },
   {
     "id": 405,
@@ -4857,7 +6069,10 @@
       "rate": 3.9,
       "count": 3929
     },
-    "available": true
+    "available": true,
+    "cost_price": 185.11,
+    "discount": 11.17,
+    "stock_level": 47
   },
   {
     "id": 406,
@@ -4869,7 +6084,10 @@
       "rate": 4.2,
       "count": 539
     },
-    "available": false
+    "available": false,
+    "cost_price": 66.11,
+    "discount": 14.48,
+    "stock_level": 72
   },
   {
     "id": 407,
@@ -4881,7 +6099,10 @@
       "rate": 2.6,
       "count": 30
     },
-    "available": false
+    "available": false,
+    "cost_price": 359.72,
+    "discount": 6.75,
+    "stock_level": 69
   },
   {
     "id": 408,
@@ -4893,7 +6114,10 @@
       "rate": 4.3,
       "count": 3915
     },
-    "available": false
+    "available": false,
+    "cost_price": 834.57,
+    "discount": 1.56,
+    "stock_level": 69
   },
   {
     "id": 409,
@@ -4905,7 +6129,10 @@
       "rate": 5.0,
       "count": 1057
     },
-    "available": true
+    "available": true,
+    "cost_price": 358.21,
+    "discount": 34.43,
+    "stock_level": 2
   },
   {
     "id": 410,
@@ -4917,7 +6144,10 @@
       "rate": 3.4,
       "count": 4812
     },
-    "available": false
+    "available": false,
+    "cost_price": 60.53,
+    "discount": 1.83,
+    "stock_level": 93
   },
   {
     "id": 411,
@@ -4929,7 +6159,10 @@
       "rate": 3.4,
       "count": 2360
     },
-    "available": true
+    "available": true,
+    "cost_price": 1982.68,
+    "discount": 24.68,
+    "stock_level": 96
   },
   {
     "id": 412,
@@ -4941,7 +6174,10 @@
       "rate": 1.8,
       "count": 4434
     },
-    "available": false
+    "available": false,
+    "cost_price": 147.74,
+    "discount": 6.54,
+    "stock_level": 69
   },
   {
     "id": 413,
@@ -4953,7 +6189,10 @@
       "rate": 5.0,
       "count": 1349
     },
-    "available": false
+    "available": false,
+    "cost_price": 39.76,
+    "discount": 12.84,
+    "stock_level": 1
   },
   {
     "id": 414,
@@ -4965,7 +6204,10 @@
       "rate": 1.0,
       "count": 3785
     },
-    "available": true
+    "available": true,
+    "cost_price": 1292.13,
+    "discount": 33.35,
+    "stock_level": 72
   },
   {
     "id": 415,
@@ -4977,7 +6219,10 @@
       "rate": 2.8,
       "count": 491
     },
-    "available": true
+    "available": true,
+    "cost_price": 866.0,
+    "discount": 37.76,
+    "stock_level": 65
   },
   {
     "id": 416,
@@ -4989,7 +6234,10 @@
       "rate": 2.0,
       "count": 817
     },
-    "available": false
+    "available": false,
+    "cost_price": 90.01,
+    "discount": 47.58,
+    "stock_level": 42
   },
   {
     "id": 417,
@@ -5001,7 +6249,10 @@
       "rate": 2.8,
       "count": 444
     },
-    "available": true
+    "available": true,
+    "cost_price": 193.32,
+    "discount": 29.19,
+    "stock_level": 1
   },
   {
     "id": 418,
@@ -5013,7 +6264,10 @@
       "rate": 2.4,
       "count": 4647
     },
-    "available": true
+    "available": true,
+    "cost_price": 12.33,
+    "discount": 80.99,
+    "stock_level": 72
   },
   {
     "id": 419,
@@ -5025,7 +6279,10 @@
       "rate": 3.0,
       "count": 4505
     },
-    "available": true
+    "available": true,
+    "cost_price": 264.61,
+    "discount": 7.66,
+    "stock_level": 54
   },
   {
     "id": 420,
@@ -5037,7 +6294,10 @@
       "rate": 1.6,
       "count": 4919
     },
-    "available": false
+    "available": false,
+    "cost_price": 23.3,
+    "discount": 38.89,
+    "stock_level": 11
   },
   {
     "id": 421,
@@ -5049,7 +6309,10 @@
       "rate": 2.2,
       "count": 488
     },
-    "available": false
+    "available": false,
+    "cost_price": 26.99,
+    "discount": 19.94,
+    "stock_level": 85
   },
   {
     "id": 422,
@@ -5061,7 +6324,10 @@
       "rate": 4.8,
       "count": 3710
     },
-    "available": false
+    "available": false,
+    "cost_price": 107.91,
+    "discount": 25.59,
+    "stock_level": 62
   },
   {
     "id": 423,
@@ -5073,7 +6339,10 @@
       "rate": 3.4,
       "count": 86
     },
-    "available": false
+    "available": false,
+    "cost_price": 130.65,
+    "discount": 13.13,
+    "stock_level": 34
   },
   {
     "id": 424,
@@ -5085,7 +6354,10 @@
       "rate": 4.9,
       "count": 3402
     },
-    "available": false
+    "available": false,
+    "cost_price": 12.18,
+    "discount": 11.52,
+    "stock_level": 38
   },
   {
     "id": 425,
@@ -5097,7 +6369,10 @@
       "rate": 2.7,
       "count": 1607
     },
-    "available": false
+    "available": false,
+    "cost_price": 29.27,
+    "discount": 3.44,
+    "stock_level": 7
   },
   {
     "id": 426,
@@ -5109,7 +6384,10 @@
       "rate": 2.5,
       "count": 676
     },
-    "available": true
+    "available": true,
+    "cost_price": 368.02,
+    "discount": 6.49,
+    "stock_level": 82
   },
   {
     "id": 427,
@@ -5121,7 +6399,10 @@
       "rate": 2.1,
       "count": 2322
     },
-    "available": false
+    "available": false,
+    "cost_price": 113.24,
+    "discount": 9.92,
+    "stock_level": 3
   },
   {
     "id": 428,
@@ -5133,7 +6414,10 @@
       "rate": 2.5,
       "count": 4076
     },
-    "available": false
+    "available": false,
+    "cost_price": 38.74,
+    "discount": 37.04,
+    "stock_level": 100
   },
   {
     "id": 429,
@@ -5145,7 +6429,10 @@
       "rate": 3.3,
       "count": 2348
     },
-    "available": true
+    "available": true,
+    "cost_price": 57.73,
+    "discount": 24.21,
+    "stock_level": 99
   },
   {
     "id": 430,
@@ -5157,7 +6444,10 @@
       "rate": 4.4,
       "count": 16
     },
-    "available": false
+    "available": false,
+    "cost_price": 80.9,
+    "discount": 35.65,
+    "stock_level": 28
   },
   {
     "id": 431,
@@ -5169,7 +6459,10 @@
       "rate": 2.2,
       "count": 3541
     },
-    "available": true
+    "available": true,
+    "cost_price": 49.0,
+    "discount": 26.07,
+    "stock_level": 57
   },
   {
     "id": 432,
@@ -5181,7 +6474,10 @@
       "rate": 1.8,
       "count": 74
     },
-    "available": false
+    "available": false,
+    "cost_price": 273.98,
+    "discount": 15.3,
+    "stock_level": 69
   },
   {
     "id": 433,
@@ -5193,7 +6489,10 @@
       "rate": 4.7,
       "count": 48
     },
-    "available": true
+    "available": true,
+    "cost_price": 44.44,
+    "discount": 32.09,
+    "stock_level": 6
   },
   {
     "id": 434,
@@ -5205,7 +6504,10 @@
       "rate": 1.5,
       "count": 4243
     },
-    "available": false
+    "available": false,
+    "cost_price": 746.76,
+    "discount": 80.54,
+    "stock_level": 25
   },
   {
     "id": 435,
@@ -5217,7 +6519,10 @@
       "rate": 3.8,
       "count": 2915
     },
-    "available": false
+    "available": false,
+    "cost_price": 82.38,
+    "discount": 15.16,
+    "stock_level": 67
   },
   {
     "id": 436,
@@ -5229,7 +6534,10 @@
       "rate": 3.2,
       "count": 2247
     },
-    "available": false
+    "available": false,
+    "cost_price": 244.31,
+    "discount": 2.93,
+    "stock_level": 13
   },
   {
     "id": 437,
@@ -5241,7 +6549,10 @@
       "rate": 2.5,
       "count": 1443
     },
-    "available": true
+    "available": true,
+    "cost_price": 188.78,
+    "discount": 26.06,
+    "stock_level": 51
   },
   {
     "id": 438,
@@ -5253,7 +6564,10 @@
       "rate": 3.6,
       "count": 3971
     },
-    "available": true
+    "available": true,
+    "cost_price": 270.99,
+    "discount": 37.57,
+    "stock_level": 27
   },
   {
     "id": 439,
@@ -5265,7 +6579,10 @@
       "rate": 4.6,
       "count": 3181
     },
-    "available": true
+    "available": true,
+    "cost_price": 392.64,
+    "discount": 0.54,
+    "stock_level": 92
   },
   {
     "id": 440,
@@ -5277,7 +6594,10 @@
       "rate": 2.6,
       "count": 2721
     },
-    "available": true
+    "available": true,
+    "cost_price": 53.51,
+    "discount": 86.37,
+    "stock_level": 42
   },
   {
     "id": 441,
@@ -5289,7 +6609,10 @@
       "rate": 4.6,
       "count": 4157
     },
-    "available": true
+    "available": true,
+    "cost_price": 518.61,
+    "discount": 55.94,
+    "stock_level": 18
   },
   {
     "id": 442,
@@ -5301,7 +6624,10 @@
       "rate": 1.4,
       "count": 379
     },
-    "available": true
+    "available": true,
+    "cost_price": 157.06,
+    "discount": 19.11,
+    "stock_level": 63
   },
   {
     "id": 443,
@@ -5313,7 +6639,10 @@
       "rate": 5.0,
       "count": 1063
     },
-    "available": true
+    "available": true,
+    "cost_price": 201.1,
+    "discount": 24.86,
+    "stock_level": 81
   },
   {
     "id": 444,
@@ -5325,7 +6654,10 @@
       "rate": 2.4,
       "count": 2340
     },
-    "available": false
+    "available": false,
+    "cost_price": 545.18,
+    "discount": 21.51,
+    "stock_level": 41
   },
   {
     "id": 445,
@@ -5337,7 +6669,10 @@
       "rate": 2.6,
       "count": 625
     },
-    "available": false
+    "available": false,
+    "cost_price": 413.21,
+    "discount": 15.95,
+    "stock_level": 82
   },
   {
     "id": 446,
@@ -5349,7 +6684,10 @@
       "rate": 4.6,
       "count": 2661
     },
-    "available": true
+    "available": true,
+    "cost_price": 2029.84,
+    "discount": 26.97,
+    "stock_level": 42
   },
   {
     "id": 447,
@@ -5361,7 +6699,10 @@
       "rate": 1.7,
       "count": 3248
     },
-    "available": true
+    "available": true,
+    "cost_price": 1076.49,
+    "discount": 32.27,
+    "stock_level": 81
   },
   {
     "id": 448,
@@ -5373,7 +6714,10 @@
       "rate": 4.0,
       "count": 4897
     },
-    "available": false
+    "available": false,
+    "cost_price": 937.43,
+    "discount": 20.75,
+    "stock_level": 90
   },
   {
     "id": 449,
@@ -5385,7 +6729,10 @@
       "rate": 2.3,
       "count": 3584
     },
-    "available": false
+    "available": false,
+    "cost_price": 417.03,
+    "discount": 36.09,
+    "stock_level": 93
   },
   {
     "id": 450,
@@ -5397,7 +6744,10 @@
       "rate": 2.6,
       "count": 2880
     },
-    "available": true
+    "available": true,
+    "cost_price": 2680.83,
+    "discount": 93.83,
+    "stock_level": 48
   },
   {
     "id": 451,
@@ -5409,7 +6759,10 @@
       "rate": 3.2,
       "count": 1199
     },
-    "available": false
+    "available": false,
+    "cost_price": 43.11,
+    "discount": 32.95,
+    "stock_level": 18
   },
   {
     "id": 452,
@@ -5421,7 +6774,10 @@
       "rate": 3.7,
       "count": 4607
     },
-    "available": false
+    "available": false,
+    "cost_price": 198.39,
+    "discount": 9.92,
+    "stock_level": 50
   },
   {
     "id": 453,
@@ -5433,7 +6789,10 @@
       "rate": 1.6,
       "count": 2841
     },
-    "available": false
+    "available": false,
+    "cost_price": 429.73,
+    "discount": 28.17,
+    "stock_level": 59
   },
   {
     "id": 454,
@@ -5445,7 +6804,10 @@
       "rate": 1.7,
       "count": 4602
     },
-    "available": true
+    "available": true,
+    "cost_price": 106.27,
+    "discount": 12.11,
+    "stock_level": 14
   },
   {
     "id": 455,
@@ -5457,7 +6819,10 @@
       "rate": 3.1,
       "count": 4581
     },
-    "available": false
+    "available": false,
+    "cost_price": 162.53,
+    "discount": 6.6,
+    "stock_level": 71
   },
   {
     "id": 456,
@@ -5469,7 +6834,10 @@
       "rate": 4.9,
       "count": 2777
     },
-    "available": true
+    "available": true,
+    "cost_price": 2961.7,
+    "discount": 29.9,
+    "stock_level": 15
   },
   {
     "id": 457,
@@ -5481,7 +6849,10 @@
       "rate": 4.9,
       "count": 1957
     },
-    "available": true
+    "available": true,
+    "cost_price": 165.17,
+    "discount": 18.27,
+    "stock_level": 16
   },
   {
     "id": 458,
@@ -5493,7 +6864,10 @@
       "rate": 1.4,
       "count": 2030
     },
-    "available": false
+    "available": false,
+    "cost_price": 125.43,
+    "discount": 30.9,
+    "stock_level": 17
   },
   {
     "id": 459,
@@ -5505,7 +6879,10 @@
       "rate": 2.5,
       "count": 3390
     },
-    "available": false
+    "available": false,
+    "cost_price": 546.79,
+    "discount": 49.91,
+    "stock_level": 25
   },
   {
     "id": 460,
@@ -5517,7 +6894,10 @@
       "rate": 1.6,
       "count": 3092
     },
-    "available": true
+    "available": true,
+    "cost_price": 287.66,
+    "discount": 37.8,
+    "stock_level": 44
   },
   {
     "id": 461,
@@ -5529,7 +6909,10 @@
       "rate": 2.6,
       "count": 107
     },
-    "available": false
+    "available": false,
+    "cost_price": 1814.17,
+    "discount": 26.11,
+    "stock_level": 57
   },
   {
     "id": 462,
@@ -5541,7 +6924,10 @@
       "rate": 2.0,
       "count": 4392
     },
-    "available": false
+    "available": false,
+    "cost_price": 248.7,
+    "discount": 19.02,
+    "stock_level": 16
   },
   {
     "id": 463,
@@ -5553,7 +6939,10 @@
       "rate": 1.7,
       "count": 1253
     },
-    "available": false
+    "available": false,
+    "cost_price": 539.63,
+    "discount": 5.29,
+    "stock_level": 6
   },
   {
     "id": 464,
@@ -5565,7 +6954,10 @@
       "rate": 3.7,
       "count": 923
     },
-    "available": true
+    "available": true,
+    "cost_price": 670.85,
+    "discount": 3.5,
+    "stock_level": 61
   },
   {
     "id": 465,
@@ -5577,7 +6969,10 @@
       "rate": 1.8,
       "count": 60
     },
-    "available": true
+    "available": true,
+    "cost_price": 404.98,
+    "discount": 33.73,
+    "stock_level": 19
   },
   {
     "id": 466,
@@ -5589,7 +6984,10 @@
       "rate": 1.6,
       "count": 1454
     },
-    "available": true
+    "available": true,
+    "cost_price": 765.54,
+    "discount": 37.99,
+    "stock_level": 14
   },
   {
     "id": 467,
@@ -5601,7 +6999,10 @@
       "rate": 1.9,
       "count": 1433
     },
-    "available": true
+    "available": true,
+    "cost_price": 76.58,
+    "discount": 4.1,
+    "stock_level": 66
   },
   {
     "id": 468,
@@ -5613,7 +7014,10 @@
       "rate": 4.4,
       "count": 4234
     },
-    "available": false
+    "available": false,
+    "cost_price": 309.96,
+    "discount": 12.89,
+    "stock_level": 84
   },
   {
     "id": 469,
@@ -5625,7 +7029,10 @@
       "rate": 3.4,
       "count": 1011
     },
-    "available": false
+    "available": false,
+    "cost_price": 60.82,
+    "discount": 38.49,
+    "stock_level": 75
   },
   {
     "id": 470,
@@ -5637,7 +7044,10 @@
       "rate": 1.9,
       "count": 862
     },
-    "available": false
+    "available": false,
+    "cost_price": 401.81,
+    "discount": 23.59,
+    "stock_level": 95
   },
   {
     "id": 471,
@@ -5649,7 +7059,10 @@
       "rate": 1.5,
       "count": 111
     },
-    "available": false
+    "available": false,
+    "cost_price": 646.5,
+    "discount": 6.16,
+    "stock_level": 79
   },
   {
     "id": 472,
@@ -5661,7 +7074,10 @@
       "rate": 2.5,
       "count": 3166
     },
-    "available": false
+    "available": false,
+    "cost_price": 103.62,
+    "discount": 14.72,
+    "stock_level": 83
   },
   {
     "id": 473,
@@ -5673,7 +7089,10 @@
       "rate": 3.0,
       "count": 4574
     },
-    "available": false
+    "available": false,
+    "cost_price": 1188.03,
+    "discount": 37.63,
+    "stock_level": 68
   },
   {
     "id": 474,
@@ -5685,7 +7104,10 @@
       "rate": 3.5,
       "count": 1784
     },
-    "available": true
+    "available": true,
+    "cost_price": 60.78,
+    "discount": 16.62,
+    "stock_level": 32
   },
   {
     "id": 475,
@@ -5697,7 +7119,10 @@
       "rate": 2.8,
       "count": 2980
     },
-    "available": false
+    "available": false,
+    "cost_price": 177.01,
+    "discount": 10.91,
+    "stock_level": 1
   },
   {
     "id": 476,
@@ -5709,7 +7134,10 @@
       "rate": 1.6,
       "count": 104
     },
-    "available": false
+    "available": false,
+    "cost_price": 194.46,
+    "discount": 19.03,
+    "stock_level": 26
   },
   {
     "id": 477,
@@ -5721,7 +7149,10 @@
       "rate": 4.8,
       "count": 2353
     },
-    "available": true
+    "available": true,
+    "cost_price": 99.77,
+    "discount": 0.48,
+    "stock_level": 16
   },
   {
     "id": 478,
@@ -5733,7 +7164,10 @@
       "rate": 1.7,
       "count": 4348
     },
-    "available": false
+    "available": false,
+    "cost_price": 707.83,
+    "discount": 4.61,
+    "stock_level": 12
   },
   {
     "id": 479,
@@ -5745,7 +7179,10 @@
       "rate": 3.2,
       "count": 1787
     },
-    "available": false
+    "available": false,
+    "cost_price": 69.8,
+    "discount": 28.85,
+    "stock_level": 23
   },
   {
     "id": 480,
@@ -5757,7 +7194,10 @@
       "rate": 4.4,
       "count": 1357
     },
-    "available": false
+    "available": false,
+    "cost_price": 129.61,
+    "discount": 16.56,
+    "stock_level": 36
   },
   {
     "id": 481,
@@ -5769,7 +7209,10 @@
       "rate": 3.2,
       "count": 2152
     },
-    "available": false
+    "available": false,
+    "cost_price": 69.65,
+    "discount": 26.25,
+    "stock_level": 76
   },
   {
     "id": 482,
@@ -5781,7 +7224,10 @@
       "rate": 1.4,
       "count": 4771
     },
-    "available": false
+    "available": false,
+    "cost_price": 823.69,
+    "discount": 35.24,
+    "stock_level": 62
   },
   {
     "id": 483,
@@ -5793,7 +7239,10 @@
       "rate": 3.1,
       "count": 6
     },
-    "available": true
+    "available": true,
+    "cost_price": 690.61,
+    "discount": 24.61,
+    "stock_level": 9
   },
   {
     "id": 484,
@@ -5805,7 +7254,10 @@
       "rate": 3.8,
       "count": 3465
     },
-    "available": false
+    "available": false,
+    "cost_price": 2371.75,
+    "discount": 18.62,
+    "stock_level": 65
   },
   {
     "id": 485,
@@ -5817,7 +7269,10 @@
       "rate": 3.5,
       "count": 349
     },
-    "available": false
+    "available": false,
+    "cost_price": 201.87,
+    "discount": 25.21,
+    "stock_level": 4
   },
   {
     "id": 486,
@@ -5829,7 +7284,10 @@
       "rate": 2.5,
       "count": 2605
     },
-    "available": false
+    "available": false,
+    "cost_price": 273.08,
+    "discount": 25.54,
+    "stock_level": 4
   },
   {
     "id": 487,
@@ -5841,7 +7299,10 @@
       "rate": 4.8,
       "count": 148
     },
-    "available": false
+    "available": false,
+    "cost_price": 56.17,
+    "discount": 4.52,
+    "stock_level": 30
   },
   {
     "id": 488,
@@ -5853,7 +7314,10 @@
       "rate": 2.8,
       "count": 3498
     },
-    "available": false
+    "available": false,
+    "cost_price": 58.47,
+    "discount": 0.86,
+    "stock_level": 3
   },
   {
     "id": 489,
@@ -5865,7 +7329,10 @@
       "rate": 4.5,
       "count": 1801
     },
-    "available": false
+    "available": false,
+    "cost_price": 99.71,
+    "discount": 33.15,
+    "stock_level": 85
   },
   {
     "id": 490,
@@ -5877,7 +7344,10 @@
       "rate": 4.9,
       "count": 4697
     },
-    "available": false
+    "available": false,
+    "cost_price": 377.97,
+    "discount": 7.25,
+    "stock_level": 47
   },
   {
     "id": 491,
@@ -5889,7 +7359,10 @@
       "rate": 4.4,
       "count": 3530
     },
-    "available": false
+    "available": false,
+    "cost_price": 121.82,
+    "discount": 25.43,
+    "stock_level": 18
   },
   {
     "id": 492,
@@ -5901,7 +7374,10 @@
       "rate": 2.5,
       "count": 4435
     },
-    "available": false
+    "available": false,
+    "cost_price": 264.91,
+    "discount": 8.5,
+    "stock_level": 86
   },
   {
     "id": 493,
@@ -5913,7 +7389,10 @@
       "rate": 4.9,
       "count": 1069
     },
-    "available": false
+    "available": false,
+    "cost_price": 40.11,
+    "discount": 8.96,
+    "stock_level": 35
   },
   {
     "id": 494,
@@ -5925,7 +7404,10 @@
       "rate": 1.9,
       "count": 922
     },
-    "available": false
+    "available": false,
+    "cost_price": 106.14,
+    "discount": 28.51,
+    "stock_level": 33
   },
   {
     "id": 495,
@@ -5937,7 +7419,10 @@
       "rate": 3.2,
       "count": 1701
     },
-    "available": false
+    "available": false,
+    "cost_price": 207.49,
+    "discount": 23.95,
+    "stock_level": 53
   },
   {
     "id": 496,
@@ -5949,7 +7434,10 @@
       "rate": 4.4,
       "count": 3602
     },
-    "available": true
+    "available": true,
+    "cost_price": 511.4,
+    "discount": 28.05,
+    "stock_level": 95
   },
   {
     "id": 497,
@@ -5961,7 +7449,10 @@
       "rate": 3.6,
       "count": 2638
     },
-    "available": false
+    "available": false,
+    "cost_price": 398.2,
+    "discount": 82.89,
+    "stock_level": 9
   },
   {
     "id": 498,
@@ -5973,7 +7464,10 @@
       "rate": 5.0,
       "count": 2753
     },
-    "available": true
+    "available": true,
+    "cost_price": 140.58,
+    "discount": 20.72,
+    "stock_level": 76
   },
   {
     "id": 499,
@@ -5985,7 +7479,10 @@
       "rate": 3.4,
       "count": 2906
     },
-    "available": false
+    "available": false,
+    "cost_price": 19.14,
+    "discount": 27.56,
+    "stock_level": 42
   },
   {
     "id": 500,
@@ -5997,6 +7494,9 @@
       "rate": 2.0,
       "count": 628
     },
-    "available": false
+    "available": false,
+    "cost_price": 972.62,
+    "discount": 20.02,
+    "stock_level": 74
   }
 ]
