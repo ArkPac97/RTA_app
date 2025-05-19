@@ -16,8 +16,8 @@ with open(PRODUCTS_PATH, 'r', encoding='utf-8') as f:
 
 for product in products:
     producer.send('products', product)
-    print(f"Sent: {product['title']} - {product['price']} zł")
+    print(f"Iteracja: title: {product['title']} / price: {product['price']} / cost_price: {product['cost_price']} / discount: {product['discount']}")
     time.sleep(4)
 
 producer.flush()
-print("Wysłano wszystkie produkty.")
+print("Koniec listy")

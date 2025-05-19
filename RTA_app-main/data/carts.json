@@ -17,7 +17,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 279.17,
+    "total_price": 929,
     "payment_type": "credit_card"
   },
   {
@@ -30,8 +30,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 336.37,
-    "payment_type": "cash_on_delivery"
+    "total_price": 496,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
         "quantity": 3
       }
     ],
-    "total_price": 4993.74,
+    "total_price": 1506,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -57,15 +57,15 @@
     "products": [
       {
         "productId": 43,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 345,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 660.3,
-    "payment_type": "paypal"
+    "total_price": 1059,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 5,
@@ -78,7 +78,7 @@
       },
       {
         "productId": 245,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 163,
@@ -89,8 +89,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 894.28,
-    "payment_type": "paypal"
+    "total_price": 3447,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 6,
@@ -99,10 +99,10 @@
     "products": [
       {
         "productId": 71,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 103.94,
+    "total_price": 204,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -115,8 +115,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 4495.34,
-    "payment_type": "bank_transfer"
+    "total_price": 358,
+    "payment_type": "paypal"
   },
   {
     "id": 8,
@@ -129,14 +129,14 @@
       },
       {
         "productId": 136,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 413,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 6177.27,
+    "total_price": 1867,
     "payment_type": "bank_transfer"
   },
   {
@@ -146,15 +146,15 @@
     "products": [
       {
         "productId": 419,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 374,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 1418.31,
-    "payment_type": "credit_card"
+    "total_price": 1869,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 10,
@@ -163,11 +163,11 @@
     "products": [
       {
         "productId": 24,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1078.44,
-    "payment_type": "bank_transfer"
+    "total_price": 600,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 11,
@@ -176,7 +176,7 @@
     "products": [
       {
         "productId": 96,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 495,
@@ -187,8 +187,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1307.41,
-    "payment_type": "credit_card"
+    "total_price": 1804,
+    "payment_type": "paypal"
   },
   {
     "id": 12,
@@ -197,11 +197,11 @@
     "products": [
       {
         "productId": 121,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 350,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 451,
@@ -212,7 +212,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 10551.16,
+    "total_price": 2943,
     "payment_type": "credit_card"
   },
   {
@@ -226,7 +226,7 @@
       },
       {
         "productId": 448,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 172,
@@ -234,14 +234,14 @@
       },
       {
         "productId": 337,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 335,
         "quantity": 1
       }
     ],
-    "total_price": 5751.47,
+    "total_price": 2097,
     "payment_type": "credit_card"
   },
   {
@@ -255,7 +255,7 @@
       },
       {
         "productId": 415,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 102,
@@ -263,11 +263,11 @@
       },
       {
         "productId": 265,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 6948.63,
-    "payment_type": "credit_card"
+    "total_price": 3199,
+    "payment_type": "paypal"
   },
   {
     "id": 15,
@@ -288,15 +288,15 @@
       },
       {
         "productId": 296,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 16,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3723.45,
-    "payment_type": "bank_transfer"
+    "total_price": 3273,
+    "payment_type": "credit_card"
   },
   {
     "id": 16,
@@ -313,15 +313,15 @@
       },
       {
         "productId": 16,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 241,
         "quantity": 1
       }
     ],
-    "total_price": 1646.83,
-    "payment_type": "paypal"
+    "total_price": 2689,
+    "payment_type": "credit_card"
   },
   {
     "id": 17,
@@ -334,14 +334,14 @@
       },
       {
         "productId": 209,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 41,
         "quantity": 1
       }
     ],
-    "total_price": 7058.38,
+    "total_price": 2305,
     "payment_type": "bank_transfer"
   },
   {
@@ -351,7 +351,7 @@
     "products": [
       {
         "productId": 475,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 19,
@@ -370,8 +370,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 4940.78,
-    "payment_type": "bank_transfer"
+    "total_price": 2638,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 19,
@@ -384,15 +384,15 @@
       },
       {
         "productId": 424,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 229,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1300.61,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1805,
+    "payment_type": "paypal"
   },
   {
     "id": 20,
@@ -401,15 +401,15 @@
     "products": [
       {
         "productId": 77,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 247,
         "quantity": 1
       }
     ],
-    "total_price": 2253.82,
-    "payment_type": "credit_card"
+    "total_price": 1472,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 21,
@@ -421,8 +421,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 939.48,
-    "payment_type": "credit_card"
+    "total_price": 138,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 22,
@@ -434,7 +434,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 533.34,
+    "total_price": 744,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -444,15 +444,15 @@
     "products": [
       {
         "productId": 449,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 463,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 3244.56,
-    "payment_type": "bank_transfer"
+    "total_price": 1330,
+    "payment_type": "credit_card"
   },
   {
     "id": 24,
@@ -461,7 +461,7 @@
     "products": [
       {
         "productId": 217,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 25,
@@ -473,15 +473,15 @@
       },
       {
         "productId": 369,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 17,
         "quantity": 1
       }
     ],
-    "total_price": 1004.85,
-    "payment_type": "bank_transfer"
+    "total_price": 2249,
+    "payment_type": "credit_card"
   },
   {
     "id": 25,
@@ -490,19 +490,19 @@
     "products": [
       {
         "productId": 1,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 279,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 439,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1749.8,
-    "payment_type": "paypal"
+    "total_price": 1975,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 26,
@@ -526,8 +526,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 3247.25,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1383,
+    "payment_type": "credit_card"
   },
   {
     "id": 27,
@@ -539,8 +539,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 3360.14,
-    "payment_type": "credit_card"
+    "total_price": 374,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 28,
@@ -553,11 +553,11 @@
       },
       {
         "productId": 121,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3321.03,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1317,
+    "payment_type": "paypal"
   },
   {
     "id": 29,
@@ -566,23 +566,23 @@
     "products": [
       {
         "productId": 204,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 270,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 116,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 263,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4750.77,
-    "payment_type": "cash_on_delivery"
+    "total_price": 3108,
+    "payment_type": "credit_card"
   },
   {
     "id": 30,
@@ -595,7 +595,7 @@
       },
       {
         "productId": 154,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 376,
@@ -603,15 +603,15 @@
       },
       {
         "productId": 245,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 316,
         "quantity": 1
       }
     ],
-    "total_price": 3032.85,
-    "payment_type": "paypal"
+    "total_price": 3744,
+    "payment_type": "credit_card"
   },
   {
     "id": 31,
@@ -627,8 +627,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 288.76,
-    "payment_type": "paypal"
+    "total_price": 1259,
+    "payment_type": "credit_card"
   },
   {
     "id": 32,
@@ -640,8 +640,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 99.98,
-    "payment_type": "cash_on_delivery"
+    "total_price": 866,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 33,
@@ -654,10 +654,10 @@
       },
       {
         "productId": 45,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 8445.24,
+    "total_price": 2120,
     "payment_type": "paypal"
   },
   {
@@ -671,15 +671,15 @@
       },
       {
         "productId": 83,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 418,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 375.61,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2437,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 35,
@@ -691,8 +691,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 115.63,
-    "payment_type": "bank_transfer"
+    "total_price": 431,
+    "payment_type": "paypal"
   },
   {
     "id": 36,
@@ -701,11 +701,11 @@
     "products": [
       {
         "productId": 487,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 246.96,
-    "payment_type": "bank_transfer"
+    "total_price": 1257,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 37,
@@ -722,18 +722,18 @@
       },
       {
         "productId": 226,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 447,
-        "quantity": 3
+        "quantity": 2
       },
       {
         "productId": 426,
         "quantity": 2
       }
     ],
-    "total_price": 10744.04,
+    "total_price": 3585,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -743,11 +743,11 @@
     "products": [
       {
         "productId": 79,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 767.91,
-    "payment_type": "cash_on_delivery"
+    "total_price": 891,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 39,
@@ -764,15 +764,15 @@
       },
       {
         "productId": 300,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 29,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3754.13,
-    "payment_type": "paypal"
+    "total_price": 2258,
+    "payment_type": "credit_card"
   },
   {
     "id": 40,
@@ -785,23 +785,15 @@
       },
       {
         "productId": 478,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 88,
-        "quantity": 2
-      },
-      {
-        "productId": 410,
-        "quantity": 2
-      },
-      {
-        "productId": 327,
         "quantity": 1
       }
     ],
-    "total_price": 4093.47,
-    "payment_type": "bank_transfer"
+    "total_price": 3237,
+    "payment_type": "credit_card"
   },
   {
     "id": 41,
@@ -810,15 +802,15 @@
     "products": [
       {
         "productId": 382,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 467,
         "quantity": 1
       }
     ],
-    "total_price": 1033.19,
-    "payment_type": "bank_transfer"
+    "total_price": 762,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 42,
@@ -831,7 +823,7 @@
       },
       {
         "productId": 377,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 314,
@@ -839,15 +831,11 @@
       },
       {
         "productId": 210,
-        "quantity": 2
-      },
-      {
-        "productId": 129,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3635.96,
-    "payment_type": "paypal"
+    "total_price": 3677,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 43,
@@ -861,14 +849,10 @@
       {
         "productId": 82,
         "quantity": 1
-      },
-      {
-        "productId": 239,
-        "quantity": 3
       }
     ],
-    "total_price": 2195.99,
-    "payment_type": "paypal"
+    "total_price": 1159,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 44,
@@ -885,19 +869,11 @@
       },
       {
         "productId": 114,
-        "quantity": 2
-      },
-      {
-        "productId": 355,
-        "quantity": 2
-      },
-      {
-        "productId": 103,
         "quantity": 1
       }
     ],
-    "total_price": 7760.65,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2731,
+    "payment_type": "credit_card"
   },
   {
     "id": 45,
@@ -906,15 +882,15 @@
     "products": [
       {
         "productId": 484,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 237,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 12469.5,
-    "payment_type": "credit_card"
+    "total_price": 2271,
+    "payment_type": "paypal"
   },
   {
     "id": 46,
@@ -930,8 +906,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 532.09,
-    "payment_type": "bank_transfer"
+    "total_price": 556,
+    "payment_type": "credit_card"
   },
   {
     "id": 47,
@@ -943,8 +919,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 837.46,
-    "payment_type": "credit_card"
+    "total_price": 854,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 48,
@@ -957,11 +933,11 @@
       },
       {
         "productId": 411,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 7946.09,
-    "payment_type": "bank_transfer"
+    "total_price": 1058,
+    "payment_type": "credit_card"
   },
   {
     "id": 49,
@@ -978,15 +954,11 @@
       },
       {
         "productId": 162,
-        "quantity": 3
-      },
-      {
-        "productId": 364,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 16485.35,
-    "payment_type": "paypal"
+    "total_price": 2831,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 50,
@@ -995,23 +967,19 @@
     "products": [
       {
         "productId": 93,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 476,
         "quantity": 1
       },
       {
-        "productId": 94,
-        "quantity": 1
-      },
-      {
         "productId": 354,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 5303.32,
-    "payment_type": "bank_transfer"
+    "total_price": 1719,
+    "payment_type": "paypal"
   },
   {
     "id": 51,
@@ -1029,14 +997,10 @@
       {
         "productId": 449,
         "quantity": 1
-      },
-      {
-        "productId": 217,
-        "quantity": 1
       }
     ],
-    "total_price": 2661.37,
-    "payment_type": "bank_transfer"
+    "total_price": 1338,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 52,
@@ -1045,15 +1009,15 @@
     "products": [
       {
         "productId": 56,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 286,
         "quantity": 1
       }
     ],
-    "total_price": 1466.71,
-    "payment_type": "bank_transfer"
+    "total_price": 1273,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 53,
@@ -1065,24 +1029,16 @@
         "quantity": 3
       },
       {
-        "productId": 467,
-        "quantity": 3
-      },
-      {
         "productId": 126,
         "quantity": 2
-      },
-      {
-        "productId": 498,
-        "quantity": 3
       },
       {
         "productId": 387,
         "quantity": 1
       }
     ],
-    "total_price": 3006.12,
-    "payment_type": "cash_on_delivery"
+    "total_price": 3199,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 54,
@@ -1095,15 +1051,15 @@
       },
       {
         "productId": 251,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 5,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 18592.39,
-    "payment_type": "bank_transfer"
+    "total_price": 2724,
+    "payment_type": "credit_card"
   },
   {
     "id": 55,
@@ -1112,22 +1068,18 @@
     "products": [
       {
         "productId": 99,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 79,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 432,
         "quantity": 2
-      },
-      {
-        "productId": 163,
-        "quantity": 3
       }
     ],
-    "total_price": 3785.43,
+    "total_price": 4012,
     "payment_type": "bank_transfer"
   },
   {
@@ -1140,24 +1092,16 @@
         "quantity": 2
       },
       {
-        "productId": 311,
-        "quantity": 3
-      },
-      {
         "productId": 89,
         "quantity": 1
-      },
-      {
-        "productId": 443,
-        "quantity": 2
       },
       {
         "productId": 171,
         "quantity": 1
       }
     ],
-    "total_price": 2931.22,
-    "payment_type": "bank_transfer"
+    "total_price": 3210,
+    "payment_type": "credit_card"
   },
   {
     "id": 57,
@@ -1173,8 +1117,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 2715.89,
-    "payment_type": "cash_on_delivery"
+    "total_price": 808,
+    "payment_type": "credit_card"
   },
   {
     "id": 58,
@@ -1187,11 +1131,11 @@
       },
       {
         "productId": 165,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 924.18,
-    "payment_type": "bank_transfer"
+    "total_price": 1248,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 59,
@@ -1207,16 +1151,12 @@
         "quantity": 2
       },
       {
-        "productId": 190,
-        "quantity": 1
-      },
-      {
         "productId": 362,
         "quantity": 3
       }
     ],
-    "total_price": 5584.68,
-    "payment_type": "credit_card"
+    "total_price": 2032,
+    "payment_type": "paypal"
   },
   {
     "id": 60,
@@ -1232,8 +1172,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1732.13,
-    "payment_type": "credit_card"
+    "total_price": 1186,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 61,
@@ -1247,14 +1187,10 @@
       {
         "productId": 251,
         "quantity": 1
-      },
-      {
-        "productId": 191,
-        "quantity": 3
       }
     ],
-    "total_price": 8293.41,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1710,
+    "payment_type": "paypal"
   },
   {
     "id": 62,
@@ -1266,7 +1202,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 99.03,
+    "total_price": 278,
     "payment_type": "bank_transfer"
   },
   {
@@ -1276,18 +1212,18 @@
     "products": [
       {
         "productId": 175,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 124,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 261,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 4860.24,
+    "total_price": 2721,
     "payment_type": "bank_transfer"
   },
   {
@@ -1300,20 +1236,16 @@
         "quantity": 1
       },
       {
-        "productId": 290,
-        "quantity": 3
-      },
-      {
         "productId": 73,
         "quantity": 2
       },
       {
         "productId": 369,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2752.56,
-    "payment_type": "paypal"
+    "total_price": 2724,
+    "payment_type": "credit_card"
   },
   {
     "id": 65,
@@ -1322,29 +1254,25 @@
     "products": [
       {
         "productId": 54,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 392,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 4,
         "quantity": 2
       }
     ],
-    "total_price": 5275.46,
-    "payment_type": "cash_on_delivery"
+    "total_price": 3577,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 66,
     "userId": 52,
     "date": "2025-03-21T23:34:00.656052",
     "products": [
-      {
-        "productId": 351,
-        "quantity": 3
-      },
       {
         "productId": 58,
         "quantity": 2
@@ -1354,7 +1282,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 879.55,
+    "total_price": 2126,
     "payment_type": "bank_transfer"
   },
   {
@@ -1371,7 +1299,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 198.58,
+    "total_price": 574,
     "payment_type": "bank_transfer"
   },
   {
@@ -1384,8 +1312,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 447.59,
-    "payment_type": "credit_card"
+    "total_price": 448,
+    "payment_type": "paypal"
   },
   {
     "id": 69,
@@ -1394,15 +1322,15 @@
     "products": [
       {
         "productId": 245,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 115,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 383.67,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2181,
+    "payment_type": "paypal"
   },
   {
     "id": 70,
@@ -1426,7 +1354,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 951.31,
+    "total_price": 1381,
     "payment_type": "paypal"
   },
   {
@@ -1440,11 +1368,11 @@
       },
       {
         "productId": 163,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 405.73,
-    "payment_type": "bank_transfer"
+    "total_price": 1672,
+    "payment_type": "credit_card"
   },
   {
     "id": 72,
@@ -1457,11 +1385,11 @@
       },
       {
         "productId": 253,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 991.34,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1518,
+    "payment_type": "paypal"
   },
   {
     "id": 73,
@@ -1475,22 +1403,10 @@
       {
         "productId": 490,
         "quantity": 1
-      },
-      {
-        "productId": 138,
-        "quantity": 3
-      },
-      {
-        "productId": 367,
-        "quantity": 1
-      },
-      {
-        "productId": 390,
-        "quantity": 3
       }
     ],
-    "total_price": 8316.46,
-    "payment_type": "bank_transfer"
+    "total_price": 2630,
+    "payment_type": "paypal"
   },
   {
     "id": 74,
@@ -1499,11 +1415,11 @@
     "products": [
       {
         "productId": 249,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 597.06,
-    "payment_type": "cash_on_delivery"
+    "total_price": 478,
+    "payment_type": "credit_card"
   },
   {
     "id": 75,
@@ -1512,19 +1428,15 @@
     "products": [
       {
         "productId": 390,
-        "quantity": 3
-      },
-      {
-        "productId": 73,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 276,
         "quantity": 2
       }
     ],
-    "total_price": 6186.63,
-    "payment_type": "credit_card"
+    "total_price": 2353,
+    "payment_type": "paypal"
   },
   {
     "id": 76,
@@ -1536,23 +1448,15 @@
         "quantity": 2
       },
       {
-        "productId": 260,
-        "quantity": 3
-      },
-      {
         "productId": 305,
         "quantity": 2
       },
       {
-        "productId": 120,
-        "quantity": 3
-      },
-      {
         "productId": 108,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 9504.36,
+    "total_price": 3483,
     "payment_type": "credit_card"
   },
   {
@@ -1567,21 +1471,9 @@
       {
         "productId": 456,
         "quantity": 1
-      },
-      {
-        "productId": 171,
-        "quantity": 3
-      },
-      {
-        "productId": 318,
-        "quantity": 2
-      },
-      {
-        "productId": 390,
-        "quantity": 2
       }
     ],
-    "total_price": 7012.83,
+    "total_price": 3742,
     "payment_type": "paypal"
   },
   {
@@ -1589,10 +1481,6 @@
     "userId": 3,
     "date": "2025-03-16T23:34:00.656052",
     "products": [
-      {
-        "productId": 474,
-        "quantity": 3
-      },
       {
         "productId": 456,
         "quantity": 1
@@ -1606,8 +1494,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 5791.37,
-    "payment_type": "paypal"
+    "total_price": 1500,
+    "payment_type": "credit_card"
   },
   {
     "id": 79,
@@ -1616,11 +1504,7 @@
     "products": [
       {
         "productId": 289,
-        "quantity": 3
-      },
-      {
-        "productId": 369,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 366,
@@ -1628,15 +1512,15 @@
       },
       {
         "productId": 45,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 107,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 2458.3,
-    "payment_type": "credit_card"
+    "total_price": 2840,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 80,
@@ -1645,18 +1529,10 @@
     "products": [
       {
         "productId": 11,
-        "quantity": 3
+        "quantity":1
       },
       {
         "productId": 58,
-        "quantity": 2
-      },
-      {
-        "productId": 62,
-        "quantity": 3
-      },
-      {
-        "productId": 407,
         "quantity": 2
       },
       {
@@ -1664,8 +1540,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 6543.51,
-    "payment_type": "bank_transfer"
+    "total_price": 2078,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 81,
@@ -1681,8 +1557,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 3789.54,
-    "payment_type": "paypal"
+    "total_price": 1288,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 82,
@@ -1696,14 +1572,10 @@
       {
         "productId": 162,
         "quantity": 2
-      },
-      {
-        "productId": 11,
-        "quantity": 2
       }
     ],
-    "total_price": 4795.98,
-    "payment_type": "paypal"
+    "total_price": 1436,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 83,
@@ -1715,8 +1587,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1492.08,
-    "payment_type": "paypal"
+    "total_price": 427,
+    "payment_type": "credit_card"
   },
   {
     "id": 84,
@@ -1728,8 +1600,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 3453.33,
-    "payment_type": "paypal"
+    "total_price": 280,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 85,
@@ -1743,14 +1615,10 @@
       {
         "productId": 171,
         "quantity": 2
-      },
-      {
-        "productId": 192,
-        "quantity": 2
       }
     ],
-    "total_price": 6771.34,
-    "payment_type": "credit_card"
+    "total_price": 2848,
+    "payment_type": "paypal"
   },
   {
     "id": 86,
@@ -1762,16 +1630,12 @@
         "quantity": 1
       },
       {
-        "productId": 465,
-        "quantity": 3
-      },
-      {
         "productId": 218,
         "quantity": 2
       }
     ],
-    "total_price": 2119.25,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1559,
+    "payment_type": "paypal"
   },
   {
     "id": 87,
@@ -1783,20 +1647,12 @@
         "quantity": 2
       },
       {
-        "productId": 423,
-        "quantity": 3
-      },
-      {
-        "productId": 60,
-        "quantity": 2
-      },
-      {
         "productId": 391,
         "quantity": 1
       }
     ],
-    "total_price": 4852.86,
-    "payment_type": "paypal"
+    "total_price": 2344,
+    "payment_type": "credit_card"
   },
   {
     "id": 88,
@@ -1806,22 +1662,10 @@
       {
         "productId": 418,
         "quantity": 2
-      },
-      {
-        "productId": 235,
-        "quantity": 2
-      },
-      {
-        "productId": 43,
-        "quantity": 2
-      },
-      {
-        "productId": 84,
-        "quantity": 2
       }
     ],
-    "total_price": 509.14,
-    "payment_type": "bank_transfer"
+    "total_price": 1596,
+    "payment_type": "paypal"
   },
   {
     "id": 89,
@@ -1833,16 +1677,12 @@
         "quantity": 2
       },
       {
-        "productId": 122,
-        "quantity": 3
-      },
-      {
         "productId": 326,
         "quantity": 1
       }
     ],
-    "total_price": 2623.98,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1659,
+    "payment_type": "paypal"
   },
   {
     "id": 90,
@@ -1858,19 +1698,11 @@
         "quantity": 1
       },
       {
-        "productId": 480,
-        "quantity": 2
-      },
-      {
-        "productId": 195,
-        "quantity": 3
-      },
-      {
         "productId": 134,
         "quantity": 1
       }
     ],
-    "total_price": 12348.23,
+    "total_price": 2409,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -1889,14 +1721,10 @@
       {
         "productId": 175,
         "quantity": 1
-      },
-      {
-        "productId": 346,
-        "quantity": 2
       }
     ],
-    "total_price": 2214.29,
-    "payment_type": "paypal"
+    "total_price": 1392,
+    "payment_type": "credit_card"
   },
   {
     "id": 92,
@@ -1908,10 +1736,6 @@
         "quantity": 2
       },
       {
-        "productId": 471,
-        "quantity": 2
-      },
-      {
         "productId": 182,
         "quantity": 1
       },
@@ -1920,8 +1744,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 4430.68,
-    "payment_type": "credit_card"
+    "total_price": 2168,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 93,
@@ -1934,11 +1758,11 @@
       },
       {
         "productId": 331,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 854.18,
-    "payment_type": "paypal"
+    "total_price": 1068,
+    "payment_type": "credit_card"
   },
   {
     "id": 94,
@@ -1950,20 +1774,12 @@
         "quantity": 2
       },
       {
-        "productId": 398,
-        "quantity": 2
-      },
-      {
-        "productId": 204,
-        "quantity": 1
-      },
-      {
         "productId": 7,
         "quantity": 3
       }
     ],
-    "total_price": 6107.84,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2779,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 95,
@@ -1971,20 +1787,12 @@
     "date": "2025-03-24T23:34:00.657052",
     "products": [
       {
-        "productId": 285,
-        "quantity": 3
-      },
-      {
-        "productId": 371,
-        "quantity": 3
-      },
-      {
         "productId": 197,
         "quantity": 2
       }
     ],
-    "total_price": 1772.48,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2079,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 96,
@@ -1993,26 +1801,18 @@
     "products": [
       {
         "productId": 133,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 6,
         "quantity": 1
       },
       {
-        "productId": 28,
-        "quantity": 1
-      },
-      {
-        "productId": 117,
-        "quantity": 2
-      },
-      {
         "productId": 216,
         "quantity": 2
       }
     ],
-    "total_price": 2858.1,
+    "total_price": 3076,
     "payment_type": "paypal"
   },
   {
@@ -2026,23 +1826,19 @@
       },
       {
         "productId": 32,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 359,
         "quantity": 2
       },
       {
-        "productId": 71,
-        "quantity": 3
-      },
-      {
         "productId": 20,
         "quantity": 1
       }
     ],
-    "total_price": 832.96,
-    "payment_type": "paypal"
+    "total_price": 2608,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 98,
@@ -2058,8 +1854,8 @@
         "quantity": 3
       }
     ],
-    "total_price": 2458.12,
-    "payment_type": "credit_card"
+    "total_price": 1058,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 99,
@@ -2079,8 +1875,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 2708.56,
-    "payment_type": "bank_transfer"
+    "total_price": 653,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 100,
@@ -2092,23 +1888,15 @@
         "quantity": 1
       },
       {
-        "productId": 136,
-        "quantity": 3
-      },
-      {
         "productId": 438,
         "quantity": 2
-      },
-      {
-        "productId": 173,
-        "quantity": 3
       },
       {
         "productId": 330,
         "quantity": 2
       }
     ],
-    "total_price": 8722.98,
+    "total_price": 3134,
     "payment_type": "credit_card"
   },
   {
@@ -2133,8 +1921,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 2810.29,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1928,
+    "payment_type": "credit_card"
   },
   {
     "id": 102,
@@ -2146,19 +1934,11 @@
         "quantity": 3
       },
       {
-        "productId": 72,
-        "quantity": 3
-      },
-      {
-        "productId": 441,
-        "quantity": 3
-      },
-      {
         "productId": 431,
         "quantity": 2
       }
     ],
-    "total_price": 7090.58,
+    "total_price": 2822,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -2173,14 +1953,10 @@
       {
         "productId": 23,
         "quantity": 1
-      },
-      {
-        "productId": 303,
-        "quantity": 2
       }
     ],
-    "total_price": 626.5,
-    "payment_type": "cash_on_delivery"
+    "total_price": 848,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 104,
@@ -2196,7 +1972,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 175.67,
+    "total_price": 998,
     "payment_type": "credit_card"
   },
   {
@@ -2213,8 +1989,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 7935.68,
-    "payment_type": "cash_on_delivery"
+    "total_price": 722,
+    "payment_type": "paypal"
   },
   {
     "id": 106,
@@ -2223,11 +1999,11 @@
     "products": [
       {
         "productId": 173,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 1059.75,
-    "payment_type": "bank_transfer"
+    "total_price": 1296,
+    "payment_type": "paypal"
   },
   {
     "id": 107,
@@ -2239,24 +2015,12 @@
         "quantity": 1
       },
       {
-        "productId": 486,
-        "quantity": 3
-      },
-      {
-        "productId": 59,
-        "quantity": 3
-      },
-      {
-        "productId": 314,
-        "quantity": 2
-      },
-      {
         "productId": 93,
         "quantity": 2
       }
     ],
-    "total_price": 6457.44,
-    "payment_type": "bank_transfer"
+    "total_price": 3958,
+    "payment_type": "paypal"
   },
   {
     "id": 108,
@@ -2270,18 +2034,10 @@
       {
         "productId": 493,
         "quantity": 2
-      },
-      {
-        "productId": 429,
-        "quantity": 2
-      },
-      {
-        "productId": 497,
-        "quantity": 3
       }
     ],
-    "total_price": 2699.08,
-    "payment_type": "bank_transfer"
+    "total_price": 2075,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 109,
@@ -2293,10 +2049,6 @@
         "quantity": 1
       },
       {
-        "productId": 223,
-        "quantity": 3
-      },
-      {
         "productId": 65,
         "quantity": 1
       },
@@ -2305,7 +2057,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 1675.13,
+    "total_price": 1680,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -2319,10 +2071,10 @@
       },
       {
         "productId": 225,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 1180.39,
+    "total_price": 1352,
     "payment_type": "credit_card"
   },
   {
@@ -2333,18 +2085,10 @@
       {
         "productId": 484,
         "quantity": 2
-      },
-      {
-        "productId": 247,
-        "quantity": 2
-      },
-      {
-        "productId": 204,
-        "quantity": 3
       }
     ],
-    "total_price": 9851.56,
-    "payment_type": "bank_transfer"
+    "total_price": 1896,
+    "payment_type": "paypal"
   },
   {
     "id": 112,
@@ -2353,11 +2097,11 @@
     "products": [
       {
         "productId": 153,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1882.83,
-    "payment_type": "bank_transfer"
+    "total_price": 972,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 113,
@@ -2370,10 +2114,10 @@
       },
       {
         "productId": 416,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 8098.64,
+    "total_price": 1176,
     "payment_type": "bank_transfer"
   },
   {
@@ -2387,11 +2131,11 @@
       },
       {
         "productId": 275,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 391.25,
-    "payment_type": "paypal"
+    "total_price": 1086,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 115,
@@ -2403,19 +2147,15 @@
         "quantity": 3
       },
       {
-        "productId": 64,
-        "quantity": 3
-      },
-      {
         "productId": 230,
         "quantity": 1
       },
       {
         "productId": 397,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 4222.11,
+    "total_price": 2823,
     "payment_type": "bank_transfer"
   },
   {
@@ -2424,20 +2164,12 @@
     "date": "2025-03-26T23:34:00.657052",
     "products": [
       {
-        "productId": 350,
-        "quantity": 3
-      },
-      {
-        "productId": 452,
-        "quantity": 3
-      },
-      {
         "productId": 289,
         "quantity": 2
       }
     ],
-    "total_price": 9505.77,
-    "payment_type": "credit_card"
+    "total_price": 2317,
+    "payment_type": "paypal"
   },
   {
     "id": 117,
@@ -2446,11 +2178,11 @@
     "products": [
       {
         "productId": 265,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1912.98,
-    "payment_type": "credit_card"
+    "total_price": 1458,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 118,
@@ -2459,27 +2191,19 @@
     "products": [
       {
         "productId": 35,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 337,
         "quantity": 1
       },
       {
-        "productId": 288,
-        "quantity": 1
-      },
-      {
-        "productId": 228,
-        "quantity": 3
-      },
-      {
         "productId": 167,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 6337.22,
-    "payment_type": "paypal"
+    "total_price": 3355,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 119,
@@ -2487,20 +2211,16 @@
     "date": "2025-03-31T23:34:00.657052",
     "products": [
       {
-        "productId": 427,
-        "quantity": 3
-      },
-      {
         "productId": 217,
         "quantity": 1
       },
       {
         "productId": 81,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 10716.43,
-    "payment_type": "credit_card"
+    "total_price": 1854,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 120,
@@ -2509,15 +2229,15 @@
     "products": [
       {
         "productId": 430,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 216,
         "quantity": 2
       }
     ],
-    "total_price": 485.29,
-    "payment_type": "bank_transfer"
+    "total_price": 1129,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 121,
@@ -2526,11 +2246,11 @@
     "products": [
       {
         "productId": 12,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 868.62,
-    "payment_type": "cash_on_delivery"
+    "total_price": 633,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 122,
@@ -2543,14 +2263,14 @@
       },
       {
         "productId": 30,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 440,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1354.09,
+    "total_price": 2573,
     "payment_type": "paypal"
   },
   {
@@ -2560,15 +2280,15 @@
     "products": [
       {
         "productId": 446,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 94,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 11826.81,
-    "payment_type": "bank_transfer"
+    "total_price": 2193,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 124,
@@ -2584,8 +2304,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 579.96,
-    "payment_type": "cash_on_delivery"
+    "total_price": 507,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 125,
@@ -2601,8 +2321,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1189.11,
-    "payment_type": "cash_on_delivery"
+    "total_price": 497,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 126,
@@ -2611,15 +2331,15 @@
     "products": [
       {
         "productId": 372,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 476,
         "quantity": 2
       }
     ],
-    "total_price": 1312.37,
-    "payment_type": "paypal"
+    "total_price": 1810,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 127,
@@ -2631,8 +2351,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 27.73,
-    "payment_type": "paypal"
+    "total_price": 175,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 128,
@@ -2645,15 +2365,11 @@
       },
       {
         "productId": 335,
-        "quantity": 3
-      },
-      {
-        "productId": 274,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 519.51,
-    "payment_type": "bank_transfer"
+    "total_price": 1858,
+    "payment_type": "paypal"
   },
   {
     "id": 129,
@@ -2662,11 +2378,11 @@
     "products": [
       {
         "productId": 496,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1776.69,
-    "payment_type": "bank_transfer"
+    "total_price": 807,
+    "payment_type": "paypal"
   },
   {
     "id": 130,
@@ -2675,19 +2391,15 @@
     "products": [
       {
         "productId": 399,
-        "quantity": 3
-      },
-      {
-        "productId": 212,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 486,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 2734.02,
-    "payment_type": "credit_card"
+    "total_price": 3507,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 131,
@@ -2700,15 +2412,15 @@
       },
       {
         "productId": 384,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 437,
         "quantity": 2
       }
     ],
-    "total_price": 4088.97,
-    "payment_type": "credit_card"
+    "total_price": 1741,
+    "payment_type": "paypal"
   },
   {
     "id": 132,
@@ -2721,11 +2433,11 @@
       },
       {
         "productId": 299,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1026.99,
-    "payment_type": "paypal"
+    "total_price": 1012,
+    "payment_type": "credit_card"
   },
   {
     "id": 133,
@@ -2737,8 +2449,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 227.85,
-    "payment_type": "credit_card"
+    "total_price": 388,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 134,
@@ -2750,8 +2462,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 907.0,
-    "payment_type": "credit_card"
+    "total_price": 370,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 135,
@@ -2761,14 +2473,10 @@
       {
         "productId": 445,
         "quantity": 3
-      },
-      {
-        "productId": 290,
-        "quantity": 3
       }
     ],
-    "total_price": 1842.45,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1953,
+    "payment_type": "credit_card"
   },
   {
     "id": 136,
@@ -2777,7 +2485,7 @@
     "products": [
       {
         "productId": 22,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 309,
@@ -2786,13 +2494,9 @@
       {
         "productId": 76,
         "quantity": 1
-      },
-      {
-        "productId": 230,
-        "quantity": 2
       }
     ],
-    "total_price": 8942.97,
+    "total_price": 2755,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -2807,22 +2511,10 @@
       {
         "productId": 348,
         "quantity": 1
-      },
-      {
-        "productId": 270,
-        "quantity": 1
-      },
-      {
-        "productId": 380,
-        "quantity": 2
-      },
-      {
-        "productId": 322,
-        "quantity": 3
       }
     ],
-    "total_price": 1730.15,
-    "payment_type": "credit_card"
+    "total_price": 2498,
+    "payment_type": "paypal"
   },
   {
     "id": 138,
@@ -2836,14 +2528,10 @@
       {
         "productId": 177,
         "quantity": 1
-      },
-      {
-        "productId": 499,
-        "quantity": 3
       }
     ],
-    "total_price": 1670.56,
-    "payment_type": "credit_card"
+    "total_price": 1080,
+    "payment_type": "paypal"
   },
   {
     "id": 139,
@@ -2857,22 +2545,10 @@
       {
         "productId": 88,
         "quantity": 1
-      },
-      {
-        "productId": 15,
-        "quantity": 2
-      },
-      {
-        "productId": 169,
-        "quantity": 1
-      },
-      {
-        "productId": 414,
-        "quantity": 2
       }
     ],
-    "total_price": 10889.14,
-    "payment_type": "paypal"
+    "total_price": 2217,
+    "payment_type": "credit_card"
   },
   {
     "id": 140,
@@ -2881,23 +2557,15 @@
     "products": [
       {
         "productId": 171,
-        "quantity": 3
-      },
-      {
-        "productId": 87,
-        "quantity": 3
-      },
-      {
-        "productId": 326,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 322,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4896.87,
-    "payment_type": "bank_transfer"
+    "total_price": 4110,
+    "payment_type": "paypal"
   },
   {
     "id": 141,
@@ -2909,24 +2577,16 @@
         "quantity": 2
       },
       {
-        "productId": 110,
-        "quantity": 3
-      },
-      {
         "productId": 28,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 89,
-        "quantity": 2
-      },
-      {
-        "productId": 341,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3559.21,
-    "payment_type": "cash_on_delivery"
+    "total_price": 4150,
+    "payment_type": "paypal"
   },
   {
     "id": 142,
@@ -2935,11 +2595,11 @@
     "products": [
       {
         "productId": 478,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3958.44,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1131,
+    "payment_type": "paypal"
   },
   {
     "id": 143,
@@ -2955,7 +2615,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 1925.95,
+    "total_price": 372,
     "payment_type": "paypal"
   },
   {
@@ -2970,22 +2630,10 @@
       {
         "productId": 53,
         "quantity": 2
-      },
-      {
-        "productId": 292,
-        "quantity": 2
-      },
-      {
-        "productId": 329,
-        "quantity": 2
-      },
-      {
-        "productId": 451,
-        "quantity": 3
       }
     ],
-    "total_price": 2123.27,
-    "payment_type": "bank_transfer"
+    "total_price": 3014,
+    "payment_type": "credit_card"
   },
   {
     "id": 145,
@@ -2993,20 +2641,16 @@
     "date": "2025-03-19T23:34:00.657052",
     "products": [
       {
-        "productId": 236,
-        "quantity": 3
-      },
-      {
         "productId": 152,
         "quantity": 1
       },
       {
         "productId": 260,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 11268.99,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2523,
+    "payment_type": "paypal"
   },
   {
     "id": 146,
@@ -3018,24 +2662,12 @@
         "quantity": 2
       },
       {
-        "productId": 78,
-        "quantity": 3
-      },
-      {
         "productId": 413,
         "quantity": 2
-      },
-      {
-        "productId": 370,
-        "quantity": 2
-      },
-      {
-        "productId": 463,
-        "quantity": 3
       }
     ],
-    "total_price": 8558.6,
-    "payment_type": "credit_card"
+    "total_price": 3746,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 147,
@@ -3052,11 +2684,11 @@
       },
       {
         "productId": 104,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 7972.57,
-    "payment_type": "bank_transfer"
+    "total_price": 1283,
+    "payment_type": "paypal"
   },
   {
     "id": 148,
@@ -3072,19 +2704,11 @@
         "quantity": 1
       },
       {
-        "productId": 445,
-        "quantity": 3
-      },
-      {
-        "productId": 186,
-        "quantity": 2
-      },
-      {
         "productId": 223,
         "quantity": 2
       }
     ],
-    "total_price": 4436.74,
+    "total_price": 3203,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -3101,8 +2725,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 550.67,
-    "payment_type": "paypal"
+    "total_price": 1066,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 150,
@@ -3122,8 +2746,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 276.79,
-    "payment_type": "paypal"
+    "total_price": 1378,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 151,
@@ -3132,15 +2756,15 @@
     "products": [
       {
         "productId": 167,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 182,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 402.27,
-    "payment_type": "paypal"
+    "total_price": 2136,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 152,
@@ -3149,27 +2773,15 @@
     "products": [
       {
         "productId": 415,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 23,
         "quantity": 2
-      },
-      {
-        "productId": 241,
-        "quantity": 1
-      },
-      {
-        "productId": 287,
-        "quantity": 1
-      },
-      {
-        "productId": 235,
-        "quantity": 3
       }
     ],
-    "total_price": 4648.31,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2146,
+    "payment_type": "credit_card"
   },
   {
     "id": 153,
@@ -3178,23 +2790,15 @@
     "products": [
       {
         "productId": 205,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 216,
-        "quantity": 2
-      },
-      {
-        "productId": 248,
-        "quantity": 2
-      },
-      {
-        "productId": 117,
         "quantity": 1
       }
     ],
-    "total_price": 2382.1,
-    "payment_type": "credit_card"
+    "total_price": 2801,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 154,
@@ -3203,11 +2807,11 @@
     "products": [
       {
         "productId": 285,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 596.34,
-    "payment_type": "cash_on_delivery"
+    "total_price": 849,
+    "payment_type": "paypal"
   },
   {
     "id": 155,
@@ -3219,8 +2823,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1455.47,
-    "payment_type": "bank_transfer"
+    "total_price": 134,
+    "payment_type": "paypal"
   },
   {
     "id": 156,
@@ -3229,10 +2833,10 @@
     "products": [
       {
         "productId": 304,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 505.29,
+    "total_price": 930,
     "payment_type": "paypal"
   },
   {
@@ -3245,15 +2849,11 @@
         "quantity": 2
       },
       {
-        "productId": 463,
-        "quantity": 3
-      },
-      {
         "productId": 460,
         "quantity": 1
       }
     ],
-    "total_price": 5799.18,
+    "total_price": 2189,
     "payment_type": "paypal"
   },
   {
@@ -3263,10 +2863,10 @@
     "products": [
       {
         "productId": 3,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1059.57,
+    "total_price": 993,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -3283,8 +2883,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1350.38,
-    "payment_type": "cash_on_delivery"
+    "total_price": 675,
+    "payment_type": "paypal"
   },
   {
     "id": 160,
@@ -3296,7 +2896,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 448.72,
+    "total_price": 346,
     "payment_type": "credit_card"
   },
   {
@@ -3321,8 +2921,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 2404.5,
-    "payment_type": "credit_card"
+    "total_price": 1863,
+    "payment_type": "paypal"
   },
   {
     "id": 162,
@@ -3335,14 +2935,10 @@
       },
       {
         "productId": 350,
-        "quantity": 3
-      },
-      {
-        "productId": 473,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 11717.75,
+    "total_price": 2078,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -3352,11 +2948,7 @@
     "products": [
       {
         "productId": 217,
-        "quantity": 3
-      },
-      {
-        "productId": 486,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 352,
@@ -3367,8 +2959,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 2207.15,
-    "payment_type": "paypal"
+    "total_price": 2680,
+    "payment_type": "credit_card"
   },
   {
     "id": 164,
@@ -3380,8 +2972,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1.0,
-    "payment_type": "credit_card"
+    "total_price": 458,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 165,
@@ -3390,15 +2982,15 @@
     "products": [
       {
         "productId": 57,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 385,
         "quantity": 1
       }
     ],
-    "total_price": 1738.67,
-    "payment_type": "paypal"
+    "total_price": 1616,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 166,
@@ -3414,8 +3006,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 650.31,
-    "payment_type": "paypal"
+    "total_price": 838,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 167,
@@ -3433,14 +3025,10 @@
       {
         "productId": 226,
         "quantity": 1
-      },
-      {
-        "productId": 337,
-        "quantity": 1
       }
     ],
-    "total_price": 4290.45,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1069,
+    "payment_type": "paypal"
   },
   {
     "id": 168,
@@ -3453,23 +3041,19 @@
       },
       {
         "productId": 259,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 329,
-        "quantity": 3
-      },
-      {
-        "productId": 248,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 106,
         "quantity": 1
       }
     ],
-    "total_price": 1050.4,
-    "payment_type": "paypal"
+    "total_price": 3327,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 169,
@@ -3485,20 +3069,12 @@
         "quantity": 2
       },
       {
-        "productId": 194,
-        "quantity": 2
-      },
-      {
-        "productId": 206,
-        "quantity": 3
-      },
-      {
         "productId": 173,
         "quantity": 2
       }
     ],
-    "total_price": 10237.69,
-    "payment_type": "cash_on_delivery"
+    "total_price": 3364,
+    "payment_type": "credit_card"
   },
   {
     "id": 170,
@@ -3514,20 +3090,12 @@
         "quantity": 2
       },
       {
-        "productId": 150,
-        "quantity": 1
-      },
-      {
-        "productId": 390,
-        "quantity": 2
-      },
-      {
         "productId": 115,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2689.02,
-    "payment_type": "bank_transfer"
+    "total_price": 2599,
+    "payment_type": "paypal"
   },
   {
     "id": 171,
@@ -3539,8 +3107,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 1735.46,
-    "payment_type": "paypal"
+    "total_price": 798,
+    "payment_type": "credit_card"
   },
   {
     "id": 172,
@@ -3553,10 +3121,10 @@
       },
       {
         "productId": 112,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1983.15,
+    "total_price": 2199,
     "payment_type": "credit_card"
   },
   {
@@ -3566,27 +3134,15 @@
     "products": [
       {
         "productId": 421,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 8,
-        "quantity": 2
-      },
-      {
-        "productId": 109,
-        "quantity": 2
-      },
-      {
-        "productId": 175,
-        "quantity": 2
-      },
-      {
-        "productId": 180,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4015.61,
-    "payment_type": "bank_transfer"
+    "total_price": 3162,
+    "payment_type": "paypal"
   },
   {
     "id": 174,
@@ -3606,7 +3162,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 1974.79,
+    "total_price": 1342,
     "payment_type": "credit_card"
   },
   {
@@ -3623,7 +3179,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 1280.65,
+    "total_price": 299,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -3633,11 +3189,7 @@
     "products": [
       {
         "productId": 366,
-        "quantity": 3
-      },
-      {
-        "productId": 484,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 270,
@@ -3645,14 +3197,10 @@
       },
       {
         "productId": 51,
-        "quantity": 3
-      },
-      {
-        "productId": 494,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 12700.77,
+    "total_price": 3493,
     "payment_type": "credit_card"
   },
   {
@@ -3665,24 +3213,16 @@
         "quantity": 2
       },
       {
-        "productId": 326,
-        "quantity": 3
-      },
-      {
-        "productId": 174,
-        "quantity": 2
-      },
-      {
         "productId": 72,
         "quantity": 1
       },
       {
         "productId": 91,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 10936.38,
-    "payment_type": "credit_card"
+    "total_price": 3911,
+    "payment_type": "paypal"
   },
   {
     "id": 178,
@@ -3691,27 +3231,15 @@
     "products": [
       {
         "productId": 464,
-        "quantity": 2
-      },
-      {
-        "productId": 111,
-        "quantity": 3
-      },
-      {
-        "productId": 259,
-        "quantity": 3
-      },
-      {
-        "productId": 491,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 489,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 3312.58,
-    "payment_type": "credit_card"
+    "total_price": 4524,
+    "payment_type": "paypal"
   },
   {
     "id": 179,
@@ -3724,15 +3252,15 @@
       },
       {
         "productId": 317,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 426,
         "quantity": 1
       }
     ],
-    "total_price": 3241.33,
-    "payment_type": "paypal"
+    "total_price": 2663,
+    "payment_type": "credit_card"
   },
   {
     "id": 180,
@@ -3744,7 +3272,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 39.66,
+    "total_price": 484,
     "payment_type": "paypal"
   },
   {
@@ -3765,8 +3293,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1947.24,
-    "payment_type": "paypal"
+    "total_price": 801,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 182,
@@ -3782,20 +3310,12 @@
         "quantity": 1
       },
       {
-        "productId": 306,
-        "quantity": 3
-      },
-      {
-        "productId": 202,
-        "quantity": 2
-      },
-      {
         "productId": 75,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 6771.97,
-    "payment_type": "bank_transfer"
+    "total_price": 3727,
+    "payment_type": "paypal"
   },
   {
     "id": 183,
@@ -3804,10 +3324,10 @@
     "products": [
       {
         "productId": 415,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4143.51,
+    "total_price": 531,
     "payment_type": "paypal"
   },
   {
@@ -3821,19 +3341,15 @@
       },
       {
         "productId": 275,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 122,
-        "quantity": 3
-      },
-      {
-        "productId": 68,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 4034.91,
-    "payment_type": "paypal"
+    "total_price": 2734,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 185,
@@ -3853,8 +3369,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 1707.48,
-    "payment_type": "paypal"
+    "total_price": 1078,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 186,
@@ -3866,23 +3382,11 @@
         "quantity": 2
       },
       {
-        "productId": 364,
-        "quantity": 3
-      },
-      {
-        "productId": 2,
-        "quantity": 2
-      },
-      {
-        "productId": 246,
-        "quantity": 3
-      },
-      {
         "productId": 14,
         "quantity": 2
       }
     ],
-    "total_price": 13684.15,
+    "total_price": 3365,
     "payment_type": "paypal"
   },
   {
@@ -3892,7 +3396,7 @@
     "products": [
       {
         "productId": 91,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 182,
@@ -3905,14 +3409,10 @@
       {
         "productId": 125,
         "quantity": 1
-      },
-      {
-        "productId": 192,
-        "quantity": 3
       }
     ],
-    "total_price": 7961.5,
-    "payment_type": "paypal"
+    "total_price": 3743,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 188,
@@ -3921,11 +3421,11 @@
     "products": [
       {
         "productId": 460,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1234.02,
-    "payment_type": "bank_transfer"
+    "total_price": 384,
+    "payment_type": "paypal"
   },
   {
     "id": 189,
@@ -3937,10 +3437,6 @@
         "quantity": 2
       },
       {
-        "productId": 495,
-        "quantity": 2
-      },
-      {
         "productId": 135,
         "quantity": 1
       },
@@ -3949,8 +3445,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 1316.55,
-    "payment_type": "bank_transfer"
+    "total_price": 1863,
+    "payment_type": "credit_card"
   },
   {
     "id": 190,
@@ -3970,8 +3466,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 3699.66,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1292,
+    "payment_type": "credit_card"
   },
   {
     "id": 191,
@@ -3980,18 +3476,18 @@
     "products": [
       {
         "productId": 97,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 480,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 464,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4812.42,
+    "total_price": 2907,
     "payment_type": "bank_transfer"
   },
   {
@@ -4005,23 +3501,15 @@
       },
       {
         "productId": 438,
-        "quantity": 3
-      },
-      {
-        "productId": 450,
-        "quantity": 2
-      },
-      {
-        "productId": 142,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 448,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 15875.32,
-    "payment_type": "paypal"
+    "total_price": 3523,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 193,
@@ -4029,16 +3517,8 @@
     "date": "2025-03-11T23:34:00.657052",
     "products": [
       {
-        "productId": 414,
-        "quantity": 3
-      },
-      {
         "productId": 131,
-        "quantity": 3
-      },
-      {
-        "productId": 117,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 283,
@@ -4046,11 +3526,11 @@
       },
       {
         "productId": 490,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 9914.98,
-    "payment_type": "bank_transfer"
+    "total_price": 6097,
+    "payment_type": "paypal"
   },
   {
     "id": 194,
@@ -4059,11 +3539,11 @@
     "products": [
       {
         "productId": 56,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 297.09,
-    "payment_type": "cash_on_delivery"
+    "total_price": 834,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 195,
@@ -4075,24 +3555,16 @@
         "quantity": 1
       },
       {
-        "productId": 411,
-        "quantity": 3
-      },
-      {
         "productId": 54,
         "quantity": 2
       },
       {
-        "productId": 257,
-        "quantity": 3
-      },
-      {
         "productId": 464,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 14862.94,
-    "payment_type": "bank_transfer"
+    "total_price": 3796,
+    "payment_type": "paypal"
   },
   {
     "id": 196,
@@ -4101,11 +3573,11 @@
     "products": [
       {
         "productId": 165,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 311.1,
-    "payment_type": "credit_card"
+    "total_price": 874,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 197,
@@ -4114,21 +3586,17 @@
     "products": [
       {
         "productId": 83,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 52.22,
-    "payment_type": "paypal"
+    "total_price": 900,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 198,
     "userId": 20,
     "date": "2025-04-06T23:34:00.657052",
     "products": [
-      {
-        "productId": 345,
-        "quantity": 3
-      },
       {
         "productId": 436,
         "quantity": 1
@@ -4139,11 +3607,11 @@
       },
       {
         "productId": 342,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 6063.7,
-    "payment_type": "paypal"
+    "total_price": 3177,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 199,
@@ -4155,16 +3623,12 @@
         "quantity": 1
       },
       {
-        "productId": 207,
-        "quantity": 3
-      },
-      {
         "productId": 452,
         "quantity": 1
       }
     ],
-    "total_price": 540.46,
-    "payment_type": "paypal"
+    "total_price": 1755,
+    "payment_type": "credit_card"
   },
   {
     "id": 200,
@@ -4177,10 +3641,10 @@
       },
       {
         "productId": 48,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1940.78,
+    "total_price": 1206,
     "payment_type": "bank_transfer"
   },
   {
@@ -4189,20 +3653,16 @@
     "date": "2025-04-04T23:34:00.657052",
     "products": [
       {
-        "productId": 150,
-        "quantity": 3
-      },
-      {
         "productId": 227,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 388,
         "quantity": 2
       }
     ],
-    "total_price": 3064.54,
-    "payment_type": "bank_transfer"
+    "total_price": 2731,
+    "payment_type": "credit_card"
   },
   {
     "id": 202,
@@ -4214,24 +3674,12 @@
         "quantity": 2
       },
       {
-        "productId": 58,
-        "quantity": 2
-      },
-      {
         "productId": 228,
-        "quantity": 2
-      },
-      {
-        "productId": 283,
-        "quantity": 1
-      },
-      {
-        "productId": 375,
         "quantity": 2
       }
     ],
-    "total_price": 1324.62,
-    "payment_type": "credit_card"
+    "total_price": 2818,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 203,
@@ -4240,15 +3688,7 @@
     "products": [
       {
         "productId": 214,
-        "quantity": 3
-      },
-      {
-        "productId": 231,
-        "quantity": 3
-      },
-      {
-        "productId": 261,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 393,
@@ -4256,11 +3696,11 @@
       },
       {
         "productId": 327,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2695.7,
-    "payment_type": "bank_transfer"
+    "total_price": 5432,
+    "payment_type": "credit_card"
   },
   {
     "id": 204,
@@ -4270,17 +3710,9 @@
       {
         "productId": 331,
         "quantity": 1
-      },
-      {
-        "productId": 474,
-        "quantity": 3
-      },
-      {
-        "productId": 159,
-        "quantity": 3
       }
     ],
-    "total_price": 527.36,
+    "total_price": 2207,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -4289,27 +3721,11 @@
     "date": "2025-03-23T23:34:00.657052",
     "products": [
       {
-        "productId": 313,
-        "quantity": 3
-      },
-      {
-        "productId": 437,
-        "quantity": 3
-      },
-      {
-        "productId": 182,
-        "quantity": 2
-      },
-      {
-        "productId": 239,
-        "quantity": 3
-      },
-      {
         "productId": 53,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 5572.96,
+    "total_price": 3666,
     "payment_type": "bank_transfer"
   },
   {
@@ -4319,15 +3735,15 @@
     "products": [
       {
         "productId": 311,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 225,
         "quantity": 1
       }
     ],
-    "total_price": 2029.76,
-    "payment_type": "credit_card"
+    "total_price": 1335,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 207,
@@ -4340,19 +3756,19 @@
       },
       {
         "productId": 385,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 471,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 417,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 5851.4,
-    "payment_type": "bank_transfer"
+    "total_price": 3220,
+    "payment_type": "credit_card"
   },
   {
     "id": 208,
@@ -4365,10 +3781,10 @@
       },
       {
         "productId": 322,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 826.49,
+    "total_price": 726,
     "payment_type": "bank_transfer"
   },
   {
@@ -4382,7 +3798,7 @@
       },
       {
         "productId": 375,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 135,
@@ -4390,11 +3806,11 @@
       },
       {
         "productId": 439,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2376.97,
-    "payment_type": "paypal"
+    "total_price": 2726,
+    "payment_type": "credit_card"
   },
   {
     "id": 210,
@@ -4415,14 +3831,10 @@
       },
       {
         "productId": 442,
-        "quantity": 3
-      },
-      {
-        "productId": 29,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 8311.62,
+    "total_price": 2645,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -4436,11 +3848,11 @@
       },
       {
         "productId": 61,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 2739.08,
-    "payment_type": "credit_card"
+    "total_price": 1188,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 212,
@@ -4453,11 +3865,11 @@
       },
       {
         "productId": 308,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2964.24,
-    "payment_type": "credit_card"
+    "total_price": 1641,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 213,
@@ -4469,30 +3881,18 @@
         "quantity": 1
       },
       {
-        "productId": 193,
-        "quantity": 2
-      },
-      {
-        "productId": 52,
-        "quantity": 3
-      },
-      {
         "productId": 184,
         "quantity": 2
       }
     ],
-    "total_price": 2613.82,
-    "payment_type": "cash_on_delivery"
+    "total_price": 3220,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 214,
     "userId": 24,
     "date": "2025-03-21T23:34:00.657052",
     "products": [
-      {
-        "productId": 498,
-        "quantity": 3
-      },
       {
         "productId": 122,
         "quantity": 2
@@ -4504,14 +3904,10 @@
       {
         "productId": 354,
         "quantity": 1
-      },
-      {
-        "productId": 204,
-        "quantity": 3
       }
     ],
-    "total_price": 3394.05,
-    "payment_type": "bank_transfer"
+    "total_price": 1920,
+    "payment_type": "paypal"
   },
   {
     "id": 215,
@@ -4520,11 +3916,11 @@
     "products": [
       {
         "productId": 377,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 207.81,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1173,
+    "payment_type": "credit_card"
   },
   {
     "id": 216,
@@ -4538,18 +3934,10 @@
       {
         "productId": 37,
         "quantity": 2
-      },
-      {
-        "productId": 125,
-        "quantity": 2
-      },
-      {
-        "productId": 206,
-        "quantity": 3
       }
     ],
-    "total_price": 3871.0,
-    "payment_type": "cash_on_delivery"
+    "total_price": 3153,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 217,
@@ -4561,24 +3949,12 @@
         "quantity": 2
       },
       {
-        "productId": 346,
-        "quantity": 3
-      },
-      {
-        "productId": 491,
-        "quantity": 2
-      },
-      {
-        "productId": 157,
-        "quantity": 3
-      },
-      {
         "productId": 364,
         "quantity": 1
       }
     ],
-    "total_price": 16430.77,
-    "payment_type": "paypal"
+    "total_price": 3529,
+    "payment_type": "credit_card"
   },
   {
     "id": 218,
@@ -4590,10 +3966,6 @@
         "quantity": 1
       },
       {
-        "productId": 351,
-        "quantity": 3
-      },
-      {
         "productId": 161,
         "quantity": 2
       },
@@ -4602,8 +3974,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 7703.2,
-    "payment_type": "cash_on_delivery"
+    "total_price": 2409,
+    "payment_type": "paypal"
   },
   {
     "id": 219,
@@ -4624,15 +3996,15 @@
       },
       {
         "productId": 340,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 19,
         "quantity": 1
       }
     ],
-    "total_price": 5328.51,
-    "payment_type": "bank_transfer"
+    "total_price": 2530,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 220,
@@ -4641,7 +4013,7 @@
     "products": [
       {
         "productId": 395,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 457,
@@ -4656,7 +4028,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 2537.32,
+    "total_price": 1858,
     "payment_type": "paypal"
   },
   {
@@ -4664,10 +4036,6 @@
     "userId": 83,
     "date": "2025-03-21T23:34:00.657052",
     "products": [
-      {
-        "productId": 290,
-        "quantity": 3
-      },
       {
         "productId": 137,
         "quantity": 1
@@ -4677,16 +4045,12 @@
         "quantity": 1
       },
       {
-        "productId": 70,
-        "quantity": 2
-      },
-      {
         "productId": 79,
         "quantity": 1
       }
     ],
-    "total_price": 3671.97,
-    "payment_type": "paypal"
+    "total_price": 2502,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 222,
@@ -4702,20 +4066,12 @@
         "quantity": 1
       },
       {
-        "productId": 64,
-        "quantity": 3
-      },
-      {
-        "productId": 70,
-        "quantity": 2
-      },
-      {
         "productId": 166,
         "quantity": 2
       }
     ],
-    "total_price": 8518.1,
-    "payment_type": "bank_transfer"
+    "total_price": 2573,
+    "payment_type": "credit_card"
   },
   {
     "id": 223,
@@ -4729,17 +4085,9 @@
       {
         "productId": 421,
         "quantity": 1
-      },
-      {
-        "productId": 467,
-        "quantity": 3
-      },
-      {
-        "productId": 35,
-        "quantity": 3
       }
     ],
-    "total_price": 4782.68,
+    "total_price": 3614,
     "payment_type": "credit_card"
   },
   {
@@ -4753,14 +4101,10 @@
       },
       {
         "productId": 431,
-        "quantity": 2
-      },
-      {
-        "productId": 458,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 670.12,
+    "total_price": 1808,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -4770,14 +4114,14 @@
     "products": [
       {
         "productId": 400,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 132,
         "quantity": 1
       }
     ],
-    "total_price": 1509.22,
+    "total_price": 1129,
     "payment_type": "credit_card"
   },
   {
@@ -4794,20 +4138,12 @@
         "quantity": 1
       },
       {
-        "productId": 441,
-        "quantity": 2
-      },
-      {
-        "productId": 246,
-        "quantity": 1
-      },
-      {
         "productId": 357,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 6088.89,
-    "payment_type": "bank_transfer"
+    "total_price": 1873,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 227,
@@ -4820,15 +4156,15 @@
       },
       {
         "productId": 220,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 409,
         "quantity": 1
       }
     ],
-    "total_price": 6735.51,
-    "payment_type": "paypal"
+    "total_price": 1880,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 228,
@@ -4841,10 +4177,10 @@
       },
       {
         "productId": 117,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2868.39,
+    "total_price": 1683,
     "payment_type": "credit_card"
   },
   {
@@ -4854,11 +4190,11 @@
     "products": [
       {
         "productId": 158,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 586.08,
-    "payment_type": "paypal"
+    "total_price": 636,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 230,
@@ -4870,7 +4206,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 198.78,
+    "total_price": 283,
     "payment_type": "credit_card"
   },
   {
@@ -4880,11 +4216,11 @@
     "products": [
       {
         "productId": 316,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 471.63,
-    "payment_type": "credit_card"
+    "total_price": 1182,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 232,
@@ -4900,15 +4236,11 @@
         "quantity": 1
       },
       {
-        "productId": 128,
-        "quantity": 3
-      },
-      {
         "productId": 85,
         "quantity": 1
       }
     ],
-    "total_price": 563.38,
+    "total_price": 1229,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -4917,28 +4249,16 @@
     "date": "2025-03-20T23:34:00.657052",
     "products": [
       {
-        "productId": 227,
-        "quantity": 3
-      },
-      {
-        "productId": 8,
-        "quantity": 3
-      },
-      {
-        "productId": 33,
-        "quantity": 3
-      },
-      {
         "productId": 406,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 188,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 5067.15,
-    "payment_type": "bank_transfer"
+    "total_price": 3858,
+    "payment_type": "credit_card"
   },
   {
     "id": 234,
@@ -4947,14 +4267,14 @@
     "products": [
       {
         "productId": 270,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 119,
         "quantity": 1
       }
     ],
-    "total_price": 588.67,
+    "total_price": 682,
     "payment_type": "credit_card"
   },
   {
@@ -4964,11 +4284,11 @@
     "products": [
       {
         "productId": 415,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4143.51,
-    "payment_type": "cash_on_delivery"
+    "total_price": 531,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 236,
@@ -4977,11 +4297,11 @@
     "products": [
       {
         "productId": 298,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 257.02,
-    "payment_type": "cash_on_delivery"
+    "total_price": 214,
+    "payment_type": "credit_card"
   },
   {
     "id": 237,
@@ -4990,7 +4310,7 @@
     "products": [
       {
         "productId": 248,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 451,
@@ -5002,10 +4322,10 @@
       },
       {
         "productId": 240,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 428.9,
+    "total_price": 2075,
     "payment_type": "bank_transfer"
   },
   {
@@ -5015,11 +4335,11 @@
     "products": [
       {
         "productId": 9,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1443.12,
-    "payment_type": "cash_on_delivery"
+    "total_price": 334,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 239,
@@ -5033,14 +4353,10 @@
       {
         "productId": 401,
         "quantity": 2
-      },
-      {
-        "productId": 462,
-        "quantity": 3
       }
     ],
-    "total_price": 1458.96,
-    "payment_type": "paypal"
+    "total_price": 1252,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 240,
@@ -5049,14 +4365,14 @@
     "products": [
       {
         "productId": 314,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 58,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 3897.99,
+    "total_price": 2226,
     "payment_type": "paypal"
   },
   {
@@ -5070,29 +4386,21 @@
       },
       {
         "productId": 219,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 32,
         "quantity": 1
-      },
-      {
-        "productId": 169,
-        "quantity": 3
       }
     ],
-    "total_price": 1597.37,
-    "payment_type": "paypal"
+    "total_price": 2878,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 242,
     "userId": 27,
     "date": "2025-03-29T23:34:00.657052",
     "products": [
-      {
-        "productId": 62,
-        "quantity": 2
-      },
       {
         "productId": 336,
         "quantity": 2
@@ -5102,8 +4410,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 10340.65,
-    "payment_type": "paypal"
+    "total_price": 1599,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 243,
@@ -5115,24 +4423,12 @@
         "quantity": 1
       },
       {
-        "productId": 275,
-        "quantity": 2
-      },
-      {
-        "productId": 500,
-        "quantity": 1
-      },
-      {
-        "productId": 368,
-        "quantity": 2
-      },
-      {
         "productId": 33,
         "quantity": 2
       }
     ],
-    "total_price": 3065.78,
-    "payment_type": "credit_card"
+    "total_price": 2789,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 244,
@@ -5146,14 +4442,10 @@
       {
         "productId": 428,
         "quantity": 1
-      },
-      {
-        "productId": 297,
-        "quantity": 3
       }
     ],
-    "total_price": 1262.47,
-    "payment_type": "paypal"
+    "total_price": 1410,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 245,
@@ -5166,10 +4458,10 @@
       },
       {
         "productId": 106,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 150.5,
+    "total_price": 1456,
     "payment_type": "credit_card"
   },
   {
@@ -5183,11 +4475,11 @@
       },
       {
         "productId": 367,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1979.59,
-    "payment_type": "bank_transfer"
+    "total_price": 1163,
+    "payment_type": "paypal"
   },
   {
     "id": 247,
@@ -5199,8 +4491,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 249.63,
-    "payment_type": "paypal"
+    "total_price": 359,
+    "payment_type": "credit_card"
   },
   {
     "id": 248,
@@ -5212,7 +4504,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 238.72,
+    "total_price": 205,
     "payment_type": "credit_card"
   },
   {
@@ -5222,15 +4514,7 @@
     "products": [
       {
         "productId": 346,
-        "quantity": 3
-      },
-      {
-        "productId": 83,
-        "quantity": 2
-      },
-      {
-        "productId": 352,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 462,
@@ -5241,7 +4525,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 2529.99,
+    "total_price": 2735,
     "payment_type": "paypal"
   },
   {
@@ -5255,15 +4539,11 @@
       },
       {
         "productId": 78,
-        "quantity": 2
-      },
-      {
-        "productId": 290,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 4359.67,
-    "payment_type": "credit_card"
+    "total_price": 1788,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 251,
@@ -5277,22 +4557,10 @@
       {
         "productId": 192,
         "quantity": 1
-      },
-      {
-        "productId": 459,
-        "quantity": 1
-      },
-      {
-        "productId": 285,
-        "quantity": 2
-      },
-      {
-        "productId": 86,
-        "quantity": 1
       }
     ],
-    "total_price": 5740.0,
-    "payment_type": "paypal"
+    "total_price": 1740,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 252,
@@ -5301,23 +4569,15 @@
     "products": [
       {
         "productId": 389,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 15,
         "quantity": 2
-      },
-      {
-        "productId": 152,
-        "quantity": 2
-      },
-      {
-        "productId": 140,
-        "quantity": 2
       }
     ],
-    "total_price": 6045.83,
-    "payment_type": "paypal"
+    "total_price": 3050,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 253,
@@ -5326,15 +4586,15 @@
     "products": [
       {
         "productId": 407,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 235,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1047.87,
-    "payment_type": "paypal"
+    "total_price": 952,
+    "payment_type": "credit_card"
   },
   {
     "id": 254,
@@ -5346,23 +4606,15 @@
         "quantity": 1
       },
       {
-        "productId": 323,
-        "quantity": 3
-      },
-      {
-        "productId": 94,
-        "quantity": 2
-      },
-      {
         "productId": 133,
         "quantity": 1
       },
       {
         "productId": 277,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 8736.12,
+    "total_price": 2525,
     "payment_type": "paypal"
   },
   {
@@ -5370,10 +4622,6 @@
     "userId": 16,
     "date": "2025-04-04T23:34:00.657052",
     "products": [
-      {
-        "productId": 194,
-        "quantity": 3
-      },
       {
         "productId": 51,
         "quantity": 1
@@ -5387,8 +4635,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 9583.01,
-    "payment_type": "bank_transfer"
+    "total_price": 1539,
+    "payment_type": "paypal"
   },
   {
     "id": 256,
@@ -5396,16 +4644,12 @@
     "date": "2025-03-20T23:34:00.657052",
     "products": [
       {
-        "productId": 320,
-        "quantity": 3
-      },
-      {
         "productId": 5,
         "quantity": 2
       },
       {
         "productId": 326,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 70,
@@ -5413,11 +4657,11 @@
       },
       {
         "productId": 68,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 19217.9,
-    "payment_type": "credit_card"
+    "total_price": 4144,
+    "payment_type": "paypal"
   },
   {
     "id": 257,
@@ -5429,8 +4673,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 189.47,
-    "payment_type": "paypal"
+    "total_price": 473,
+    "payment_type": "credit_card"
   },
   {
     "id": 258,
@@ -5444,18 +4688,10 @@
       {
         "productId": 206,
         "quantity": 1
-      },
-      {
-        "productId": 303,
-        "quantity": 1
-      },
-      {
-        "productId": 70,
-        "quantity": 3
       }
     ],
-    "total_price": 5396.33,
-    "payment_type": "paypal"
+    "total_price": 1831,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 259,
@@ -5467,20 +4703,12 @@
         "quantity": 2
       },
       {
-        "productId": 303,
-        "quantity": 2
-      },
-      {
-        "productId": 68,
-        "quantity": 2
-      },
-      {
         "productId": 363,
         "quantity": 1
       }
     ],
-    "total_price": 2416.93,
-    "payment_type": "credit_card"
+    "total_price": 1693,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 260,
@@ -5489,14 +4717,14 @@
     "products": [
       {
         "productId": 253,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 68,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2587.95,
+    "total_price": 1980,
     "payment_type": "bank_transfer"
   },
   {
@@ -5509,8 +4737,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 222.34,
-    "payment_type": "cash_on_delivery"
+    "total_price": 942,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 262,
@@ -5522,23 +4750,15 @@
         "quantity": 2
       },
       {
-        "productId": 251,
-        "quantity": 2
-      },
-      {
-        "productId": 395,
-        "quantity": 2
-      },
-      {
         "productId": 362,
         "quantity": 1
       },
       {
         "productId": 389,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 9599.15,
+    "total_price": 3248,
     "payment_type": "bank_transfer"
   },
   {
@@ -5548,26 +4768,18 @@
     "products": [
       {
         "productId": 11,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 406,
         "quantity": 1
       },
       {
-        "productId": 365,
-        "quantity": 1
-      },
-      {
-        "productId": 484,
-        "quantity": 2
-      },
-      {
         "productId": 262,
         "quantity": 1
       }
     ],
-    "total_price": 10496.49,
+    "total_price": 2159,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -5577,7 +4789,7 @@
     "products": [
       {
         "productId": 378,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 34,
@@ -5589,15 +4801,11 @@
       },
       {
         "productId": 143,
-        "quantity": 2
-      },
-      {
-        "productId": 314,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 9046.4,
-    "payment_type": "paypal"
+    "total_price": 3193,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 265,
@@ -5610,11 +4818,11 @@
       },
       {
         "productId": 438,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1854.1,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1224,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 266,
@@ -5627,11 +4835,11 @@
       },
       {
         "productId": 387,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1462.26,
-    "payment_type": "cash_on_delivery"
+    "total_price": 697,
+    "payment_type": "paypal"
   },
   {
     "id": 267,
@@ -5644,15 +4852,15 @@
       },
       {
         "productId": 45,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 11,
         "quantity": 2
       }
     ],
-    "total_price": 2634.76,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1353,
+    "payment_type": "credit_card"
   },
   {
     "id": 268,
@@ -5661,7 +4869,7 @@
     "products": [
       {
         "productId": 209,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 159,
@@ -5669,14 +4877,10 @@
       },
       {
         "productId": 334,
-        "quantity": 3
-      },
-      {
-        "productId": 163,
         "quantity": 1
       }
     ],
-    "total_price": 5358.77,
+    "total_price": 3390,
     "payment_type": "credit_card"
   },
   {
@@ -5686,15 +4890,15 @@
     "products": [
       {
         "productId": 325,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 306,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 522.4,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1536,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 270,
@@ -5707,11 +4911,11 @@
       },
       {
         "productId": 252,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 7528.38,
-    "payment_type": "bank_transfer"
+    "total_price": 1167,
+    "payment_type": "paypal"
   },
   {
     "id": 271,
@@ -5725,17 +4929,9 @@
       {
         "productId": 160,
         "quantity": 1
-      },
-      {
-        "productId": 367,
-        "quantity": 1
-      },
-      {
-        "productId": 6,
-        "quantity": 1
       }
     ],
-    "total_price": 4525.66,
+    "total_price": 1180,
     "payment_type": "credit_card"
   },
   {
@@ -5749,18 +4945,10 @@
       },
       {
         "productId": 100,
-        "quantity": 2
-      },
-      {
-        "productId": 219,
-        "quantity": 3
-      },
-      {
-        "productId": 10,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 6024.43,
+    "total_price": 3002,
     "payment_type": "paypal"
   },
   {
@@ -5779,13 +4967,9 @@
       {
         "productId": 373,
         "quantity": 1
-      },
-      {
-        "productId": 101,
-        "quantity": 2
       }
     ],
-    "total_price": 790.42,
+    "total_price": 1536,
     "payment_type": "bank_transfer"
   },
   {
@@ -5795,19 +4979,19 @@
     "products": [
       {
         "productId": 330,
-        "quantity": 2
+        "quantity": 1
       },
       {
         "productId": 107,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 442,
         "quantity": 2
       }
     ],
-    "total_price": 2386.28,
-    "payment_type": "credit_card"
+    "total_price": 1357,
+    "payment_type": "paypal"
   },
   {
     "id": 275,
@@ -5819,8 +5003,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 247.38,
-    "payment_type": "cash_on_delivery"
+    "total_price": 123,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 276,
@@ -5833,11 +5017,11 @@
       },
       {
         "productId": 167,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 449.69,
-    "payment_type": "credit_card"
+    "total_price": 1270,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 277,
@@ -5846,11 +5030,11 @@
     "products": [
       {
         "productId": 481,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 183.74,
-    "payment_type": "bank_transfer"
+    "total_price": 234,
+    "payment_type": "paypal"
   },
   {
     "id": 278,
@@ -5870,8 +5054,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 2732.6,
-    "payment_type": "cash_on_delivery"
+    "total_price": 928,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 279,
@@ -5880,7 +5064,7 @@
     "products": [
       {
         "productId": 141,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 425,
@@ -5888,10 +5072,10 @@
       },
       {
         "productId": 312,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 10689.63,
+    "total_price": 2028,
     "payment_type": "paypal"
   },
   {
@@ -5901,11 +5085,11 @@
     "products": [
       {
         "productId": 315,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 298.98,
-    "payment_type": "cash_on_delivery"
+    "total_price": 676,
+    "payment_type": "paypal"
   },
   {
     "id": 281,
@@ -5917,8 +5101,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 21.42,
-    "payment_type": "cash_on_delivery"
+    "total_price": 258,
+    "payment_type": "credit_card"
   },
   {
     "id": 282,
@@ -5938,7 +5122,7 @@
         "quantity": 2
       }
     ],
-    "total_price": 980.7,
+    "total_price": 1460,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -5948,10 +5132,10 @@
     "products": [
       {
         "productId": 338,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 8032.56,
+    "total_price": 501,
     "payment_type": "cash_on_delivery"
   },
   {
@@ -5965,15 +5149,15 @@
       },
       {
         "productId": 15,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 3,
         "quantity": 1
       }
     ],
-    "total_price": 7183.15,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1351,
+    "payment_type": "paypal"
   },
   {
     "id": 285,
@@ -5982,7 +5166,7 @@
     "products": [
       {
         "productId": 357,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 60,
@@ -5993,8 +5177,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 5789.09,
-    "payment_type": "paypal"
+    "total_price": 1408,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 286,
@@ -6014,8 +5198,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 488.72,
-    "payment_type": "credit_card"
+    "total_price": 962,
+    "payment_type": "paypal"
   },
   {
     "id": 287,
@@ -6027,8 +5211,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 5.92,
-    "payment_type": "cash_on_delivery"
+    "total_price": 894,
+    "payment_type": "credit_card"
   },
   {
     "id": 288,
@@ -6044,19 +5228,11 @@
         "quantity": 1
       },
       {
-        "productId": 277,
-        "quantity": 3
-      },
-      {
-        "productId": 358,
-        "quantity": 2
-      },
-      {
         "productId": 15,
-        "quantity": 3
+        "quantity": 2
       }
     ],
-    "total_price": 5411.97,
+    "total_price": 1960,
     "payment_type": "credit_card"
   },
   {
@@ -6069,8 +5245,8 @@
         "quantity": 2
       }
     ],
-    "total_price": 470.06,
-    "payment_type": "cash_on_delivery"
+    "total_price": 316,
+    "payment_type": "paypal"
   },
   {
     "id": 290,
@@ -6087,15 +5263,15 @@
       },
       {
         "productId": 140,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 381,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 1956.21,
-    "payment_type": "credit_card"
+    "total_price": 2098,
+    "payment_type": "bank_transfer"
   },
   {
     "id": 291,
@@ -6105,18 +5281,10 @@
       {
         "productId": 206,
         "quantity": 1
-      },
-      {
-        "productId": 431,
-        "quantity": 3
-      },
-      {
-        "productId": 392,
-        "quantity": 3
       }
     ],
-    "total_price": 1840.2,
-    "payment_type": "credit_card"
+    "total_price": 2748,
+    "payment_type": "paypal"
   },
   {
     "id": 292,
@@ -6128,20 +5296,12 @@
         "quantity": 1
       },
       {
-        "productId": 290,
-        "quantity": 3
-      },
-      {
-        "productId": 227,
-        "quantity": 3
-      },
-      {
         "productId": 99,
         "quantity": 1
       }
     ],
-    "total_price": 2912.92,
-    "payment_type": "credit_card"
+    "total_price": 1733,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 293,
@@ -6153,14 +5313,6 @@
         "quantity": 2
       },
       {
-        "productId": 455,
-        "quantity": 2
-      },
-      {
-        "productId": 373,
-        "quantity": 3
-      },
-      {
         "productId": 408,
         "quantity": 1
       },
@@ -6169,8 +5321,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 4587.99,
-    "payment_type": "bank_transfer"
+    "total_price": 2591,
+    "payment_type": "paypal"
   },
   {
     "id": 294,
@@ -6182,10 +5334,6 @@
         "quantity": 1
       },
       {
-        "productId": 255,
-        "quantity": 3
-      },
-      {
         "productId": 446,
         "quantity": 2
       },
@@ -6194,8 +5342,8 @@
         "quantity": 1
       }
     ],
-    "total_price": 5730.15,
-    "payment_type": "credit_card"
+    "total_price": 2327,
+    "payment_type": "paypal"
   },
   {
     "id": 295,
@@ -6204,11 +5352,11 @@
     "products": [
       {
         "productId": 149,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 819.44,
-    "payment_type": "cash_on_delivery"
+    "total_price": 364,
+    "payment_type": "credit_card"
   },
   {
     "id": 296,
@@ -6217,11 +5365,11 @@
     "products": [
       {
         "productId": 281,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 260.13,
-    "payment_type": "bank_transfer"
+    "total_price": 639,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 297,
@@ -6230,11 +5378,11 @@
     "products": [
       {
         "productId": 430,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 199.58,
-    "payment_type": "paypal"
+    "total_price": 246,
+    "payment_type": "cash_on_delivery"
   },
   {
     "id": 298,
@@ -6250,16 +5398,12 @@
         "quantity": 1
       },
       {
-        "productId": 318,
-        "quantity": 2
-      },
-      {
         "productId": 254,
-        "quantity": 2
+        "quantity": 1
       }
     ],
-    "total_price": 1603.96,
-    "payment_type": "bank_transfer"
+    "total_price": 2616,
+    "payment_type": "paypal"
   },
   {
     "id": 299,
@@ -6268,11 +5412,11 @@
     "products": [
       {
         "productId": 367,
-        "quantity": 3
+        "quantity": 1
       }
     ],
-    "total_price": 2459.34,
-    "payment_type": "cash_on_delivery"
+    "total_price": 1116,
+    "payment_type": "paypal"
   },
   {
     "id": 300,
@@ -6281,7 +5425,7 @@
     "products": [
       {
         "productId": 182,
-        "quantity": 3
+        "quantity": 1
       },
       {
         "productId": 4,
@@ -6292,7 +5436,7 @@
         "quantity": 1
       }
     ],
-    "total_price": 898.73,
+    "total_price": 1805,
     "payment_type": "credit_card"
   }
 ]
