@@ -10,7 +10,7 @@
       "count": 1857
     },
     "available": false,
-    "cost_price": 232,
+    "cost_price": 282,
     "discount": 0,
     "stock_level": 49
   },
@@ -100,7 +100,7 @@
       "count": 4772
     },
     "available": true,
-    "cost_price": 249,
+    "cost_price": 300,
     "discount": 44,
     "stock_level": 81
   },
@@ -205,7 +205,7 @@
       "count": 4341
     },
     "available": false,
-    "cost_price": 128,
+    "cost_price": 231,
     "discount": 36,
     "stock_level": 0
   },
@@ -310,7 +310,7 @@
       "count": 2156
     },
     "available": false,
-    "cost_price": 220,
+    "cost_price": 422,
     "discount": 0,
     "stock_level": 58
   },
@@ -565,7 +565,7 @@
       "count": 888
     },
     "available": false,
-    "cost_price": 189,
+    "cost_price": 343,
     "discount": 45,
     "stock_level": 21
   },
@@ -610,7 +610,7 @@
       "count": 96
     },
     "available": true,
-    "cost_price": 308,
+    "cost_price": 408,
     "discount": 45,
     "stock_level": 73
   },
@@ -775,7 +775,7 @@
       "count": 1281
     },
     "available": true,
-    "cost_price": 249,
+    "cost_price": 401,
     "discount": 31,
     "stock_level": 24
   },
@@ -895,7 +895,7 @@
       "count": 632
     },
     "available": true,
-    "cost_price": 169,
+    "cost_price": 232,
     "discount": 32,
     "stock_level": 8
   },
@@ -1180,7 +1180,7 @@
       "count": 4620
     },
     "available": false,
-    "cost_price": 191,
+    "cost_price": 301,
     "discount": 43,
     "stock_level": 34
   },
@@ -1495,7 +1495,7 @@
       "count": 2994
     },
     "available": true,
-    "cost_price": 167,
+    "cost_price": 318,
     "discount": 33,
     "stock_level": 8
   },
@@ -1525,7 +1525,7 @@
       "count": 2060
     },
     "available": false,
-    "cost_price": 208,
+    "cost_price": 241,
     "discount": 44,
     "stock_level": 84
   },
@@ -1615,7 +1615,7 @@
       "count": 230
     },
     "available": false,
-    "cost_price": 217,
+    "cost_price": 314,
     "discount": 32,
     "stock_level": 35
   },
@@ -1855,7 +1855,7 @@
       "count": 3917
     },
     "available": false,
-    "cost_price": 185,
+    "cost_price": 351,
     "discount": 31,
     "stock_level": 78
   },
@@ -2260,7 +2260,7 @@
       "count": 2526
     },
     "available": false,
-    "cost_price": 84,
+    "cost_price": 160,
     "discount": 34,
     "stock_level": 96
   },
@@ -2365,7 +2365,7 @@
       "count": 4449
     },
     "available": false,
-    "cost_price": 164,
+    "cost_price": 212,
     "discount": 41,
     "stock_level": 7
   },
@@ -2485,7 +2485,7 @@
       "count": 3774
     },
     "available": true,
-    "cost_price": 134,
+    "cost_price": 145,
     "discount": 31,
     "stock_level": 26
   },
@@ -2635,7 +2635,7 @@
       "count": 2771
     },
     "available": true,
-    "cost_price": 142,
+    "cost_price": 178,
     "discount": 45,
     "stock_level": 9
   },
@@ -2965,7 +2965,7 @@
       "count": 1307
     },
     "available": true,
-    "cost_price": 299,
+    "cost_price": 475,
     "discount": 34,
     "stock_level": 8
   },
@@ -3115,7 +3115,7 @@
       "count": 2843
     },
     "available": true,
-    "cost_price": 388,
+    "cost_price": 431,
     "discount": 60,
     "stock_level": 8
   },
@@ -3460,7 +3460,7 @@
       "count": 405
     },
     "available": false,
-    "cost_price": 351,
+    "cost_price": 419,
     "discount": 0,
     "stock_level": 16
   },
@@ -3475,7 +3475,7 @@
       "count": 1119
     },
     "available": true,
-    "cost_price": 220,
+    "cost_price": 265,
     "discount": 45,
     "stock_level": 26
   },
@@ -3550,7 +3550,7 @@
       "count": 2683
     },
     "available": true,
-    "cost_price": 170,
+    "cost_price": 318,
     "discount": 56,
     "stock_level": 82
   },
@@ -3595,7 +3595,7 @@
       "count": 1886
     },
     "available": true,
-    "cost_price": 186,
+    "cost_price": 261,
     "discount": 31,
     "stock_level": 91
   },
@@ -3625,7 +3625,7 @@
       "count": 4166
     },
     "available": true,
-    "cost_price": 142,
+    "cost_price": 248,
     "discount": 48,
     "stock_level": 54
   },
@@ -4480,7 +4480,7 @@
       "count": 2909
     },
     "available": false,
-    "cost_price": 122,
+    "cost_price": 218,
     "discount": 0,
     "stock_level": 30
   },
@@ -4660,7 +4660,7 @@
       "count": 3289
     },
     "available": false,
-    "cost_price": 310,
+    "cost_price": 334,
     "discount": 36,
     "stock_level": 93
   },
@@ -4825,7 +4825,7 @@
       "count": 1808
     },
     "available": false,
-    "cost_price": 84,
+    "cost_price": 168,
     "discount": 40,
     "stock_level": 96
   },
@@ -5155,7 +5155,7 @@
       "count": 2937
     },
     "available": false,
-    "cost_price": 153,
+    "cost_price": 200,
     "discount": 0,
     "stock_level": 48
   },
@@ -5440,7 +5440,7 @@
       "count": 4377
     },
     "available": true,
-    "cost_price": 143,
+    "cost_price": 155,
     "discount": 38,
     "stock_level": 17
   },
@@ -6340,7 +6340,7 @@
       "count": 86
     },
     "available": false,
-    "cost_price": 292,
+    "cost_price": 347,
     "discount": 30,
     "stock_level": 93
   },
@@ -6535,7 +6535,7 @@
       "count": 2247
     },
     "available": false,
-    "cost_price": 357,
+    "cost_price": 466,
     "discount": 56,
     "stock_level": 17
   },
@@ -6730,7 +6730,7 @@
       "count": 3584
     },
     "available": false,
-    "cost_price": 293,
+    "cost_price": 296,
     "discount": 0,
     "stock_level": 67
   },
@@ -6895,7 +6895,7 @@
       "count": 3092
     },
     "available": true,
-    "cost_price": 70,
+    "cost_price": 131,
     "discount": 32,
     "stock_level": 78
   },
@@ -7075,7 +7075,7 @@
       "count": 3166
     },
     "available": false,
-    "cost_price": 313,
+    "cost_price": 439,
     "discount": 51,
     "stock_level": 83
   },
