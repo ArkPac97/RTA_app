@@ -7,6 +7,11 @@ app = Flask(__name__)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, '..', 'data')
+
+# Tworzymy folder data, jeśli nie istnieje
+if not os.path.exists(DATA_DIR):
+    os.makedirs(DATA_DIR)
+
 CSV_FILE = os.path.join(DATA_DIR, 'anomalies.csv')
 
 # Wczytaj dane z plików JSON
@@ -24,16 +29,8 @@ product_map = {p['id']: p for p in products}
 user_map = {u['id']: u for u in users}
 cart_map = {c['id']: c for c in carts}
 
-# Wczytanie anomalii z pliku CSV lub stworzenie pustej listy i DataFrame
-if os.path.exists(CSV_FILE):
-    df_anomalies = pd.read_csv(CSV_FILE)
-    live_anomalies = df_anomalies.to_dict(orient='records')
-else:
-    df_anomalies = pd.DataFrame(columns=[
-        "cartId", "productId", "title", "margin", "discount",
-        "price", "cost_price", "user", "source", "anomaly_type", "comment"
-    ])
-    live_anomalies = []
+live_anomalies = []
+df_anomalies = pd.DataFrame()
 
 @app.route('/')
 def home():
@@ -78,7 +75,7 @@ def get_cart(cart_id):
 # Endpoint do odbierania anomalii (POST)
 @app.route('/anomalies/live', methods=['POST'])
 def anomalies_live():
-    global df_anomalies, live_anomalies
+    global df_anomalies
 
     anomaly = request.json
     live_anomalies.append(anomaly)
@@ -86,11 +83,12 @@ def anomalies_live():
     # Dodaj nową anomalię do DataFrame
     df_anomalies = pd.concat([df_anomalies, pd.DataFrame([anomaly])], ignore_index=True)
 
-    # Zapisz do CSV
-    df_anomalies.to_csv(CSV_FILE, index=False)
+    # Zapisz DataFrame do pliku CSV (nadpisuje plik przy każdej zmianie)
+    df_anomalies.to_csv(CSV_FILE, index=False, encoding='utf-8')
 
     print(f"Otrzymano anomalię: {anomaly.get('title', 'brak tytułu')} ({anomaly.get('anomaly_type', 'brak typu')})")
     print(f"Liczba anomalii w DataFrame: {len(df_anomalies)}")
+    print(f"Zapisano anomalie do: {CSV_FILE}")
 
     return jsonify({"status": "ok"}), 200
 
