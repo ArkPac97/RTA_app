@@ -1,53 +1,34 @@
-from flask import Flask, jsonify, request, Response
-from flask_cors import CORS
-import json
-from datetime import datetime
+from flask import Flask, request, jsonify
+import pandas as pd
 import os
 
 app = Flask(__name__)
-CORS(app)
 
-# Bufor na dane anomalii
-anomalie_bufor = []
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, 'data')
 
-# Ścieżki do plików danych
-DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
-USERS_FILE = os.path.join(DATA_DIR, "users.json")
-PRODUCTS_FILE = os.path.join(DATA_DIR, "products.json")
-CARTS_FILE = os.path.join(DATA_DIR, "carts.json")
+# Globalny DataFrame na anomalia
+anomalies_df = pd.DataFrame()
 
-def load_data(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+@app.route('/anomalies/live', methods=['POST'])
+def receive_anomaly():
+    global anomalies_df
+    anomaly = request.json
+    
+    # Konwersja do DataFrame (pojedynczy rekord)
+    new_entry = pd.DataFrame([anomaly])
+    
+    # Doklejamy do globalnego DataFrame
+    anomalies_df = pd.concat([anomalies_df, new_entry], ignore_index=True)
+    
+    print(f"Nowa anomalia: {anomaly.get('title')} - {anomaly.get('comment')}")
+    return jsonify({"status": "ok"}), 200
 
-# Endpointy danych bazowych
-@app.route("/products", methods=["GET"])
-def get_products():
-    return jsonify(load_data(PRODUCTS_FILE))
-
-@app.route("/users", methods=["GET"])
-def get_users():
-    return jsonify(load_data(USERS_FILE))
-
-@app.route("/carts", methods=["GET"])
-def get_carts():
-    return jsonify(load_data(CARTS_FILE))
-
-# Endpoint dodawania anomalii
-@app.route("/anomalies/live", methods=["POST"])
-def post_anomalies():
-    anomalia = request.get_json()
-    anomalia["timestamp"] = datetime.now().isoformat()
-    anomalie_bufor.append(anomalia)
-    return jsonify({"status": "wykryto anomalie", "liczba": len(anomalie_bufor)})
-
-# Endpoint pobierania anomalii
-@app.route("/anomalies/live", methods=["GET"])
+@app.route('/anomalies', methods=['GET'])
 def get_anomalies():
-    return Response(
-        json.dumps(anomalie_bufor, indent=2, ensure_ascii=False),
-        mimetype="application/json"
-    )
+    global anomalies_df
+    # Zwracamy JSON z wszystkimi anomaliami
+    return anomalies_df.to_json(orient='records'), 200
 
-if __name__ == "__main__":
-    app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True, port=5000)
