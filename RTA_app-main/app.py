@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, 'data')
-
+print("Czy products.json istnieje?", os.path.exists(os.path.join(DATA_DIR, 'products.json')))
 # Tworzymy folder data, jeśli nie istnieje
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
