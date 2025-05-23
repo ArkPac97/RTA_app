@@ -6,7 +6,7 @@ from flask import Flask, jsonify, request
 app = Flask(__name__)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, '..', 'data')
+DATA_DIR = os.path.join(BASE_DIR, 'data')
 
 # Tworzymy folder data, jeśli nie istnieje
 if not os.path.exists(DATA_DIR):
