@@ -3,19 +3,21 @@ import json
 import os
 import requests
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
-CARTS_FILE = os.path.join(DATA_DIR, "carts.json")
-USERS_FILE = os.path.join(DATA_DIR, "users.json")
+# Ścieżki do plików
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CARTS_PATH = os.path.join(BASE_DIR, 'data', 'carts.json')
+USERS_PATH = os.path.join(BASE_DIR, 'data', 'users.json')
 
-with open(CARTS_FILE, "r", encoding="utf-8") as f:
+# Wczytanie danych
+with open(CARTS_PATH, 'r', encoding='utf-8') as f:
     carts = json.load(f)
-with open(USERS_FILE, "r", encoding="utf-8") as f:
+
+with open(USERS_PATH, 'r', encoding='utf-8') as f:
     users = json.load(f)
 
-cart_map = {c["id"]: c for c in carts}
 user_map = {u["id"]: u for u in users}
 
-# konsument
+# Konfiguracja konsumenta
 consumer = KafkaConsumer(
     'products',
     bootstrap_servers='localhost:9092',
@@ -24,41 +26,23 @@ consumer = KafkaConsumer(
     enable_auto_commit=True
 )
 
-print("Nasłuchiwanie anomalii marżowych")
+print("[MARGIN] Nasłuchiwanie anomalii marżowych...")
 
+# Pętla nasłuchująca
 for message in consumer:
     product = message.value
-    price = product["price"]
+    price = product.get("price", 0)
     cost = product.get("cost_price", 0)
-    margin = round((price - cost) / price, 4) if price > 0 else -1
     discount = product.get("discount", 0)
+    margin = round((price - cost) / price, 4) if price > 0 else -1
 
-    anomaly = None
-
-    if margin < 0:
-        anomaly = {
-            "anomaly_type": "critical_margin",
-            "comment": "Marża poniżej zera"
-        }
-    elif margin == 0:
-        anomaly = {
-            "anomaly_type": "critical_margin",
-            "comment": "Marża równa 0"
-        }
-    elif margin < 0.2:
-        anomaly = {
-            "anomaly_type": "alert_margin",
-            "comment": "Marża poniżej 20%"
-        }
-
-    if anomaly:
-        # koszyki zawierające produkt
+    # Sprawdzenie progu marży
+    if margin < 0.2:
         for cart in carts:
             for item in cart["products"]:
                 if item["productId"] == product["id"]:
                     user = user_map.get(cart["userId"], {})
                     payload = {
-                        "source": "margin",
                         "cartId": cart["id"],
                         "productId": product["id"],
                         "title": product["title"],
@@ -67,10 +51,12 @@ for message in consumer:
                         "price": price,
                         "cost_price": cost,
                         "user": user,
-                        **anomaly
+                        "source": "margin",
+                        "anomaly_type": "alert_margin",
+                        "comment": f"Marża poniżej 20% ({margin * 100:.1f}%)"
                     }
                     try:
                         r = requests.post("http://localhost:5000/anomalies/live", json=payload)
-                        print(f"Anomalia marżowa {payload['title']} ({payload['comment']}) {payload['price']} - {payload['cost_price']}")
+                        print(f"[MARGIN] Wysłano anomalię: {payload['title']} (marża: {margin * 100:.1f}%)")
                     except Exception as e:
-                        print(f"Błąd wysyłania {e}")
+                        print(f"[MARGIN] Błąd wysyłania: {e}")
