@@ -3,19 +3,18 @@ import json
 import os
 import requests
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
-CARTS_FILE = os.path.join(DATA_DIR, "carts.json")
-USERS_FILE = os.path.join(DATA_DIR, "users.json")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CARTS_PATH = os.path.join(BASE_DIR, 'data', 'carts.json')
+USERS_PATH = os.path.join(BASE_DIR, 'data', 'users.json')
 
-with open(CARTS_FILE, "r", encoding="utf-8") as f:
+with open(CARTS_PATH, 'r', encoding='utf-8') as f:
     carts = json.load(f)
-with open(USERS_FILE, "r", encoding="utf-8") as f:
+
+with open(USERS_PATH, 'r', encoding='utf-8') as f:
     users = json.load(f)
 
-cart_map = {c["id"]: c for c in carts}
 user_map = {u["id"]: u for u in users}
 
-# konsument
 consumer = KafkaConsumer(
     'products',
     bootstrap_servers='localhost:9092',
@@ -24,14 +23,11 @@ consumer = KafkaConsumer(
     enable_auto_commit=True
 )
 
-print("Nasłuchiwanie anomalii rabatowych")
+print("[DISCOUNT] Nasłuchiwanie anomalii rabatowych...")
 
 for message in consumer:
     product = message.value
-    price = product["price"]
-    cost = product.get("cost_price", 0)
     discount = product.get("discount", 0)
-    margin = round((price - cost) / price, 4) if price > 0 else -1
 
     if discount > 45:
         for cart in carts:
@@ -42,8 +38,10 @@ for message in consumer:
                         "cartId": cart["id"],
                         "productId": product["id"],
                         "title": product["title"],
-                        "margin": margin,
+                        "margin": round((product["price"] - product.get("cost_price", 0)) / product["price"], 4),
                         "discount": discount,
+                        "price": product["price"],
+                        "cost_price": product.get("cost_price", 0),
                         "user": user,
                         "source": "discount",
                         "anomaly_type": "alert_discount",
@@ -51,6 +49,6 @@ for message in consumer:
                     }
                     try:
                         r = requests.post("http://localhost:5000/anomalies/live", json=payload)
-                        print(f"Anomalia rabatowa {payload['title']} ({discount}%)")
+                        print(f"[DISCOUNT] Wysłano anomalię: {payload['title']} (rabat: {discount}%)")
                     except Exception as e:
-                        print(f"Błąd wysyłania {e}")
+                        print(f"[DISCOUNT] Błąd wysyłania: {e}")
