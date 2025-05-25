@@ -7,6 +7,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CARTS_PATH = os.path.join(BASE_DIR, 'data', 'carts.json')
 USERS_PATH = os.path.join(BASE_DIR, 'data', 'users.json')
 
+#zdefiniowanie funkcji load_carts, która służy do wczytywanie pliku z aktualnymi statusami blokady koszyków
 def load_carts():
     with open(CARTS_PATH, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -28,6 +29,7 @@ print("[DISCOUNT] Nasłuchiwanie anomalii rabatowych...")
 
 for message in consumer:
     product = message.value
+    carts = load_carts()
     discount = product.get("discount", 0)
 
     if discount > 45:
