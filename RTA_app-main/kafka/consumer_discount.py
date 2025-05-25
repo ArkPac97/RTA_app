@@ -7,8 +7,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CARTS_PATH = os.path.join(BASE_DIR, 'data', 'carts.json')
 USERS_PATH = os.path.join(BASE_DIR, 'data', 'users.json')
 
-with open(CARTS_PATH, 'r', encoding='utf-8') as f:
-    carts = json.load(f)
+def load_carts():
+    with open(CARTS_PATH, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
 with open(USERS_PATH, 'r', encoding='utf-8') as f:
     users = json.load(f)
@@ -31,6 +32,10 @@ for message in consumer:
 
     if discount > 45:
         for cart in carts:
+            # jeśli koszyk jest zablokowany, consumer nie pozwoli na dodanie kolejnego produktu do niego
+            if cart.get("blocked"):
+                continue
+
             for item in cart["products"]:
                 if item["productId"] == product["id"]:
                     user = user_map.get(cart["userId"], {})
