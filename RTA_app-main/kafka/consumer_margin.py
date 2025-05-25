@@ -9,6 +9,8 @@ CARTS_PATH = os.path.join(BASE_DIR, 'data', 'carts.json')
 USERS_PATH = os.path.join(BASE_DIR, 'data', 'users.json')
 
 # Wczytanie danych
+
+##zdefiniowanie funkcji load_carts, która służy do wczytywanie pliku z aktualnymi statusami blokady koszyków
 def load_carts():
     with open(CARTS_PATH, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -32,6 +34,7 @@ print("[MARGIN] Nasłuchiwanie anomalii marżowych...")
 # Pętla nasłuchująca
 for message in consumer:
     product = message.value
+    carts = load_carts()
     price = product.get("price", 0)
     cost = product.get("cost_price", 0)
     discount = product.get("discount", 0)
