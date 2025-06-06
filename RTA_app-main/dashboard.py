@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 from streamlit_autorefresh import st_autorefresh
+import requests
 
 # Odświeżanie co 10 sekund z unikalnym kluczem
 count = st_autorefresh(interval=10_000, key="refresh")
@@ -36,3 +37,25 @@ ax2.set_title("Rozkład rabatu w anomaliach rabatowych")
 ax2.set_xlabel("Rabat (%)")
 ax2.set_ylabel("Liczba produktów")
 st.pyplot(fig2)
+
+@st.cache_data(ttl=10)
+def fetch_blocked_carts():
+    try:
+        response = requests.get("http://localhost:5000/carts/blocked")
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return []
+    except Exception as e:
+        st.error(f"Błąd pobierania zablokowanych koszyków: {e}")
+        return []
+
+blocked_carts = fetch_blocked_carts()
+
+st.subheader("Zablokowane koszyki")
+st.write(f"Liczba zablokowanych koszyków: {len(blocked_carts)}")
+
+if blocked_carts:
+    st.dataframe(blocked_carts)
+else:
+    st.info("Brak zablokowanych koszyków")
